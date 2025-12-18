@@ -90,17 +90,18 @@ Haonan Li, Tian Pan, Jin Ke, Baohai Hu, Changgang Zheng, Enge Song, Zhi Xu, Ye Y
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
 
-# 🎖 Honors and Awards
-- To be added... 
+<!-- # 🎖 Honors and Awards
+- To be added...  -->
 
 # 📖 Educations
 - *2023.09 - Present*, **Ph.D. in Computer Science**, Shanghai Jiao Tong University, Shanghai, China
   - Advisor: Prof. Bo Jiang
   - Research Focus: Networking4AI, Distributed Systems, AI Infrastructure
 - *2019.09 - 2023.06*, **B.Eng. in Computer Science**, Beijing University of Posts and Telecommunications, Beijing, China
+  - Rank: Top 3% in major 
 
-# 💬 Invited Talks
-- To be added...
+<!-- # 💬 Invited Talks
+- To be added... -->
 
 # 💻 Internships
 - *2025.01 - Present*, **Research Intern**, Luoshen Cloud Networking Research Team, Alibaba Cloud
