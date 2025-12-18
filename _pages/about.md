@@ -27,7 +27,7 @@ My research interests lie in **networking4AI**, **distributed systems**, and **A
 # 🔥 News
 - *2025.12*: &nbsp;🎉🎉 Two papers ("Bifrost" and "CStar Gateway") have been accepted by NSDI 2026!
 - *2025.03*: &nbsp;🎉 Our paper "Understanding the Long Tail Latency of TCP in Large-Scale Cloud Networks" has been accepted by APNet 2025!
-- *2025.01*: &nbsp; Started as Research Intern at Alibaba Cloud - Luoshen Cloud Networking Research Team.
+- *2025.01*: &nbsp; Started as Research Intern at Alibaba Cloud - **Luoshen** Cloud Networking Research Team.
 - *2024.08*: &nbsp; Joined Alibaba Cloud as Alibaba Innovative Research Intern. 
 
 # 📝 Publications 
