@@ -28,8 +28,7 @@ My research interests lie in **networking4AI**, **distributed systems**, and **A
 - *2025.12*: &nbsp;🎉🎉 Two papers ("Bifrost" and "CStar Gateway") have been accepted by NSDI'26!
 - *2025.03*: &nbsp;🎉 Our paper "Understanding the Long Tail Latency of TCP in Large-Scale Cloud Networks" has been accepted by APNet 2025!
 - *2025.01*: &nbsp; Started as Research Intern at Alibaba Cloud - Luoshen Cloud Networking Research Team.
-- *2024.08*: &nbsp; Joined Alibaba Cloud as Alibaba Innovative Research Intern.
-- *2023.09*: &nbsp; Started Ph.D. journey at Shanghai Jiao Tong University. 
+- *2024.08*: &nbsp; Joined Alibaba Cloud as Alibaba Innovative Research Intern. 
 
 # 📝 Publications 
 
@@ -60,6 +59,22 @@ Haonan Li, Tian Pan, Jin Ke, Baohai Hu, Changgang Zheng, Enge Song, Zhi Xu, Ye Y
 
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSDI 2026</div><img src='images/real.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Real: Efficient Distributed Training of Dynamic GNNs with Reuse-Aware Load Balancing Scheduling](https://jayfzh.github.io)
+
+**Zihao Fan** Yunzhuo Liu, Bo Jiang, Tian Guo
+
+Preprint
+
+
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">APNet 2025</div><img src='images/apnet2025.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
