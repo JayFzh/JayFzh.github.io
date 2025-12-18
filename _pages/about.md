@@ -25,11 +25,24 @@ I am currently a Research Intern at the **Luoshen Cloud Network Research Team**,
 
 
 # 🔥 News
+- *2025.03*: &nbsp;🎉🎉 Our paper "Understanding the Long Tail Latency of TCP in Large-Scale Cloud Networks" has been accepted by APNet 2025!
 - *2025.01*: &nbsp;🎉 Started as Research Intern at Alibaba Cloud - Luoshen Cloud Networking Research Team.
 - *2024.08*: &nbsp;🎉 Joined Alibaba Cloud as Alibaba Innovative Research Intern.
 - *2023.09*: &nbsp;🎉 Started Ph.D. journey at Shanghai Jiao Tong University. 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APNet 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Understanding the Long Tail Latency of TCP in Large-Scale Cloud Networks](https://github.com)
+
+**Zihao Fan**, Enge Song, Bo Jiang, Yang Song, Yuke Hong, Bowen Yang, Yilong Lv, Junnan Cai, Chao Wang, Yi Wang, Yehao Feng, Dian Fan, Ye Yang, Shize Zhang, Xiaoqing Sun, Jianyuan Lu, Xing Li, Jun Liang, Biao Lyu, Zhigang Zong, Shunmin Zhu
+
+**APNet 2025**, Shanghai, China
+- This paper investigates the long tail latency issues of TCP in large-scale cloud networks.
+</div>
+</div>
 
 <!-- 暂时注释掉示例论文
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
