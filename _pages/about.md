@@ -33,7 +33,7 @@ I am currently a Research Intern at the **Luoshen Cloud Network Research Team**,
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSDI 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSDI 2026</div><img src='images/nsdi26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Bifrost: Alibaba's Next-Generation VPC Network with High-Performance Multipath Reliable Transport](https://github.com)
