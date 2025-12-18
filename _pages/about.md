@@ -42,7 +42,6 @@ My research interests lie in **networking4AI**, **distributed systems**, and **A
 **NSDI'26**, Renton, USA 
 
 **[CCF A]** Acceptance Rate: 100/452=22.1%
-
 </div>
 </div>
 
@@ -56,7 +55,6 @@ Haonan Li, Tian Pan, Jin Ke, Baohai Hu, Changgang Zheng, Enge Song, Zhi Xu, Ye Y
 **NSDI'26**, Renton, USA 
 
 **[CCF A]** Acceptance Rate: 100/452=22.1%
-
 </div>
 </div>
 
@@ -69,14 +67,10 @@ Haonan Li, Tian Pan, Jin Ke, Baohai Hu, Changgang Zheng, Enge Song, Zhi Xu, Ye Y
 **Zihao Fan**, Yunzhuo Liu, Bo Jiang, Tian Guo
 
 Preprint
-
-
 </div>
 </div>
 
 
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/cornucopia.png' alt="sym" width="70%"></div></div>
@@ -87,8 +81,6 @@ Preprint
 Zimeng Huang, Shjian Li, **Zihao Fan**, Bo Jiang, Tian Guo
 
 Preprint
-
-
 </div>
 </div>
 
