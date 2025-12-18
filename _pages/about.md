@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in the Department of Computer Science and Engineering at **Shanghai Jiao Tong University**, advised by [Prof. Bo Jiang](https://www.cs.sjtu.edu.cn/~jiang-bo/). Before that, I received BEng in CS from Beijing University of Posts and Telecommunications (BUPT) in 2019. I am currently a Research Intern at the **Luoshen Cloud Network Research Team**, Alibaba Cloud, focusing on large-scale network systems.
+I am a Ph.D. student in the Department of Computer Science and Engineering at **Shanghai Jiao Tong University (SJTU)**, advised by [Prof. Bo Jiang](https://www.cs.sjtu.edu.cn/~jiang-bo/). Before that, I received BEng in Computer Science from Beijing University of Posts and Telecommunications (BUPT) in 2019. I am currently a Research Intern at the **Luoshen Cloud Network Research Team**, Alibaba Cloud, focusing on large-scale network systems.
 
 My research interests lie in **networking4AI**, **distributed systems**, and **AI infrastructure**. Recently, I have been focusing on transport protocols and efficient distributed training of dynamic graphs. 
 
@@ -36,11 +36,30 @@ My research interests lie in **networking4AI**, **distributed systems**, and **A
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSDI 2026</div><img src='images/nsdi26.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Bifrost: Alibaba's Next-Generation VPC Network with High-Performance Multipath Reliable Transport](https://github.com)
+[Bifrost: Alibaba's Next-Generation VPC Network with High-Performance Multipath Reliable Transport](https://jayfzh.github.io)
 
 **Zihao Fan**, Xing Li, Ye Yang, Bo Jiang, Bowen Yang, Yilong Lv, Yuke Hong, Yinian Zhou, Junnan Cai, Jiayue Xu, Yunrui Hu, Zhao Gao, Ke Sun, Yimin Liu, Xiangdong Zhang, Enge Song, Jianyuan Lu, Xiaoqing Sun, Shize Zhang, Haonan Li, Mingxin Li, Changgang Zheng, Song Yang, Jun Liang, Biao Lyu, Rong Wen, Zhigang Zong, Shunmin Zhu
 
-**NSDI 2026**
+**NSDI'26**, USA, Renton
+\
+[CCF A] (Acceptance Rate: 100/452=22.1%)
+\
+(Papers to be released)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSDI 2026</div><img src='images/nsdi26.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CStar Gateway: Augmenting Public Cloud Infrastructure for Heterogeneous Network Function Virtualization](https://jayfzh.github.io)
+
+Haonan Li, Tian Pan, Jin Ke, Baohai Hu, Changgang Zheng, Enge Song, Zhi Xu, Ye Yang, Bowen Yang, Donglin Lai, Yisong Qiao, Bengbeng Xue, Jianyuan Lu, Xiaoqing Sun, Shize Zhang, **Zihao Fan**, Mingxin Li, Song Yang, Jun Liang, Xionglie Wei, Biao Lyu, Rong Wen, Zhigang Zong, Jiao Zhang, Tao Huang, Shunmin Zhu
+
+**NSDI'26**, USA, Renton
+\
+[CCF A] (Acceptance Rate: 100/452=22.1%)
+\
+(Papers to be released)
 </div>
 </div>
 
@@ -52,6 +71,8 @@ My research interests lie in **networking4AI**, **distributed systems**, and **A
 **Zihao Fan**, Enge Song, Bo Jiang, Yang Song, Yuke Hong, Bowen Yang, Yilong Lv, Junnan Cai, Chao Wang, Yi Wang, Yehao Feng, Dian Fan, Ye Yang, Shize Zhang, Xiaoqing Sun, Jianyuan Lu, Xing Li, Jun Liang, Biao Lyu, Zhigang Zong, Shunmin Zhu
 
 **APNet 2025**, Shanghai, China
+\
+[CCF C] (Acceptance Rate: 34/133=25.6%)
 </div>
 </div>
 
