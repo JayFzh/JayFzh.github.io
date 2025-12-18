@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zihao Fan (范子豪)"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/zihao.png"
   bio              : "Ph.D. Student @ Shanghai Jiao Tong University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "fzh2000@sjtu.edu.cn"
+  email            : "fzhsjtu2023@sjtu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
