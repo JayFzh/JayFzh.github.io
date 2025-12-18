@@ -66,7 +66,7 @@ Haonan Li, Tian Pan, Jin Ke, Baohai Hu, Changgang Zheng, Enge Song, Zhi Xu, Ye Y
 
 [Real: Efficient Distributed Training of Dynamic GNNs with Reuse-Aware Load Balancing Scheduling](https://jayfzh.github.io)
 
-**Zihao Fan** Yunzhuo Liu, Bo Jiang, Tian Guo
+**Zihao Fan**, Yunzhuo Liu, Bo Jiang, Tian Guo
 
 Preprint
 
@@ -75,8 +75,25 @@ Preprint
 </div>
 
 
+</div>
+</div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APNet 2025</div><img src='images/apnet2025.png' alt="sym" width="50%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/cornucopia.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Cornucopia: Elastic GPU Cluster Management for Mixed Batch-Interactive Distributed Training](https://jayfzh.github.io)
+
+Zimeng Huang, Shjian Li, **Zihao Fan**, Bo Jiang, Tian Guo
+
+Preprint
+
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APNet 2025</div><img src='images/apnet2025.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Understanding the Long Tail Latency of TCP in Large-Scale Cloud Networks](https://jhc.sjtu.edu.cn/~bjiang/papers/Fan_APNet2025_TCP.pdf)
