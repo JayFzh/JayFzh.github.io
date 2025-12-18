@@ -61,7 +61,7 @@ Haonan Li, Tian Pan, Jin Ke, Baohai Hu, Changgang Zheng, Enge Song, Zhi Xu, Ye Y
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSDI 2026</div><img src='images/real.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/real.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Real: Efficient Distributed Training of Dynamic GNNs with Reuse-Aware Load Balancing Scheduling](https://jayfzh.github.io)
