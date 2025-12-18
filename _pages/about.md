@@ -32,7 +32,7 @@ I am currently a Research Intern at the **Luoshen Cloud Network Research Team**,
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APNet 2025</div><img src='images/apnet2025.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APNet 2025</div><img src='images/apnet2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Understanding the Long Tail Latency of TCP in Large-Scale Cloud Networks](https://jhc.sjtu.edu.cn/~bjiang/papers/Fan_APNet2025_TCP.pdf)
@@ -40,7 +40,6 @@ I am currently a Research Intern at the **Luoshen Cloud Network Research Team**,
 **Zihao Fan**, Enge Song, Bo Jiang, Yang Song, Yuke Hong, Bowen Yang, Yilong Lv, Junnan Cai, Chao Wang, Yi Wang, Yehao Feng, Dian Fan, Ye Yang, Shize Zhang, Xiaoqing Sun, Jianyuan Lu, Xing Li, Jun Liang, Biao Lyu, Zhigang Zong, Shunmin Zhu
 
 **APNet 2025**, Shanghai, China
-<!-- - This paper investigates the long tail latency issues of TCP in large-scale cloud networks. -->
 </div>
 </div>
 
