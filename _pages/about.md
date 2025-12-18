@@ -26,14 +26,14 @@ I am currently a Research Intern at the **Luoshen Cloud Network Research Team**,
 
 # 🔥 News
 - *2025.12*: &nbsp;🎉🎉 Our paper "Bifrost: Alibaba's Next-Generation VPC Network with High-Performance Multipath Reliable Transport" has been accepted by NSDI'26!
-- *2025.03*: &nbsp;🎉🎉 Our paper "Understanding the Long Tail Latency of TCP in Large-Scale Cloud Networks" has been accepted by APNet 2025!
-- *2025.01*: &nbsp;🎉 Started as Research Intern at Alibaba Cloud - Luoshen Cloud Networking Research Team.
-- *2024.08*: &nbsp;🎉 Joined Alibaba Cloud as Alibaba Innovative Research Intern.
-- *2023.09*: &nbsp;🎉 Started Ph.D. journey at Shanghai Jiao Tong University. 
+- *2025.03*: &nbsp;🎉 Our paper "Understanding the Long Tail Latency of TCP in Large-Scale Cloud Networks" has been accepted by APNet 2025!
+- *2025.01*: &nbsp; Started as Research Intern at Alibaba Cloud - Luoshen Cloud Networking Research Team.
+- *2024.08*: &nbsp; Joined Alibaba Cloud as Alibaba Innovative Research Intern.
+- *2023.09*: &nbsp; Started Ph.D. journey at Shanghai Jiao Tong University. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSDI 2026</div><img src='images/nsdi26.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSDI 2026</div><img src='images/nsdi26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Bifrost: Alibaba's Next-Generation VPC Network with High-Performance Multipath Reliable Transport](https://github.com)
@@ -44,7 +44,7 @@ I am currently a Research Intern at the **Luoshen Cloud Network Research Team**,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APNet 2025</div><img src='images/apnet2025.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APNet 2025</div><img src='images/apnet2025.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Understanding the Long Tail Latency of TCP in Large-Scale Cloud Networks](https://jhc.sjtu.edu.cn/~bjiang/papers/Fan_APNet2025_TCP.pdf)
