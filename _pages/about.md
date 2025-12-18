@@ -25,12 +25,24 @@ I am currently a Research Intern at the **Luoshen Cloud Network Research Team**,
 
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 Our paper "Bifrost: Alibaba's Next-Generation VPC Network with High-Performance Multipath Reliable Transport" has been accepted by NSDI'26!
 - *2025.03*: &nbsp;🎉🎉 Our paper "Understanding the Long Tail Latency of TCP in Large-Scale Cloud Networks" has been accepted by APNet 2025!
 - *2025.01*: &nbsp;🎉 Started as Research Intern at Alibaba Cloud - Luoshen Cloud Networking Research Team.
 - *2024.08*: &nbsp;🎉 Joined Alibaba Cloud as Alibaba Innovative Research Intern.
 - *2023.09*: &nbsp;🎉 Started Ph.D. journey at Shanghai Jiao Tong University. 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSDI 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Bifrost: Alibaba's Next-Generation VPC Network with High-Performance Multipath Reliable Transport](https://github.com)
+
+**Zihao Fan**, Xing Li, Ye Yang, Bo Jiang, Bowen Yang, Yilong Lv, Yuke Hong, Yinian Zhou, Junnan Cai, Jiayue Xu, Yunrui Hu, Zhao Gao, Ke Sun, Yimin Liu, Xiangdong Zhang, Enge Song, Jianyuan Lu, Xiaoqing Sun, Shize Zhang, Haonan Li, Mingxin Li, Changgang Zheng, Song Yang, Jun Liang, Biao Lyu, Rong Wen, Zhigang Zong, Shunmin Zhu
+
+**NSDI 2026**
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">APNet 2025</div><img src='images/apnet2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
