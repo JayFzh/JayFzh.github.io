@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in the Department of Computer Science and Engineering at **Shanghai Jiao Tong University**, advised by [Prof. Bo Jiang](https://www.cs.sjtu.edu.cn/~jiang-bo/). 
+I am a Ph.D. student in the Department of Computer Science and Engineering at **Shanghai Jiao Tong University**, advised by [Prof. Bo Jiang](https://www.cs.sjtu.edu.cn/~jiang-bo/). Before that, I received BEng in CS from Beijing University of Posts and Telecommunications (BUPT) in 2019. I am currently a Research Intern at the **Luoshen Cloud Network Research Team**, Alibaba Cloud, focusing on large-scale network systems.
 
 My research interests lie in **networking4AI**, **distributed systems**, and **AI infrastructure**. Recently, I have been focusing on transport protocols and efficient distributed training of dynamic graphs. 
 
-I am currently a Research Intern at the **Luoshen Cloud Network Research Team**, Alibaba Cloud, focusing on large-scale network systems.
+
 
 
 # 🔥 News
@@ -33,7 +33,7 @@ I am currently a Research Intern at the **Luoshen Cloud Network Research Team**,
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSDI 2026</div><img src='images/nsdi26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSDI 2026</div><img src='images/nsdi26.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Bifrost: Alibaba's Next-Generation VPC Network with High-Performance Multipath Reliable Transport](https://github.com)
