@@ -105,6 +105,6 @@ Haonan Li, Tian Pan, Jin Ke, Baohai Hu, Changgang Zheng, Enge Song, Zhi Xu, Ye Y
 
 # 💻 Internships
 - *2025.01 - Present*, **Research Intern**, Luoshen Cloud Networking Research Team, Alibaba Cloud
-  - Focus: Large-scale network systems
+  - Focus: Large-scale network systems and AI infra
 - *2024.08 - 2025.01*, **Alibaba Innovative Research Intern**, Luoshen Cloud Networking R&D Team, Alibaba Cloud
-  - Focus: Transport protocols and distributed training
+  - Focus: Transport protocols and virtual private cloud (VPC)
