@@ -78,7 +78,7 @@ Preprint
 
 [Cornucopia: Elastic GPU Cluster Management for Mixed Batch-Interactive Distributed Training](https://jayfzh.github.io)
 
-Zimeng Huang, Shjian Li, **Zihao Fan**, Bo Jiang, Tian Guo
+Zimeng Huang, Shijian Li, **Zihao Fan**, Bo Jiang, Tian Guo
 
 Preprint
 </div>
