@@ -37,7 +37,7 @@ My research interests lie in **networking4AI**, **distributed systems**, and **A
 
 [Bifrost: Alibaba's Next-Generation VPC Network with High-Performance Multipath Reliable Transport](https://jayfzh.github.io)
 
-**Zihao Fan**, Xing Li, <u>[Ye Yang](https://yangye-huaizhou.github.io/)</u>, Bo Jiang, Bowen Yang, Yilong Lv, Yuke Hong, Yinian Zhou, Junnan Cai, Jiayue Xu, Yunrui Hu, Zhao Gao, Ke Sun, Yimin Liu, Xiangdong Zhang, <u>[Enge Song](https://ng-95.github.io//)</u>, <u>[Jianyuan Lu](https://thlujy.github.io/)</u>, Xiaoqing Sun, Shize Zhang, Haonan Li, Mingxin Li, <u>[Changgang Zheng](https://changgang-zheng.github.io/Home-Page/)</u>, Song Yang, Jun Liang, Biao Lyu, Rong Wen, Zhigang Zong, Shunmin Zhu
+**Zihao Fan**, Xing Li, [Ye Yang](https://yangye-huaizhou.github.io/), Bo Jiang, Bowen Yang, Yilong Lv, Yuke Hong, Yinian Zhou, Junnan Cai, Jiayue Xu, Yunrui Hu, Zhao Gao, Ke Sun, Yimin Liu, Xiangdong Zhang, [Enge Song](https://ng-95.github.io//), [Jianyuan Lu](https://thlujy.github.io/), Xiaoqing Sun, Shize Zhang, Haonan Li, Mingxin Li, [Changgang Zheng](https://changgang-zheng.github.io/Home-Page/), Song Yang, Jun Liang, Biao Lyu, Rong Wen, Zhigang Zong, Shunmin Zhu
 
 **NSDI'26**, Renton, USA 
 
@@ -50,7 +50,7 @@ My research interests lie in **networking4AI**, **distributed systems**, and **A
 
 [CStar Gateway: Augmenting Public Cloud Infrastructure for Heterogeneous Network Function Virtualization](https://jayfzh.github.io)
 
-Haonan Li, Tian Pan, Jin Ke, Baohai Hu, <u>[Changgang Zheng](https://changgang-zheng.github.io/Home-Page/)</u>, <u>[Enge Song](https://ng-95.github.io//)</u>, Zhi Xu, <u>[Ye Yang](https://yangye-huaizhou.github.io/)</u>, Bowen Yang, Donglin Lai, Yisong Qiao, Bengbeng Xue, <u>[Jianyuan Lu](https://thlujy.github.io/)</u>, Xiaoqing Sun, Shize Zhang, **Zihao Fan**, Mingxin Li, Song Yang, Jun Liang, Xionglie Wei, Biao Lyu, Rong Wen, Zhigang Zong, Jiao Zhang, Tao Huang, Shunmin Zhu
+Haonan Li, Tian Pan, Jin Ke, Baohai Hu, [Changgang Zheng](https://changgang-zheng.github.io/Home-Page/), [Enge Song](https://ng-95.github.io//), Zhi Xu, [Ye Yang](https://yangye-huaizhou.github.io/), Bowen Yang, Donglin Lai, Yisong Qiao, Bengbeng Xue, [Jianyuan Lu](https://thlujy.github.io/), Xiaoqing Sun, Shize Zhang, **Zihao Fan**, Mingxin Li, Song Yang, Jun Liang, Xionglie Wei, Biao Lyu, Rong Wen, Zhigang Zong, Jiao Zhang, Tao Huang, Shunmin Zhu
 
 **NSDI'26**, Renton, USA 
 
@@ -64,7 +64,7 @@ Haonan Li, Tian Pan, Jin Ke, Baohai Hu, <u>[Changgang Zheng](https://changgang-z
 
 [Real: Efficient Distributed Training of Dynamic GNNs with Reuse-Aware Load Balancing Scheduling](https://jayfzh.github.io)
 
-**Zihao Fan**, <u>[Yunzhuo Liu](https://liu445126256.github.io/)</u>, Bo Jiang, Tian Guo
+**Zihao Fan**, [Yunzhuo Liu](https://liu445126256.github.io/), Bo Jiang, Tian Guo
 
 Preprint
 </div>
@@ -90,7 +90,7 @@ Preprint
 
 [Understanding the Long Tail Latency of TCP in Large-Scale Cloud Networks](https://jhc.sjtu.edu.cn/~bjiang/papers/Fan_APNet2025_TCP.pdf)
 
-**Zihao Fan**, <u>[Enge Song](https://ng-95.github.io//)</u>, Bo Jiang, Yang Song, Yuke Hong, Bowen Yang, Yilong Lv, Junnan Cai, Chao Wang, Yi Wang, Yehao Feng, Dian Fan, <u>[Ye Yang](https://yangye-huaizhou.github.io/)</u>, Shize Zhang, Xiaoqing Sun, <u>[Jianyuan Lu](https://thlujy.github.io/)</u>, Xing Li, Jun Liang, Biao Lyu, Zhigang Zong, Shunmin Zhu
+**Zihao Fan**, [Enge Song](https://ng-95.github.io//), Bo Jiang, Yang Song, Yuke Hong, Bowen Yang, Yilong Lv, Junnan Cai, Chao Wang, Yi Wang, Yehao Feng, Dian Fan, [Ye Yang](https://yangye-huaizhou.github.io/), Shize Zhang, Xiaoqing Sun, [Jianyuan Lu](https://thlujy.github.io/), Xing Li, Jun Liang, Biao Lyu, Zhigang Zong, Shunmin Zhu
 
 **APNet 2025**, Shanghai, China
 
