@@ -128,9 +128,9 @@ Preprint
 - To be added... -->
 
 # 💻 Internships
-- *2025.01 - Present*, **Research Intern**, Luoshen Cloud Networking Research Team, Alibaba Cloud
+- *2025.01 - Present*, **Research Intern**, Luoshen Cloud Networking Research Team, Alibaba Cloud, Hangzhou
   - Focus: Large-scale network systems and AI infra
-- *2024.08 - 2025.01*, **AIR Intern**, Luoshen Cloud Networking R&D Team, Alibaba Cloud
+- *2024.08 - 2025.01*, **AIR Intern**, Luoshen Cloud Networking R&D Team, Alibaba Cloud, Hangzhou
   - Focus: Transport protocols and virtual private cloud (VPC)
-- *2021.04 - 2021.09*, **Reseach Assitant**, Wangxuan Institute of Computer Technology, Peking University
+- *2021.04 - 2021.09*, **Reseach Assitant**, Wangxuan Institute of Computer Technology, Peking University, Beijing
   - Foucs: Computer vision and object detection
