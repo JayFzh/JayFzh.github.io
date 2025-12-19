@@ -92,7 +92,7 @@ Preprint
 
 **Zihao Fan**, [Enge Song](https://ng-95.github.io//), Bo Jiang, Yang Song, Yuke Hong, Bowen Yang, Yilong Lv, Junnan Cai, Chao Wang, Yi Wang, Yehao Feng, Dian Fan, [Ye Yang](https://yangye-huaizhou.github.io/), Shize Zhang, Xiaoqing Sun, [Jianyuan Lu](https://thlujy.github.io/), Xing Li, Jun Liang, Biao Lyu, Zhigang Zong, Shunmin Zhu
 
-**APNet 2025**, Shanghai, China
+**APNet'25**, Shanghai, China
 
 **[CCF C]** Acceptance Rate: 34/133=25.6%
 </div>
