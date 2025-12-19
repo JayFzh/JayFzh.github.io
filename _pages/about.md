@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in the Department of Computer Science and Engineering at **Shanghai Jiao Tong University (SJTU)**, advised by [Prof. Bo Jiang](https://jhc.sjtu.edu.cn/~bjiang/). Before that, I received BEng in Computer Science from Beijing University of Posts and Telecommunications (BUPT) in 2023. I am currently a Research Intern at the **Luoshen Cloud Network Research Team**, Alibaba Cloud, focusing on large-scale network systems.
+I am a Ph.D. student in the Department of Computer Science and Engineering at **Shanghai Jiao Tong University (SJTU)**, advised by [Prof. Bo Jiang](https://jhc.sjtu.edu.cn/~bjiang/). Before that, I received B.Eng. in Computer Science from Beijing University of Posts and Telecommunications (BUPT) in 2023. I am currently a Research Intern at the **Luoshen Cloud Network Research Team**, Alibaba Cloud, focusing on large-scale network systems.
 
 My research interests lie in **networking4AI**, **distributed systems**, and **AI infrastructure**. Recently, I have been focusing on performance optimization for disaggregated LLM serving, particularly on the networking side. 
 
