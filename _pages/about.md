@@ -132,5 +132,5 @@ Preprint
   - Focus: Large-scale network systems and AI infra
 - *2024.08 - 2025.01*, **AIR Intern**, Luoshen Cloud Networking R&D Team, Alibaba Cloud
   - Focus: Transport protocols and virtual private cloud (VPC)
-- *2021.04 - 2021.09*， **Reseach Assitant**, Wangxuan Institute of Computer Technology, Peking University
+- *2021.04 - 2021.09*, **Reseach Assitant**, Wangxuan Institute of Computer Technology, Peking University
   - Foucs: Computer vision and object detection
