@@ -35,7 +35,7 @@ My research interests lie in **networking4AI**, **distributed systems**, and **A
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSDI 2026</div><img src='images/nsdi26.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Bifrost: Alibaba's Next-Generation VPC Network with High-Performance Multipath Reliable Transport](https://github.com/JayFzh/JayFzh.github.io/pubs/NSDI_26_Bifrost__Alibaba_s_Next_Generation_VPC_Network_with_High_Performance_Multipath_Reliable_Transport.pdf)
+[Bifrost: Alibaba's Next-Generation VPC Network with High-Performance Multipath Reliable Transport](../pubs/NSDI_26_Bifrost__Alibaba_s_Next_Generation_VPC_Network_with_High_Performance_Multipath_Reliable_Transport.pdf)
 
 **Zihao Fan**, Xing Li, [Ye Yang](https://yangye-huaizhou.github.io/), Bo Jiang, Bowen Yang, Yilong Lv, Yuke Hong, Yinian Zhou, Junnan Cai, Jiayue Xu, Yunrui Hu, Zhao Gao, Ke Sun, Yimin Liu, Xiangdong Zhang, [Enge Song](https://ng-95.github.io//), [Jianyuan Lu](https://thlujy.github.io/), Xiaoqing Sun, Shize Zhang, Haonan Li, Mingxin Li, [Changgang Zheng](https://changgang-zheng.github.io/Home-Page/), Song Yang, Jun Liang, Biao Lyu, Rong Wen, Zhigang Zong, Shunmin Zhu
 
@@ -62,7 +62,7 @@ Haonan Li, Tian Pan, Jin Ke, Baohai Hu, [Changgang Zheng](https://changgang-zhen
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/real.jpg' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Real: Efficient Distributed Training of Dynamic GNNs with Reuse-Aware Load Balancing Scheduling](https://github.com/JayFzh/JayFzh.github.io/pubs/Real__Efficient_Distributed_Training_of_Dynamic_GNNs_with_Reuse_Aware_Load_Balancing_Scheduling.pdf)
+[Real: Efficient Distributed Training of Dynamic GNNs with Reuse-Aware Load Balancing Scheduling](../pubs/Real__Efficient_Distributed_Training_of_Dynamic_GNNs_with_Reuse_Aware_Load_Balancing_Scheduling.pdf)
 
 **Zihao Fan**, [Yunzhuo Liu](https://liu445126256.github.io/), Bo Jiang, Tian Guo
 
@@ -76,7 +76,7 @@ Preprint
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/cornucopia.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Cornucopia: Elastic GPU Cluster Management for Mixed Batch-Interactive Distributed Training](https://github.com/JayFzh/JayFzh.github.io/pubs/Cornucopia_JPDC_Revised_Manuscript.pdf)
+[Cornucopia: Elastic GPU Cluster Management for Mixed Batch-Interactive Distributed Training](../pubs/Cornucopia_JPDC_Revised_Manuscript.pdf)
 
 Zimeng Huang, Shijian Li, **Zihao Fan**, Bo Jiang, Tian Guo
 
