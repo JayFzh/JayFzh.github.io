@@ -88,7 +88,7 @@ Preprint
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">APNet 2025</div><img src='images/apnet2025.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Understanding the Long Tail Latency of TCP in Large-Scale Cloud Networks](https://github.com/JayFzh/JayFzh.github.io/pubs/APNet25-Understanding.pdf)
+[Understanding the Long Tail Latency of TCP in Large-Scale Cloud Networks](../pubs/APNet25-Understanding.pdf)
 
 **Zihao Fan**, [Enge Song](https://ng-95.github.io//), Bo Jiang, Yang Song, Yuke Hong, Bowen Yang, Yilong Lv, Junnan Cai, Chao Wang, Yi Wang, Yehao Feng, Dian Fan, [Ye Yang](https://yangye-huaizhou.github.io/), Shize Zhang, Xiaoqing Sun, [Jianyuan Lu](https://thlujy.github.io/), Xing Li, Jun Liang, Biao Lyu, Zhigang Zong, Shunmin Zhu
 
