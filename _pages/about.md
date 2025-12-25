@@ -122,7 +122,7 @@ Preprint
   - Advisor: Prof. Bo Jiang
   - Research Focus: Networking4AI, Distributed Systems, AI Infrastructure
 - *2019.09 - 2023.06*, **B.Eng. in Computer Science**, Beijing University of Posts and Telecommunications, Beijing, China
-  - Rank: Top 3% in major 
+  - GPA: 91.17/100, Rank: Top 3% in major
 
 <!-- # 💬 Invited Talks
 - To be added... -->
