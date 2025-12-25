@@ -134,3 +134,10 @@ Preprint
   - Focus: Transport protocols and virtual private cloud (VPC)
 - *2021.04 - 2021.09*, **Reseach Assitant**, Wangxuan Institute of Computer Technology, Peking University, Beijing
   - Foucs: Computer vision and object detection
+
+# 🎖 Honors and Awards
+- **APNet Travel Grant**, 2025
+- **Outstanding Graduates**, BUPT, 2023
+- **Second Prize**, The Chinese Mathematics Competitions (CMC), 2022
+- **Merit Student**, BUPT, 2021, 2022
+- **Academic Scholarship**, BUPT, 2020, 2021, 2022
