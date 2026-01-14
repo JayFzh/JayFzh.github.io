@@ -21,7 +21,8 @@ I am a Ph.D. student in the Department of Computer Science and Engineering at **
 Before that, I received B.Eng. in Computer Science from Beijing University of Posts and Telecommunications (BUPT) in 2023, supervised by [Prof. Jingyu Wang](https://teacher.bupt.edu.cn/wangjingyu).
 I am currently a Research Intern at the **Luoshen Cloud Network Research Team**, Alibaba Cloud, advised by [Dr. Yang Song](https://scholar.google.com/citations?user=0JikOGMAAAAJ&hl=zh-CN&oi=sra), focusing on large-scale network systems.
 
-My research interests lie in **networking4AI**, **distributed systems**, and **AI infrastructure**. Recently, I have been focusing on performance optimization for disaggregated LLM serving, particularly on the networking side. 
+My research interests lie in **networking4AI**, **distributed systems**, and **AI infrastructure**. 
+Recently, I have been focusing on performance optimization for disaggregated LLM serving, particularly on the networking side. 
 
 
 
@@ -64,11 +65,11 @@ Haonan Li, Tian Pan, Jin Ke, Baohai Hu, [Changgang Zheng](https://changgang-zhen
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/real.jpg' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Real: Efficient Distributed Training of Dynamic GNNs with Reuse-Aware Load Balancing Scheduling](../pubs/Real__Efficient_Distributed_Training_of_Dynamic_GNNs_with_Reuse_Aware_Load_Balancing_Scheduling.pdf)
+[Real: Efficient Distributed Training of Dynamic GNNs with Reuse-Aware Load Balancing Scheduling](../pubs/SIGMETRICS_26_Real__Efficient_Distributed_Training_of_Dynamic_GNNs_with_Reuse_Aware_Load_Balancing_Scheduling.pdf)
 
 **Zihao Fan**, [Yunzhuo Liu](https://liu445126256.github.io/), Bo Jiang, Tian Guo
 
-Preprint
+In submission
 </div>
 </div>
 
@@ -82,7 +83,7 @@ Preprint
 
 Zimeng Huang, Shijian Li, **Zihao Fan**, Bo Jiang, Tian Guo
 
-Preprint
+In submission
 </div>
 </div>
 
