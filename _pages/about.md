@@ -61,6 +61,18 @@ Haonan Li, Tian Pan, Jin Ke, Baohai Hu, [Changgang Zheng](https://changgang-zhen
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/sibyl.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SIBYL: Speculative Inference Balancing for XPYD Scheduling in
+Disaggregated LLM Serving](../pubs/ICML_26_SIBYL__Speculative_Inference_Balancing_for_XpYd_Scheduling_in_Disaggregated_LLM_Serving.pdf)
+
+**Zihao Fan**, Changgang Zheng, Bo Jiang, et al.
+
+In submission
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/real.jpg' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
