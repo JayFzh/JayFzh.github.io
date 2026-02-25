@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Ph.D. student in the Department of Computer Science and Engineering at **Shanghai Jiao Tong University (SJTU)**, advised by [Prof. Bo Jiang](https://jhc.sjtu.edu.cn/~bjiang/). 
 Before that, I received B.Eng. in Computer Science from Beijing University of Posts and Telecommunications (BUPT) in 2023, supervised by [Prof. Jingyu Wang](https://teacher.bupt.edu.cn/wangjingyu).
-I am currently a Research Intern (**Qingyun Program**) at **Tencent TEG Hunyuan AI Infra**, focusing on LLM pre-training.
+I am currently a Research Intern (**Qingyun Talent Program**) at **Tencent TEG Hunyuan AI Infra**, focusing on LLM pre-training.
 Before that, I was a Research Intern at the **Luoshen Cloud Network Research Team**, Alibaba Cloud, advised by [Dr. Yang Song](https://scholar.google.com/citations?user=0JikOGMAAAAJ&hl=zh-CN&oi=sra), focusing on large-scale network systems.
 
 My research interests lie in **networking4AI**, **distributed systems**, and **AI infrastructure**. 
@@ -29,7 +29,7 @@ Recently, I have been focusing on performance optimization for disaggregated LLM
 
 
 # 🔥 News
-- *2025.03*: &nbsp; Joined Tencent TEG Hunyuan AI Infra as Research Intern (Qingyun Program)!
+- *2025.03*: &nbsp; Joined Tencent TEG **Hunyuan AI Infra** as Research Intern (Qingyun Talent Program)!
 - *2025.12*: &nbsp;🎉🎉 Two papers ("Bifrost" and "CStar Gateway") have been accepted by NSDI 2026!
 - *2025.03*: &nbsp;🎉 Our paper "Understanding the Long Tail Latency of TCP in Large-Scale Cloud Networks" has been accepted by APNet 2025!
 - *2025.01*: &nbsp; Started as Research Intern at Alibaba Cloud - **Luoshen** Cloud Networking Research Team.
@@ -164,7 +164,7 @@ In submission
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="images/hunyuan-logo.png" alt="Tencent Logo" style="width: 70px; height: 70px; margin-right: 30px; object-fit: contain;">
   <div>
-    <strong>2026.03 - Present, Research Intern (Qingyun Program)</strong><br>
+    <strong>2026.03 - Present, Research Intern (Qingyun Talent Program)</strong><br>
     Hunyuan AI Infra, Tencent TEG, Beijing<br>
     Focus: LLM pre-training systems
   </div>
