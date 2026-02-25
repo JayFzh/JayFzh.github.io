@@ -146,7 +146,7 @@ In submission
 - To be added... -->
 
 # 💻 Internships
-- *2025.03 - Present*, **Research Intern (Qingyun Program)**, Tencent TEG Hunyuan AI Infra, Beijing
+- *2025.03 - Present*, **Research Intern (Qingyun Program)**, Hunyuan AI Infra, Tencent TEG, Beijing
   - Focus: LLM pre-training systems
 - *2025.01 - 2025.02*, **Research Intern**, Luoshen Cloud Networking Research Team, Alibaba Cloud, Hangzhou
   - Focus: Large-scale network systems and AI infra
