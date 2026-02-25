@@ -19,7 +19,8 @@ redirect_from:
 
 I am a Ph.D. student in the Department of Computer Science and Engineering at **Shanghai Jiao Tong University (SJTU)**, advised by [Prof. Bo Jiang](https://jhc.sjtu.edu.cn/~bjiang/). 
 Before that, I received B.Eng. in Computer Science from Beijing University of Posts and Telecommunications (BUPT) in 2023, supervised by [Prof. Jingyu Wang](https://teacher.bupt.edu.cn/wangjingyu).
-I am currently a Research Intern at the **Luoshen Cloud Network Research Team**, Alibaba Cloud, advised by [Dr. Yang Song](https://scholar.google.com/citations?user=0JikOGMAAAAJ&hl=zh-CN&oi=sra), focusing on large-scale network systems.
+I am currently a Research Intern (Qingyun Program) at **Tencent TEG Hunyuan AI Infra**, focusing on LLM pre-training.
+Before that, I was a Research Intern at the **Luoshen Cloud Network Research Team**, Alibaba Cloud, advised by [Dr. Yang Song](https://scholar.google.com/citations?user=0JikOGMAAAAJ&hl=zh-CN&oi=sra), focusing on large-scale network systems.
 
 My research interests lie in **networking4AI**, **distributed systems**, and **AI infrastructure**. 
 Recently, I have been focusing on performance optimization for disaggregated LLM serving, particularly on the networking side. 
@@ -28,6 +29,7 @@ Recently, I have been focusing on performance optimization for disaggregated LLM
 
 
 # 🔥 News
+- *2025.03*: &nbsp; Joined Tencent TEG Hunyuan AI Infra as Research Intern (Qingyun Program)!
 - *2025.12*: &nbsp;🎉🎉 Two papers ("Bifrost" and "CStar Gateway") have been accepted by NSDI 2026!
 - *2025.03*: &nbsp;🎉 Our paper "Understanding the Long Tail Latency of TCP in Large-Scale Cloud Networks" has been accepted by APNet 2025!
 - *2025.01*: &nbsp; Started as Research Intern at Alibaba Cloud - **Luoshen** Cloud Networking Research Team.
@@ -144,7 +146,9 @@ In submission
 - To be added... -->
 
 # 💻 Internships
-- *2025.01 - Present*, **Research Intern**, Luoshen Cloud Networking Research Team, Alibaba Cloud, Hangzhou
+- *2025.03 - Present*, **Research Intern (Qingyun Program)**, Tencent TEG Hunyuan AI Infra, Beijing
+  - Focus: LLM pre-training systems
+- *2025.01 - 2025.02*, **Research Intern**, Luoshen Cloud Networking Research Team, Alibaba Cloud, Hangzhou
   - Focus: Large-scale network systems and AI infra
 - *2024.08 - 2025.01*, **AIR Intern**, Luoshen Cloud Networking R&D Team, Alibaba Cloud, Hangzhou
   - Focus: Transport protocols and virtual private cloud (VPC)
