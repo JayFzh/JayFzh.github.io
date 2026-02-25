@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Ph.D. student in the Department of Computer Science and Engineering at **Shanghai Jiao Tong University (SJTU)**, advised by [Prof. Bo Jiang](https://jhc.sjtu.edu.cn/~bjiang/). 
 Before that, I received B.Eng. in Computer Science from Beijing University of Posts and Telecommunications (BUPT) in 2023, supervised by [Prof. Jingyu Wang](https://teacher.bupt.edu.cn/wangjingyu).
-I am currently a Research Intern (Qingyun Program) at **Tencent TEG Hunyuan AI Infra**, focusing on LLM pre-training.
+I am currently a Research Intern (**Qingyun Program**) at **Tencent TEG Hunyuan AI Infra**, focusing on LLM pre-training.
 Before that, I was a Research Intern at the **Luoshen Cloud Network Research Team**, Alibaba Cloud, advised by [Dr. Yang Song](https://scholar.google.com/citations?user=0JikOGMAAAAJ&hl=zh-CN&oi=sra), focusing on large-scale network systems.
 
 My research interests lie in **networking4AI**, **distributed systems**, and **AI infrastructure**. 
