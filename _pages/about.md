@@ -147,7 +147,7 @@ In submission
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="images/bupt-logo.png" alt="BUPT Logo" style="width: 75px; height: 75px; margin-right: 20px; object-fit: contain;">
+  <img src="images/bupt-logo.png" alt="BUPT Logo" style="width: 75px; height: 75px; margin-right: 25px; object-fit: contain;">
   <div>
     <strong>2019.09 - 2023.06, B.Eng. in Computer Science</strong><br>
     Beijing University of Posts and Telecommunications, Beijing, China<br>
@@ -162,7 +162,7 @@ In submission
 # 💻 Internships
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="images/hunyuan-logo.png" alt="Tencent Logo" style="width: 70px; height: 70px; margin-right: 20px; object-fit: contain;">
+  <img src="images/hunyuan-logo.png" alt="Tencent Logo" style="width: 70px; height: 70px; margin-right: 30px; object-fit: contain;">
   <div>
     <strong>2025.03 - Present, Research Intern (Qingyun Program)</strong><br>
     Hunyuan AI Infra, Tencent TEG, Beijing<br>
@@ -171,7 +171,7 @@ In submission
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="images/alibabacloud-logo.png" alt="Alibaba Logo" style="width: 70px; height: 70px; margin-right: 20px; object-fit: contain;">
+  <img src="images/alibabacloud-logo.png" alt="Alibaba Logo" style="width: 70px; height: 70px; margin-right: 30px; object-fit: contain;">
   <div>
     <strong>2025.01 - 2025.02, Research Intern</strong><br>
     Luoshen Cloud Networking Research Team, Alibaba Cloud, Hangzhou<br>
@@ -180,7 +180,7 @@ In submission
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="images/alibabacloud-logo.png" alt="Alibaba Logo" style="width: 70px; height: 70px; margin-right: 20px; object-fit: contain;">
+  <img src="images/alibabacloud-logo.png" alt="Alibaba Logo" style="width: 70px; height: 70px; margin-right: 30px; object-fit: contain;">
   <div>
     <strong>2024.08 - 2025.01, AIR Intern</strong><br>
     Luoshen Cloud Networking R&D Team, Alibaba Cloud, Hangzhou<br>
@@ -189,7 +189,7 @@ In submission
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="images/pku-logo.png" alt="PKU Logo" style="width: 70px; height: 70px; margin-right: 20px; object-fit: contain;">
+  <img src="images/pku-logo.png" alt="PKU Logo" style="width: 70px; height: 70px; margin-right: 30px; object-fit: contain;">
   <div>
     <strong>2021.04 - 2021.09, Research Assistant</strong><br>
     Wangxuan Institute of Computer Technology, Peking University, Beijing<br>
