@@ -164,7 +164,7 @@ In submission
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="images/hunyuan-logo.png" alt="Tencent Logo" style="width: 70px; height: 70px; margin-right: 30px; object-fit: contain;">
   <div>
-    <strong>2025.03 - Present, Research Intern (Qingyun Program)</strong><br>
+    <strong>2026.03 - Present, Research Intern (Qingyun Program)</strong><br>
     Hunyuan AI Infra, Tencent TEG, Beijing<br>
     Focus: LLM pre-training systems
   </div>
@@ -173,7 +173,7 @@ In submission
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="images/alibabacloud-logo.png" alt="Alibaba Logo" style="width: 70px; height: 70px; margin-right: 30px; object-fit: contain;">
   <div>
-    <strong>2025.01 - 2025.02, Research Intern</strong><br>
+    <strong>2025.01 - 2026.02, Research Intern</strong><br>
     Luoshen Cloud Networking Research Team, Alibaba Cloud, Hangzhou<br>
     Focus: Large-scale network systems and AI infra
   </div>
