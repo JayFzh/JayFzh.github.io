@@ -135,12 +135,26 @@ In submission
 - To be added...  -->
 
 # 📖 Educations
-- *2023.09 - Present*, **Ph.D. in Computer Science**, Shanghai Jiao Tong University, Shanghai, China
-  - Advisor: Prof. Bo Jiang
-  - Research Focus: Networking4AI, Distributed Systems, AI Infrastructure
-- *2019.09 - 2023.06*, **B.Eng. in Computer Science**, Beijing University of Posts and Telecommunications, Beijing, China
-  - Advisor: Prof. Jingyu Wang
-  - GPA: 91.17/100, Rank: Top 3% in major
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="images/sjtu-logo.png" alt="SJTU Logo" style="width: 80px; height: 80px; margin-right: 20px; object-fit: contain;">
+  <div>
+    <strong>2023.09 - Present, Ph.D. in Computer Science</strong><br>
+    Shanghai Jiao Tong University, Shanghai, China<br>
+    Advisor: Prof. Bo Jiang<br>
+    Research Focus: Networking4AI, Distributed Systems, AI Infrastructure
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="images/bupt-logo.png" alt="BUPT Logo" style="width: 80px; height: 80px; margin-right: 20px; object-fit: contain;">
+  <div>
+    <strong>2019.09 - 2023.06, B.Eng. in Computer Science</strong><br>
+    Beijing University of Posts and Telecommunications, Beijing, China<br>
+    Advisor: Prof. Jingyu Wang<br>
+    GPA: 91.17/100, Rank: Top 3% in major
+  </div>
+</div>
 
 <!-- # 💬 Invited Talks
 - To be added... -->
