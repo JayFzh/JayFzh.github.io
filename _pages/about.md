@@ -29,7 +29,7 @@ Recently, I have been focusing on performance optimization for disaggregated LLM
 
 
 # 🔥 News
-- *2025.03*: &nbsp; Joined Tencent TEG **Hunyuan** AI Infra Team as Research Intern (Qingyun Talent Program)!
+- *2026.03*: &nbsp; Joined Tencent TEG **Hunyuan** AI Infra Team as Research Intern (Qingyun Talent Program)!
 - *2025.12*: &nbsp;🎉🎉 Two papers ("Bifrost" and "CStar Gateway") have been accepted by NSDI 2026!
 - *2025.03*: &nbsp;🎉 Our paper "Understanding the Long Tail Latency of TCP in Large-Scale Cloud Networks" has been accepted by APNet 2025!
 - *2025.01*: &nbsp; Started as Research Intern at Alibaba Cloud - **Luoshen** Cloud Networking Research Team.
