@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zihao Fan's Homepage"
-description              : "Research intern @ Alibaba Cloud, focusing on networking4AI, distributed systems, and AI infrastructure."
+description              : "Research intern @ Tencent TEG Hunyuan AI Infra, focusing on LLM pre-training."
 repository               : "JayFzh/JayFzh.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zihao Fan (范子豪)"
   avatar           : "images/zihao.jpg"
-  bio              : "Ph.D. Student @ Shanghai Jiao Tong University"
+  bio              : "Ph.D. Student @ SJTU"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
