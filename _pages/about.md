@@ -160,14 +160,42 @@ In submission
 - To be added... -->
 
 # 💻 Internships
-- *2025.03 - Present*, **Research Intern (Qingyun Program)**, Hunyuan AI Infra, Tencent TEG, Beijing
-  - Focus: LLM pre-training systems
-- *2025.01 - 2025.02*, **Research Intern**, Luoshen Cloud Networking Research Team, Alibaba Cloud, Hangzhou
-  - Focus: Large-scale network systems and AI infra
-- *2024.08 - 2025.01*, **AIR Intern**, Luoshen Cloud Networking R&D Team, Alibaba Cloud, Hangzhou
-  - Focus: Transport protocols and virtual private cloud (VPC)
-- *2021.04 - 2021.09*, **Reseach Assitant**, Wangxuan Institute of Computer Technology, Peking University, Beijing
-  - Foucs: Computer vision and object detection
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="images/hunyuan-logo.png" alt="Tencent Logo" style="width: 80px; height: 80px; margin-right: 20px; object-fit: contain;">
+  <div>
+    <strong>2025.03 - Present, Research Intern (Qingyun Program)</strong><br>
+    Hunyuan AI Infra, Tencent TEG, Beijing<br>
+    Focus: LLM pre-training systems
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="images/alibabacloud-logo.png" alt="Alibaba Logo" style="width: 80px; height: 80px; margin-right: 20px; object-fit: contain;">
+  <div>
+    <strong>2025.01 - 2025.02, Research Intern</strong><br>
+    Luoshen Cloud Networking Research Team, Alibaba Cloud, Hangzhou<br>
+    Focus: Large-scale network systems and AI infra
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="images/alibabacloud-logo.png" alt="Alibaba Logo" style="width: 80px; height: 80px; margin-right: 20px; object-fit: contain;">
+  <div>
+    <strong>2024.08 - 2025.01, AIR Intern</strong><br>
+    Luoshen Cloud Networking R&D Team, Alibaba Cloud, Hangzhou<br>
+    Focus: Transport protocols and virtual private cloud (VPC)
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="images/pku-logo.png" alt="PKU Logo" style="width: 80px; height: 80px; margin-right: 20px; object-fit: contain;">
+  <div>
+    <strong>2021.04 - 2021.09, Research Assistant</strong><br>
+    Wangxuan Institute of Computer Technology, Peking University, Beijing<br>
+    Focus: Computer vision and object detection
+  </div>
+</div>
 
 # 🎖 Honors and Awards
 - **APNet Travel Grant**, 2025
