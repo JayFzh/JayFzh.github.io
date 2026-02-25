@@ -147,7 +147,7 @@ In submission
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="images/bupt-logo.png" alt="BUPT Logo" style="width: 80px; height: 80px; margin-right: 20px; object-fit: contain;">
+  <img src="images/bupt-logo.png" alt="BUPT Logo" style="width: 75px; height: 75px; margin-right: 20px; object-fit: contain;">
   <div>
     <strong>2019.09 - 2023.06, B.Eng. in Computer Science</strong><br>
     Beijing University of Posts and Telecommunications, Beijing, China<br>
