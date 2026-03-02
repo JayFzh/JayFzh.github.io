@@ -173,7 +173,7 @@ In submission
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="images/alibabacloud-logo.png" alt="Alibaba Logo" style="width: 65px; height: 65px; margin-right: 35px; object-fit: contain;">
   <div>
-    <strong>2025.01 - 2026.02, Research Intern</strong><br>
+    <strong>2025.02 - 2026.02, Research Intern</strong><br>
     Luoshen Cloud Networking Research Team, Alibaba Cloud, Hangzhou<br>
     Focus: Large-scale network systems and AI infra
   </div>
@@ -182,7 +182,7 @@ In submission
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="images/alibabacloud-logo.png" alt="Alibaba Logo" style="width: 65px; height: 65px; margin-right: 35px; object-fit: contain;">
   <div>
-    <strong>2024.08 - 2025.01, AIR Intern</strong><br>
+    <strong>2024.08 - 2025.02, AIR Intern</strong><br>
     Luoshen Cloud Networking R&D Team, Alibaba Cloud, Hangzhou<br>
     Focus: Transport protocols and virtual private cloud (VPC)
   </div>
