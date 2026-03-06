@@ -53,7 +53,7 @@ Recently, I have been focusing on performance optimization for disaggregated LLM
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSDI 2026</div><img src='images/nsdi26.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CStar Gateway: Augmenting Public Cloud Infrastructure for Heterogeneous Network Function Virtualization](https://jayfzh.github.io)
+[CStar Gateway: Augmenting Public Cloud Infrastructure for Heterogeneous Network Function Virtualization](../pubs/nsdi26fall-final14.pdf)
 
 Haonan Li, Tian Pan, Jin Ke, Baohai Hu, [Changgang Zheng](https://changgang-zheng.github.io/Home-Page/), [Enge Song](https://ng-95.github.io//), Zhi Xu, [Ye Yang](https://yangye-huaizhou.github.io/), Bowen Yang, Donglin Lai, Yisong Qiao, Bengbeng Xue, [Jianyuan Lu](https://thlujy.github.io/), Xiaoqing Sun, Shize Zhang, **Zihao Fan**, Mingxin Li, Song Yang, Jun Liang, Xionglie Wei, Biao Lyu, Rong Wen, Zhigang Zong, Jiao Zhang, Tao Huang, Shunmin Zhu
 
