@@ -56,7 +56,7 @@ Changgang Zheng, Bowen Yang, Jin Ke, Ye Yang, Enge Song, Haonan Li, **Zihao Fan*
 
 [Bifrost: Alibaba's Next-Generation VPC Network with High-Performance Multipath Reliable Transport](../pubs/NSDI_26_Bifrost__Alibaba_s_Next_Generation_VPC_Network_with_High_Performance_Multipath_Reliable_Transport.pdf)
 
-**Zihao Fan**, Xing Li, [Ye Yang](https://yangye-huaizhou.github.io/), Bo Jiang, Bowen Yang, Yilong Lv, Yuke Hong, Yinian Zhou, Junnan Cai, Jiayue Xu, Yunrui Hu, Zhao Gao, Ke Sun, Yimin Liu, Xiangdong Zhang, [Enge Song](https://ng-95.github.io//), [Jianyuan Lu](https://thlujy.github.io/), Xiaoqing Sun, Shize Zhang, Haonan Li, Mingxin Li, [Changgang Zheng](https://changgang-zheng.github.io/Home-Page/), Song Yang, Jun Liang, Biao Lyu, Rong Wen, Zhigang Zong, Shunmin Zhu
+**Zihao Fan**, Xing Li, [Ye Yang](https://yangye-huaizhou.github.io/), Bo Jiang, et al.
 
 **NSDI'26**, Renton, USA 
 
@@ -69,7 +69,7 @@ Changgang Zheng, Bowen Yang, Jin Ke, Ye Yang, Enge Song, Haonan Li, **Zihao Fan*
 
 [CStar Gateway: Augmenting Public Cloud Infrastructure for Heterogeneous Network Function Virtualization](../pubs/nsdi26fall-final14.pdf)
 
-Haonan Li, Tian Pan, Jin Ke, Baohai Hu, [Changgang Zheng](https://changgang-zheng.github.io/Home-Page/), [Enge Song](https://ng-95.github.io//), Zhi Xu, [Ye Yang](https://yangye-huaizhou.github.io/), Bowen Yang, Donglin Lai, Yisong Qiao, Bengbeng Xue, [Jianyuan Lu](https://thlujy.github.io/), Xiaoqing Sun, Shize Zhang, **Zihao Fan**, Mingxin Li, Song Yang, Jun Liang, Xionglie Wei, Biao Lyu, Rong Wen, Zhigang Zong, Jiao Zhang, Tao Huang, Shunmin Zhu
+Haonan Li, Tian Pan, Jin Ke, Baohai Hu, [Changgang Zheng](https://changgang-zheng.github.io/Home-Page/), ... , **Zihao Fan**, et al.
 
 **NSDI'26**, Renton, USA 
 
@@ -121,7 +121,7 @@ In submission
 
 [Understanding the Long Tail Latency of TCP in Large-Scale Cloud Networks](../pubs/APNet25-Understanding.pdf)
 
-**Zihao Fan**, [Enge Song](https://ng-95.github.io//), Bo Jiang, Yang Song, Yuke Hong, Bowen Yang, Yilong Lv, Junnan Cai, Chao Wang, Yi Wang, Yehao Feng, Dian Fan, [Ye Yang](https://yangye-huaizhou.github.io/), Shize Zhang, Xiaoqing Sun, [Jianyuan Lu](https://thlujy.github.io/), Xing Li, Jun Liang, Biao Lyu, Zhigang Zong, Shunmin Zhu
+**Zihao Fan**, [Enge Song](https://ng-95.github.io//), Bo Jiang, Yang Song, et al.
 
 **APNet'25**, Shanghai, China
 
