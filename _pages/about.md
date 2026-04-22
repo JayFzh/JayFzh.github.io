@@ -38,7 +38,7 @@ Recently, I have been focusing on performance optimization for disaggregated LLM
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APNet 2026</div><img src='images/apnet2026.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APNet 2026</div><img src='images/apnet2026.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Integrating AI Clusters into Virtual Private Cloud](https://jayfzh.github.io)
