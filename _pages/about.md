@@ -29,6 +29,7 @@ Recently, I have been focusing on performance optimization for disaggregated LLM
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉 Our paper ('Diana') has been accepted by IAC 2026!
 - *2026.04*: &nbsp;🎉🎉 Two papers have been accepted by APNet 2026!
 - *2026.03*: &nbsp;🎉 Joined Tencent TEG **Hunyuan** AI Infra Team as Research Intern (Qingyun Talent Program).
 - *2025.12*: &nbsp;🎉🎉 Two papers ("Bifrost" and "CStar Gateway") have been accepted by NSDI 2026!
@@ -37,6 +38,18 @@ Recently, I have been focusing on performance optimization for disaggregated LLM
 - *2024.08*: &nbsp;🎉 Joined Alibaba Cloud as Alibaba Innovative Research (AIR) Intern. 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IAC 2026</div><img src='images/IAC2026.png' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Diana: A Satellite-Based Lunar Time and Frequency System](https://jayfzh.github.io)
+
+Changgang Zheng, Luyuan Wang, Jionghui Li, Haonan Li, **Zihao Fan**, Mingxin Li, Bo Jiang, Tian Pan, Jinjun Zheng
+
+**IAC 2026**, Antalya
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">APNet 2026</div><img src='images/apnet2026.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
