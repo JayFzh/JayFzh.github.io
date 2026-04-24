@@ -238,6 +238,7 @@ In submission
 </div>
 
 # 🎖 Honors and Awards
+- **NSDI Student Grant**, 2026
 - **APNet Travel Grant**, 2025
 - **Outstanding Graduates**, BUPT, 2023
 - **Second Prize**, The Chinese Mathematics Competitions (CMC), 2022
