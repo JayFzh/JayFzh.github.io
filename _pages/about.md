@@ -39,7 +39,7 @@ Recently, I have been focusing on performance optimization for disaggregated LLM
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IAC 2026</div><img src='images/IAC2026.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IAC 2026</div><img src='images/IAC2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Diana: A Satellite-Based Lunar Time and Frequency System](https://jayfzh.github.io)
