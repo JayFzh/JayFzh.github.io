@@ -80,7 +80,7 @@ Changgang Zheng, Bowen Yang, Jin Ke, Ye Yang, Enge Song, Haonan Li, **Zihao Fan*
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSDI 2026</div><img src='images/nsdi26.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Bifrost: Alibaba's Next-Generation VPC Network with High-Performance Multipath Reliable Transport](../pubs/NSDI_26_Bifrost__Alibaba_s_Next_Generation_VPC_Network_with_High_Performance_Multipath_Reliable_Transport.pdf)
+[Bifrost: Alibaba's Next-Generation VPC Network with High-Performance Multipath Reliable Transport](https://www.usenix.org/system/files/nsdi26-fan.pdf)
 
 **Zihao Fan**, Xing Li, [Ye Yang](https://yangye-huaizhou.github.io/), Bo Jiang, et al.
 
@@ -93,7 +93,7 @@ Changgang Zheng, Bowen Yang, Jin Ke, Ye Yang, Enge Song, Haonan Li, **Zihao Fan*
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSDI 2026</div><img src='images/nsdi26.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CStar Gateway: Augmenting Public Cloud Infrastructure for Heterogeneous Network Function Virtualization](../pubs/nsdi26fall-final14.pdf)
+[CStar Gateway: Augmenting Public Cloud Infrastructure for Heterogeneous Network Function Virtualization](https://www.usenix.org/system/files/nsdi26-li-haonan.pdf)
 
 Haonan Li, Tian Pan, Jin Ke, Baohai Hu, [Changgang Zheng](https://changgang-zheng.github.io/Home-Page/), ... , **Zihao Fan**, et al.
 
