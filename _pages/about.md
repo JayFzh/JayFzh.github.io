@@ -29,7 +29,7 @@ Recently, I have been working on optimizing LLM pre-training in supernode-based 
 
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉 Our paper ('Diana') has been accepted by IAC 2026!
+- *2026.05*: &nbsp;🎉 Our paper ("Diana") has been accepted by IAC 2026!
 - *2026.04*: &nbsp;🎉🎉 Two papers have been accepted by APNet 2026!
 - *2026.03*: &nbsp;🎉 Joined Tencent TEG **Hunyuan** AI Infra Team as Research Intern (Qingyun Talent Program).
 - *2025.12*: &nbsp;🎉🎉 Two papers ("Bifrost" and "CStar Gateway") have been accepted by NSDI 2026!
@@ -95,7 +95,7 @@ Changgang Zheng, Bowen Yang, Jin Ke, Ye Yang, Enge Song, Haonan Li, **Zihao Fan*
 
 [CStar Gateway: Augmenting Public Cloud Infrastructure for Heterogeneous Network Function Virtualization](https://www.usenix.org/system/files/nsdi26-li-haonan.pdf)
 
-Haonan Li, Tian Pan, Jin Ke, Baohai Hu, [Changgang Zheng](https://changgang-zheng.github.io/Home-Page/), ... , **Zihao Fan**, et al.
+Haonan Li, Tian Pan, Jin Ke, Baohai Hu, Changgang Zheng, ... , **Zihao Fan**, et al.
 
 **NSDI'26**, Renton, USA 
 
@@ -121,7 +121,7 @@ In submission
 
 [Real: Efficient Distributed Training of Dynamic GNNs with Reuse-Aware Load Balancing Scheduling](../pubs/SIGMETRICS_26_Real__Efficient_Distributed_Training_of_Dynamic_GNNs_with_Reuse_Aware_Load_Balancing_Scheduling.pdf)
 
-**Zihao Fan**, [Yunzhuo Liu](https://liu445126256.github.io/), Bo Jiang, Tian Guo
+**Zihao Fan**, Yunzhuo Liu, Bo Jiang, Tian Guo
 
 In submission
 </div>
@@ -145,11 +145,13 @@ In submission
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">APNet 2025</div><img src='images/apnet2025.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Understanding the Long Tail Latency of TCP in Large-Scale Cloud Networks](../pubs/APNet25-Understanding.pdf)
+**Understanding the Long Tail Latency of TCP in Large-Scale Cloud Networks**
 
 **Zihao Fan**, [Enge Song](https://ng-95.github.io//), Bo Jiang, Yang Song, et al.
 
 **APNet'25**, Shanghai, China
+
+[Paper](../pubs/APNet25-Understanding.pdf) | [Link](https://dl.acm.org/doi/10.1145/3735358.3735393) | [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:hL7Qa4bsmKkJ:scholar.google.com/&output=citation&scisdr=ClhdExH4ELaBqDG7K5k:AFyMTJUAAAAAaf69M5mWIWbGP2nCrrntiwWbVhc&scisig=AFyMTJUAAAAAaf69M92u6dQAzki9zmfZRvSjwtc&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
 **[CCF C]** Acceptance Rate: 34/133=25.6%
 </div>
