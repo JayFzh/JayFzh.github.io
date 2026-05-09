@@ -133,9 +133,11 @@ In submission
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/cornucopia.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Cornucopia: Elastic GPU Cluster Management for Mixed Batch-Interactive Distributed Training](../pubs/Cornucopia_JPDC_Revised_Manuscript.pdf)
+**Cornucopia: Elastic GPU Cluster Management for Mixed Batch-Interactive Distributed Training**
 
 Zimeng Huang, Shijian Li, **Zihao Fan**, Bo Jiang, Tian Guo
+
+[Paper](../pubs/Cornucopia_JPDC_Revised_Manuscript.pdf) \| Link \| BibTex
 
 In submission
 </div>
