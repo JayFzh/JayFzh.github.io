@@ -151,7 +151,7 @@ In submission
 
 **APNet'25**, Shanghai, China
 
-[Paper](../pubs/APNet25-Understanding.pdf) | [Link](https://dl.acm.org/doi/10.1145/3735358.3735393) | [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:hL7Qa4bsmKkJ:scholar.google.com/&output=citation&scisdr=ClhdExH4ELaBqDG7K5k:AFyMTJUAAAAAaf69M5mWIWbGP2nCrrntiwWbVhc&scisig=AFyMTJUAAAAAaf69M92u6dQAzki9zmfZRvSjwtc&scisf=4&ct=citation&cd=-1&hl=zh-CN)
+[Paper](../pubs/APNet25-Understanding.pdf) \| [Link](https://dl.acm.org/doi/10.1145/3735358.3735393) \| [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:hL7Qa4bsmKkJ:scholar.google.com/&output=citation&scisdr=ClhdExH4ELaBqDG7K5k:AFyMTJUAAAAAaf69M5mWIWbGP2nCrrntiwWbVhc&scisig=AFyMTJUAAAAAaf69M92u6dQAzki9zmfZRvSjwtc&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
 **[CCF C]** Acceptance Rate: 34/133=25.6%
 </div>
