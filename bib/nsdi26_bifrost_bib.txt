@@ -1,0 +1,12 @@
+@inproceedings {316598,
+author = {Zihao Fan and Xing Li and Ye Yang and Bo Jiang and Bowen Yang and Yilong Lv and Yuke Hong and Yinian Zhou and Junnan Cai and Jiayue Xu and Yunrui Hu and Zhao Gao and Ke Sun and Yimin Liu and Xiangdong Zhang and Enge Song and Jianyuan Lu and Xiaoqing Sun and Shize Zhang and Haonan Li and Mingxin Li and Changgang Zheng and Yang Song and Jun Liang and Biao Lyu and Rong Wen and Zhigang Zong and Shunmin Zhu},
+title = {Bifrost: Alibaba{\textquoteright}s {Next-Generation} {VPC} Network with {High-Performance} Multipath Reliable Transport},
+booktitle = {23rd USENIX Symposium on Networked Systems Design and Implementation (NSDI 26)},
+year = {2026},
+isbn = {978-1-939133-54-0},
+address = {Renton, WA},
+pages = {571--590},
+url = {https://www.usenix.org/conference/nsdi26/presentation/fan},
+publisher = {USENIX Association},
+month = may
+}

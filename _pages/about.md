@@ -42,11 +42,15 @@ Recently, I have been working on optimizing LLM pre-training in supernode-based 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IAC 2026</div><img src='images/IAC2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Diana: A Satellite-Based Lunar Time and Frequency System](https://jayfzh.github.io)
+**Diana: A Satellite-Based Lunar Time and Frequency System**
 
-Changgang Zheng, Luyuan Wang, Jionghui Li, Haonan Li, **Zihao Fan**, Mingxin Li, Bo Jiang, Tian Pan, Jinjun Zheng
+Changgang Zheng, Luyuan Wang, Jionghui Li, Haonan Li, **Zihao Fan**, et al.
 
 **IAC 2026**, Antalya
+
+Paper \| Link \| BibTex
+
+[Selected from 8,300+ submissions from 108 countries]
 
 </div>
 </div>
@@ -54,62 +58,71 @@ Changgang Zheng, Luyuan Wang, Jionghui Li, Haonan Li, **Zihao Fan**, Mingxin Li,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">APNet 2026</div><img src='images/apnet2026.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Integrating AI Clusters into Virtual Private Cloud](https://jayfzh.github.io)
+**Integrating AI Clusters into Virtual Private Cloud**
 
 Yinhe Wang, Xing Li, Enge Song, **Zihao Fan**, Changgang Zheng, Haonan Li, et al.
 
 **APNet'26**, Singapore
 
-**[CCF C]** Acceptance Rate: 39/147=26.5%
+Paper \| Link \| BibTex
+
+[CCF C] [Acceptance Rate: 39/147=26.5%]
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">APNet 2026</div><img src='images/apnet2026.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Single-Core Hotspots on Your VNF? Break Them Up!](https://jayfzh.github.io)
+**Single-Core Hotspots on Your VNF? Break Them Up!**
 
 Changgang Zheng, Bowen Yang, Jin Ke, Ye Yang, Enge Song, Haonan Li, **Zihao Fan**, Mingxin Li, et al.
 
 **APNet'26**, Singapore
 
-**[CCF C]** Acceptance Rate: 39/147=26.5%
+Paper \| Link \| BibTex
+
+[CCF C] [Acceptance Rate: 39/147=26.5%]
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSDI 2026</div><img src='images/nsdi26.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Bifrost: Alibaba's Next-Generation VPC Network with High-Performance Multipath Reliable Transport](https://www.usenix.org/system/files/nsdi26-fan.pdf)
+**Bifrost: Alibaba's Next-Generation VPC Network with High-Performance Multipath Reliable Transport**
 
-**Zihao Fan**, Xing Li, [Ye Yang](https://yangye-huaizhou.github.io/), Bo Jiang, et al.
+**Zihao Fan**, Xing Li, Ye Yang, Bo Jiang, et al.
 
-**NSDI'26**, Renton, USA 
+**NSDI'26**, Renton, USA
 
-**[CCF A]** Acceptance Rate: 100/452=22.1%
+[Paper](https://www.usenix.org/system/files/nsdi26-fan.pdf) \| [Link](https://www.usenix.org/conference/nsdi26/presentation/fan) \| [BibTex](../bib/nsdi26_bifrost_bib.txt)
+
+[CCF A] [Acceptance Rate: 100/452=22.1%]
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSDI 2026</div><img src='images/nsdi26.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CStar Gateway: Augmenting Public Cloud Infrastructure for Heterogeneous Network Function Virtualization](https://www.usenix.org/system/files/nsdi26-li-haonan.pdf)
+**CStar Gateway: Augmenting Public Cloud Infrastructure for Heterogeneous Network Function Virtualization**
 
 Haonan Li, Tian Pan, Jin Ke, Baohai Hu, Changgang Zheng, ... , **Zihao Fan**, et al.
 
-**NSDI'26**, Renton, USA 
+**NSDI'26**, Renton, USA
 
-**[CCF A]** Acceptance Rate: 100/452=22.1%
+[Paper](https://www.usenix.org/system/files/nsdi26-li-haonan.pdf)  \| [Link](https://www.usenix.org/conference/nsdi26/presentation/li-haonan) \| [BibTex](../bib/nsdi26_csgw_bib.txt)
+
+[CCF A] [Acceptance Rate: 100/452=22.1%]
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/sibyl.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SIBYL: Speculative Inference Balancing for XPYD Scheduling in
-Disaggregated LLM Serving](../pubs/ICML_26_SIBYL__Speculative_Inference_Balancing_for_XpYd_Scheduling_in_Disaggregated_LLM_Serving.pdf)
+**SIBYL: Speculative Inference Balancing for XPYD Scheduling in Disaggregated LLM Serving**
 
 **Zihao Fan**, Changgang Zheng, Bo Jiang, et al.
+
+[Paper](../pubs/ICML_26_SIBYL__Speculative_Inference_Balancing_for_XpYd_Scheduling_in_Disaggregated_LLM_Serving.pdf)  \| Link \| BibTex
 
 In submission
 </div>
@@ -119,9 +132,11 @@ In submission
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/real.jpg' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Real: Efficient Distributed Training of Dynamic GNNs with Reuse-Aware Load Balancing Scheduling](../pubs/SIGMETRICS_26_Real__Efficient_Distributed_Training_of_Dynamic_GNNs_with_Reuse_Aware_Load_Balancing_Scheduling.pdf)
+**Real: Efficient Distributed Training of Dynamic GNNs with Reuse-Aware Load Balancing Scheduling**
 
 **Zihao Fan**, Yunzhuo Liu, Bo Jiang, Tian Guo
+
+[Paper](../pubs/SIGMETRICS_26_Real__Efficient_Distributed_Training_of_Dynamic_GNNs_with_Reuse_Aware_Load_Balancing_Scheduling.pdf) \| Link \| BibTex
 
 In submission
 </div>
@@ -153,9 +168,9 @@ In submission
 
 **APNet'25**, Shanghai, China
 
-[Paper](../pubs/APNet25-Understanding.pdf) \| [Link](https://dl.acm.org/doi/10.1145/3735358.3735393) \| [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:hL7Qa4bsmKkJ:scholar.google.com/&output=citation&scisdr=ClhdExH4ELaBqDG7K5k:AFyMTJUAAAAAaf69M5mWIWbGP2nCrrntiwWbVhc&scisig=AFyMTJUAAAAAaf69M92u6dQAzki9zmfZRvSjwtc&scisf=4&ct=citation&cd=-1&hl=zh-CN)
+[Paper](../pubs/APNet25-Understanding.pdf) \| [Link](https://dl.acm.org/doi/10.1145/3735358.3735393) \| [BibTex](../bib/apnet25_bifrost_bib.txt)
 
-**[CCF C]** Acceptance Rate: 34/133=25.6%
+[CCF C] [Acceptance Rate: 34/133=25.6%]
 </div>
 </div>
 

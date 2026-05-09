@@ -1,0 +1,12 @@
+@inproceedings {316656,
+author = {Haonan Li and Tian Pan and Jin Ke and Baohai Hu and Changgang Zheng and Enge Song and Zhi Xu and Ye Yang and Bowen Yang and Donglin Lai and Yisong Qiao and Bengbeng Xue and Jianyuan Lu and Xiaoqing Sun and Shize Zhang and Zihao Fan and Mingxin Li and Yang Song and Jun Liang and Xionglie Wei and Biao Lyu and Rong Wen and Zhigang Zong and Jiao Zhang and Tao Huang and Shunmin Zhu},
+title = {{CStar} Gateway: Augmenting Public Cloud Infrastructure for Heterogeneous Network Function Virtualization},
+booktitle = {23rd USENIX Symposium on Networked Systems Design and Implementation (NSDI 26)},
+year = {2026},
+isbn = {978-1-939133-54-0},
+address = {Renton, WA},
+pages = {1501--1515},
+url = {https://www.usenix.org/conference/nsdi26/presentation/li-haonan},
+publisher = {USENIX Association},
+month = may
+}
