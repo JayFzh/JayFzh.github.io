@@ -147,7 +147,7 @@ In submission
 
 **Understanding the Long Tail Latency of TCP in Large-Scale Cloud Networks**
 
-**Zihao Fan**, [Enge Song](https://ng-95.github.io//), Bo Jiang, Yang Song, et al.
+**Zihao Fan**, Enge Song, Bo Jiang, Yang Song, et al.
 
 **APNet'25**, Shanghai, China
 
