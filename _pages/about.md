@@ -29,6 +29,7 @@ Recently, I have been working on optimizing LLM pre-training in supernode-based 
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉 Our paper ("MCP Gateway") has been accepted by APNet 2026 as a poster!
 - *2026.05*: &nbsp;🎉 Our paper ("Diana") has been accepted by IAC 2026!
 - *2026.04*: &nbsp;🎉🎉 Two papers have been accepted by APNet 2026!
 - *2026.03*: &nbsp;🎉 Joined Tencent TEG **Hunyuan** AI Infra Team as Research Intern (Qingyun Talent Program).
@@ -38,6 +39,20 @@ Recently, I have been working on optimizing LLM pre-training in supernode-based 
 - *2024.08*: &nbsp;🎉 Joined Alibaba Cloud as Alibaba Innovative Research (AIR) Intern. 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APNet 2026</div><img src='images/apnet2026.png' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Scaling LLM Agent Tool Access at Cloud Scale**
+
+Mingxin Li, Enge Song, Yueshang Zuo, ... , **Zihao Fan**, et al.
+
+**APNet'26 Poster**, Singapore
+
+Paper \| Link \| BibTex
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IAC 2026</div><img src='images/IAC2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
