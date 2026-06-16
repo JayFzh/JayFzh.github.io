@@ -49,7 +49,7 @@ Mingxin Li, Enge Song, Yueshang Zuo, ... , **Zihao Fan**, et al.
 
 **APNet'26 Poster**, Singapore
 
-Paper \| Link \| BibTex
+[Paper](../pubs/apnet26-mingxinli.pdf) \| Link \| BibTex
 
 </div>
 </div>
@@ -63,7 +63,7 @@ Changgang Zheng, Luyuan Wang, Jionghui Li, Haonan Li, **Zihao Fan**, et al.
 
 **IAC 2026**, Antalya
 
-[Paper](../pubs/apnet26-mingxinli.pdf) \| Link \| BibTex
+Paper \| Link \| BibTex
 
 [Selected from 8,300+ submissions from 108 countries]
 
