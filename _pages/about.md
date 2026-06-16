@@ -63,7 +63,7 @@ Changgang Zheng, Luyuan Wang, Jionghui Li, Haonan Li, **Zihao Fan**, et al.
 
 **IAC 2026**, Antalya
 
-Paper \| Link \| BibTex
+[Paper](../pubs/apnet26-mingxinli.pdf) \| Link \| BibTex
 
 [Selected from 8,300+ submissions from 108 countries]
 
@@ -79,7 +79,7 @@ Yinhe Wang, Xing Li, Enge Song, **Zihao Fan**, Changgang Zheng, Haonan Li, et al
 
 **APNet'26**, Singapore
 
-Paper \| Link \| BibTex
+[Paper](../pubs/apnet26-yinhewang.pdf) \| Link \| BibTex
 
 [CCF C] [Acceptance Rate: 39/147=26.5%]
 </div>
@@ -94,7 +94,7 @@ Changgang Zheng, Bowen Yang, Jin Ke, Ye Yang, Enge Song, Haonan Li, **Zihao Fan*
 
 **APNet'26**, Singapore
 
-Paper \| Link \| BibTex
+[Paper](../pubs/apnet26-changgangzheng.pdf) \| Link \| BibTex
 
 [CCF C] [Acceptance Rate: 39/147=26.5%]
 </div>
@@ -139,7 +139,7 @@ Haonan Li, Tian Pan, Jin Ke, Baohai Hu, Changgang Zheng, ... , **Zihao Fan**, et
 
 [Paper](../pubs/ICML_26_SIBYL__Speculative_Inference_Balancing_for_XpYd_Scheduling_in_Disaggregated_LLM_Serving.pdf)  \| Link \| BibTex
 
-In submission
+Preprint, Under Review
 </div>
 </div>
 
@@ -153,7 +153,7 @@ In submission
 
 [Paper](../pubs/SIGMETRICS_26_Real__Efficient_Distributed_Training_of_Dynamic_GNNs_with_Reuse_Aware_Load_Balancing_Scheduling.pdf) \| Link \| BibTex
 
-In submission
+Preprint, Under Review
 </div>
 </div>
 
@@ -169,7 +169,7 @@ Zimeng Huang, Shijian Li, **Zihao Fan**, Bo Jiang, Tian Guo
 
 [Paper](../pubs/Cornucopia_JPDC_Revised_Manuscript.pdf) \| Link \| BibTex
 
-In submission
+Preprint, Under Review
 </div>
 </div>
 
