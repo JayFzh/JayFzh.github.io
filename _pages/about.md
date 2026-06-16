@@ -186,8 +186,6 @@ Preprint, Under Review
 [Paper](../pubs/APNet25-Understanding.pdf) \| [Link](https://dl.acm.org/doi/10.1145/3735358.3735393) \| [BibTex](../bib/apnet25_bifrost_bib.txt)
 
 [CCF C] [Acceptance Rate: 34/133=25.6%]
-</div>
-</div>
 
 <!-- 暂时注释掉示例论文
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
