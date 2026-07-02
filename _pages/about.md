@@ -23,7 +23,7 @@ I am currently a Research Intern (**Qingyun Talent Program**) at **Hunyuan AI In
 Before that, I was a Research Intern at the **Luoshen Cloud Network Research Team**, Alibaba Cloud, advised by [Dr. Yang Song](https://scholar.google.com/citations?user=0JikOGMAAAAJ&hl=zh-CN&oi=sra), focusing on large-scale network systems.
 
 My research interests span infrastructure optimization for LLM pre-training and inference, with a particular focus on Networking for AI. 
-Recently, I have been working on optimizing LLM pre-training in supernode-based GPU clusters.
+Recently, I have been working on optimizing training efficiency for long-context LLMs at the scale of ten-thousand GPUs.
 
 
 
