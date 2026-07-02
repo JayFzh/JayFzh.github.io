@@ -1,9 +1,12 @@
 name: Get Citation Data
 
-on: 
- page_build: 
+on:
+ workflow_run:
+  workflows: ["Deploy Jekyll site to Pages"]
+  types: [completed]
  schedule:
   - cron:  '0 8 * * *'
+ workflow_dispatch:
 
 jobs:
   build:
