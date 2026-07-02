@@ -50,7 +50,7 @@ Recently, I have been working on optimizing LLM pre-training in supernode-based 
 
 **SC'26**, Chicago, USA
 
-[Paper](../pubs/SIGMETRICS_26_Real__Efficient_Distributed_Training_of_Dynamic_GNNs_with_Reuse_Aware_Load_Balancing_Scheduling.pdf) \| Link \| BibTex
+[Paper](../pubs/SC26-REAL.pdf) \| Link \| BibTex
 
 [CCF A] [Acceptance Rate: 147/769=19.2%]
 </div>
