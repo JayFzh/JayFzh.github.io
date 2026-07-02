@@ -52,7 +52,7 @@ Recently, I have been working on optimizing LLM pre-training in supernode-based 
 
 [Paper](../pubs/SIGMETRICS_26_Real__Efficient_Distributed_Training_of_Dynamic_GNNs_with_Reuse_Aware_Load_Balancing_Scheduling.pdf) \| Link \| BibTex
 
-[CCF A] [Acceptance Rate: 146/769=19.2%]
+[CCF A] [Acceptance Rate: 147/769=19.2%]
 </div>
 </div>
 
