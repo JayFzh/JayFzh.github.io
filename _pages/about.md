@@ -41,7 +41,7 @@ Recently, I have been working on optimizing training efficiency for long-context
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SC 26</div><img src='images/sc26.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SC 2026</div><img src='images/sc26.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Real: Efficient Distributed Training of Dynamic GNNs with Reuse-Aware Load Balancing Scheduling**
