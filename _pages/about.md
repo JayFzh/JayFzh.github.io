@@ -29,6 +29,7 @@ Recently, I have been working on optimizing LLM pre-training in supernode-based 
 
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉 Our paper ("Real") has been accepted by SC 2026!
 - *2026.05*: &nbsp;🎉 Our paper ("MCP Gateway") has been accepted by APNet 2026 as a poster!
 - *2026.05*: &nbsp;🎉 Our paper ("Diana") has been accepted by IAC 2026!
 - *2026.04*: &nbsp;🎉🎉 Two papers have been accepted by APNet 2026!
@@ -39,6 +40,21 @@ Recently, I have been working on optimizing LLM pre-training in supernode-based 
 - *2024.08*: &nbsp;🎉 Joined Alibaba Cloud as Alibaba Innovative Research (AIR) Intern. 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/sc26.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Real: Efficient Distributed Training of Dynamic GNNs with Reuse-Aware Load Balancing Scheduling**
+
+**Zihao Fan**, Yunzhuo Liu, Bo Jiang, Tian Guo
+
+**SC'26**, Chicago, USA
+
+[Paper](../pubs/SIGMETRICS_26_Real__Efficient_Distributed_Training_of_Dynamic_GNNs_with_Reuse_Aware_Load_Balancing_Scheduling.pdf) \| Link \| BibTex
+
+[CCF A] [Acceptance Rate: 146/769=19.2%]
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">APNet 2026</div><img src='images/apnet2026.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -142,22 +158,6 @@ Haonan Li, Tian Pan, Jin Ke, Baohai Hu, Changgang Zheng, ... , **Zihao Fan**, et
 Preprint, Under Review
 </div>
 </div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/real.jpg' alt="sym" width="70%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Real: Efficient Distributed Training of Dynamic GNNs with Reuse-Aware Load Balancing Scheduling**
-
-**Zihao Fan**, Yunzhuo Liu, Bo Jiang, Tian Guo
-
-[Paper](../pubs/SIGMETRICS_26_Real__Efficient_Distributed_Training_of_Dynamic_GNNs_with_Reuse_Aware_Load_Balancing_Scheduling.pdf) \| Link \| BibTex
-
-Preprint, Under Review
-</div>
-</div>
-
-
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/cornucopia.png' alt="sym" width="70%"></div></div>
