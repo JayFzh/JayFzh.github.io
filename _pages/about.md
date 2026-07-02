@@ -41,7 +41,7 @@ Recently, I have been working on optimizing LLM pre-training in supernode-based 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/sc26.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SC 26</div><img src='images/sc26.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Real: Efficient Distributed Training of Dynamic GNNs with Reuse-Aware Load Balancing Scheduling**
