@@ -46,7 +46,7 @@ Recently, I have been working on optimizing training efficiency for long-context
 
 **Real: Efficient Distributed Training of Dynamic GNNs with Reuse-Aware Load Balancing Scheduling**
 
-**Zihao Fan**, Yunzhuo Liu, Bo Jiang, Tian Guo
+**Zihao Fan**, Yunzhuo Liu, Tian Guo, Bo Jiang
 
 **SC'26**, Chicago, USA
 
