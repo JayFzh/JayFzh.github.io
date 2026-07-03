@@ -17,13 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year Ph.D. student in the Department of Computer Science and Engineering at Shanghai Jiao Tong University (SJTU), advised by [Prof. Bo Jiang](https://jhc.sjtu.edu.cn/~bjiang/). 
-Before that, I received B.Eng. in Computer Science from Beijing University of Posts and Telecommunications (BUPT) in 2023, supervised by [Prof. Jingyu Wang](https://teacher.bupt.edu.cn/wangjingyu).
-I am currently a Research Intern (**Qingyun Talent Program**) at **Hunyuan AI Infra Team**, Tencent TEG, focusing on LLM pre-training.
-Before that, I was a Research Intern at the **Luoshen Cloud Network Research Team**, Alibaba Cloud, advised by [Dr. Yang Song](https://scholar.google.com/citations?user=0JikOGMAAAAJ&hl=zh-CN&oi=sra), focusing on large-scale network systems.
+I am a third-year Ph.D. student in the Department of Computer Science and Engineering at Shanghai Jiao Tong University (SJTU), where I am fortunate to be advised by [Prof. Bo Jiang](https://jhc.sjtu.edu.cn/~bjiang/).
+Prior to that, I received my B.Eng. in Computer Science from Beijing University of Posts and Telecommunications (BUPT) in 2023, under the supervision of [Prof. Jingyu Wang](https://teacher.bupt.edu.cn/wangjingyu).
 
-My research interests span infrastructure optimization for LLM pre-training and inference, with a particular focus on Networking for AI. 
-Recently, I have been working on optimizing training efficiency for long-context LLMs at the scale of ten-thousand GPUs.
+I am currently a Research Intern (**Qingyun Talent Program**) with the [**Hunyuan AI Infra Team**](https://hy.tencent.com) at Tencent TEG, building the infrastructure and systems that power large-scale LLM pre-training.
+Before joining Tencent, since 2024, I was a Research Intern with the **Luoshen Cloud Network Research Team** at Alibaba Cloud, advised by the esteemed [Dr. Yang Song](https://scholar.google.com/citations?user=0JikOGMAAAAJ&hl=zh-CN&oi=sra), where I had a truly wonderful and rewarding time.
+There, I worked on inference infrastructure and Networking for AI, with a focus on optimizing KV cache traffic transfer in prefill–decoding disaggregation scenarios.
+
+My research interests center on infrastructure optimization for LLM pre-training and inference, with a particular emphasis on Networking for AI.
+Most recently, I have been working on improving training efficiency for long-context LLMs at the scale of ten-thousand GPUs.
 
 
 
