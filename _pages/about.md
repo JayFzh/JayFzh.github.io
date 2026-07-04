@@ -43,7 +43,7 @@ Most recently, I have been working on improving training efficiency for long-con
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SC 2026</div><img src='images/nice_pic/SC26-real.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SC 2026</div><img src='images/nice_pic/SC26-real.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Real: Efficient Distributed Training of Dynamic GNNs with Reuse-Aware Load Balancing Scheduling**
