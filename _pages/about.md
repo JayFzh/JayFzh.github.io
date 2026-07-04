@@ -148,7 +148,22 @@ Haonan Li, Tian Pan, Jin Ke, Baohai Hu, Changgang Zheng, ... , **Zihao Fan**, et
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/sibyl.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APNet 2025</div><img src='images/nice_pic/apnet25-bifrost.png' alt="sym" width="60%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Understanding the Long Tail Latency of TCP in Large-Scale Cloud Networks**
+
+**Zihao Fan**, Enge Song, Bo Jiang, Yang Song, et al.
+
+**APNet'25**, Shanghai, China
+
+[Paper](../pubs/APNet25-Understanding.pdf) \| [Link](https://dl.acm.org/doi/10.1145/3735358.3735393) \| [BibTex](../bib/apnet25_bifrost_bib.txt)
+
+[CCF C] [Acceptance Rate: 34/133=25.6%]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/nice_pic/preprint-sibyl.png' alt="sym" width="00%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **SIBYL: Speculative Inference Balancing for XPYD Scheduling in Disaggregated LLM Serving**
@@ -162,7 +177,7 @@ Preprint, Under Review
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/cornucopia.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/nice_pic/preprint-cornucopia.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Cornucopia: Elastic GPU Cluster Management for Mixed Batch-Interactive Distributed Training**
@@ -172,22 +187,6 @@ Zimeng Huang, Shijian Li, **Zihao Fan**, Bo Jiang, Tian Guo
 [Paper](../pubs/Cornucopia_JPDC_Revised_Manuscript.pdf) \| Link \| BibTex
 
 Preprint, Under Review
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APNet 2025</div><img src='images/apnet2025.png' alt="sym" width="60%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Understanding the Long Tail Latency of TCP in Large-Scale Cloud Networks**
-
-**Zihao Fan**, Enge Song, Bo Jiang, Yang Song, et al.
-
-**APNet'25**, Shanghai, China
-
-[Paper](../pubs/APNet25-Understanding.pdf) \| [Link](https://dl.acm.org/doi/10.1145/3735358.3735393) \| [BibTex](../bib/apnet25_bifrost_bib.txt)
-
-[CCF C] [Acceptance Rate: 34/133=25.6%]
 </div>
 </div>
 
