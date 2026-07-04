@@ -58,7 +58,7 @@ Most recently, I have been working on improving training efficiency for long-con
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APNet 2026</div><img src='images/apnet2026.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APNet 2026</div><img src='images/nice_pic/apnet26-mcpgw.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Scaling LLM Agent Tool Access at Cloud Scale**
