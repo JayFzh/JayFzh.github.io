@@ -88,7 +88,7 @@ Paper \| Link \| BibTex
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APNet 2026</div><img src='images/apnet2026.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APNet 2026</div><img src='images/nice_pic/apnet26-nicmode.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Integrating AI Clusters into Virtual Private Cloud**
@@ -103,7 +103,7 @@ Yinhe Wang, Xing Li, Enge Song, **Zihao Fan**, Changgang Zheng, Haonan Li, et al
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APNet 2026</div><img src='images/apnet2026.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APNet 2026</div><img src='images/nice_pic/apnet26-paraflowo.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Single-Core Hotspots on Your VNF? Break Them Up!**
