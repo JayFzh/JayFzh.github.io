@@ -148,7 +148,7 @@ Haonan Li, Tian Pan, Jin Ke, Baohai Hu, Changgang Zheng, ... , **Zihao Fan**, et
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APNet 2025</div><img src='images/nice_pic/apnet25-bifrost.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APNet 2025</div><img src='images/nice_pic/apnet25-bifrost.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Understanding the Long Tail Latency of TCP in Large-Scale Cloud Networks**
@@ -163,7 +163,7 @@ Haonan Li, Tian Pan, Jin Ke, Baohai Hu, Changgang Zheng, ... , **Zihao Fan**, et
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/nice_pic/preprint-sibyl.png' alt="sym" width="00%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/nice_pic/preprint-sibyl.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **SIBYL: Speculative Inference Balancing for XPYD Scheduling in Disaggregated LLM Serving**
@@ -177,7 +177,7 @@ Preprint, Under Review
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/nice_pic/preprint-cornucopia.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/nice_pic/preprint-cornucopia.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Cornucopia: Elastic GPU Cluster Management for Mixed Batch-Interactive Distributed Training**
