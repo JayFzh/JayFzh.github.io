@@ -118,7 +118,7 @@ Changgang Zheng, Bowen Yang, Jin Ke, Ye Yang, Enge Song, Haonan Li, **Zihao Fan*
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSDI 2026</div><img src='images/nsdi26.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSDI 2026</div><img src='images/nice_pic/nsdi26-bifrost.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Bifrost: Alibaba's Next-Generation VPC Network with High-Performance Multipath Reliable Transport**
@@ -133,7 +133,7 @@ Changgang Zheng, Bowen Yang, Jin Ke, Ye Yang, Enge Song, Haonan Li, **Zihao Fan*
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSDI 2026</div><img src='images/nsdi26.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSDI 2026</div><img src='images/nice_pic/nsdi26-csgw.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **CStar Gateway: Augmenting Public Cloud Infrastructure for Heterogeneous Network Function Virtualization**
