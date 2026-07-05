@@ -209,31 +209,6 @@ Preprint, Under Review
 <!-- # 🎖 Honors and Awards
 - To be added...  -->
 
-# 📖 Educations
-
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="images/sjtu-logo.png" alt="SJTU Logo" style="width: 80px; height: 80px; margin-right: 20px; object-fit: contain;">
-  <div>
-    <strong>2023.09 - Present, Ph.D. in Computer Science</strong><br>
-    Shanghai Jiao Tong University, Shanghai, China<br>
-    Advisor: Prof. Bo Jiang<br>
-    Research Focus: Networking4AI, Distributed Systems, AI Infrastructure
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="images/bupt-logo.png" alt="BUPT Logo" style="width: 75px; height: 75px; margin-right: 25px; object-fit: contain;">
-  <div>
-    <strong>2019.09 - 2023.06, B.Eng. in Computer Science</strong><br>
-    Beijing University of Posts and Telecommunications, Beijing, China<br>
-    Advisor: Prof. Jingyu Wang<br>
-    GPA: 91.17/100, Rank: Top 3% in major
-  </div>
-</div>
-
-<!-- # 💬 Invited Talks
-- To be added... -->
-
 # 💻 Internships
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
@@ -269,6 +244,31 @@ Preprint, Under Review
     <strong>2021.04 - 2021.09, Research Assistant</strong><br>
     Wangxuan Institute of Computer Technology, Peking University, Beijing<br>
     Focus: Computer vision and object detection
+  </div>
+</div>
+
+<!-- # 💬 Invited Talks
+- To be added... -->
+
+# 📖 Educations
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="images/sjtu-logo.png" alt="SJTU Logo" style="width: 80px; height: 80px; margin-right: 20px; object-fit: contain;">
+  <div>
+    <strong>2023.09 - Present, Ph.D. in Computer Science</strong><br>
+    Shanghai Jiao Tong University, Shanghai, China<br>
+    Advisor: Prof. Bo Jiang<br>
+    Research Focus: Networking4AI, Distributed Systems, AI Infrastructure
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="images/bupt-logo.png" alt="BUPT Logo" style="width: 75px; height: 75px; margin-right: 25px; object-fit: contain;">
+  <div>
+    <strong>2019.09 - 2023.06, B.Eng. in Computer Science</strong><br>
+    Beijing University of Posts and Telecommunications, Beijing, China<br>
+    Advisor: Prof. Jingyu Wang<br>
+    GPA: 91.17/100, Rank: Top 3% in major
   </div>
 </div>
 
