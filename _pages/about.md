@@ -170,7 +170,7 @@ Haonan Li, Tian Pan, Jin Ke, Baohai Hu, Changgang Zheng, ... , **Zihao Fan**, et
 
 **Zihao Fan**, Changgang Zheng, Bo Jiang, et al.
 
-[Paper](../pubs/ICML_26_SIBYL__Speculative_Inference_Balancing_for_XpYd_Scheduling_in_Disaggregated_LLM_Serving.pdf)  \| Link \| BibTex
+[Paper](../pubs/ATC_26_SIBYL.pdf)  \| Link \| BibTex
 
 Preprint, Under Review
 </div>
