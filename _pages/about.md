@@ -31,14 +31,14 @@ Most recently, I have been working on improving training efficiency for long-con
 
 
 # 🔥 News
-- *2026.07*: &nbsp;🎉 Our paper ("Cornucopia") has been accepted by JPDC!
-- *2026.07*: &nbsp;🎉 Our paper ("Real") has been accepted by SC 2026!
-- *2026.05*: &nbsp;🎉 Our paper ("MCP Gateway") has been accepted by APNet 2026 as a poster!
-- *2026.05*: &nbsp;🎉 Our paper ("Diana") has been accepted by IAC 2026!
-- *2026.04*: &nbsp;🎉🎉 Two papers have been accepted by APNet 2026!
+- *2026.07*: &nbsp;🎉 Our paper ("Cornucopia") has been accepted by **JPDC**!
+- *2026.07*: &nbsp;🎉 Our paper ("Real") has been accepted by **SC 2026**!
+- *2026.05*: &nbsp;🎉 Our paper ("MCP Gateway") has been accepted by **APNet** 2026 as a poster!
+- *2026.05*: &nbsp;🎉 Our paper ("Diana") has been accepted by **IAC 2026**!
+- *2026.04*: &nbsp;🎉🎉 Two papers have been accepted by **APNet 2026**!
 - *2026.03*: &nbsp;🎉 Joined Tencent TEG **Hunyuan** AI Infra Team as Research Intern (Qingyun Talent Program).
-- *2025.12*: &nbsp;🎉🎉 Two papers ("Bifrost" and "CStar Gateway") have been accepted by NSDI 2026!
-- *2025.03*: &nbsp;🎉 Our paper "Understanding the Long Tail Latency of TCP in Large-Scale Cloud Networks" has been accepted by APNet 2025!
+- *2025.12*: &nbsp;🎉🎉 Two papers ("Bifrost" and "CStar Gateway") have been accepted by **NSDI 2026**!
+- *2025.03*: &nbsp;🎉 Our paper "Understanding the Long Tail Latency of TCP in Large-Scale Cloud Networks" has been accepted by **APNet 2025**!
 - *2025.01*: &nbsp;🎉 Started as Research Intern at Alibaba Cloud - **Luoshen** Cloud Networking Research Team.
 - *2024.08*: &nbsp;🎉 Joined Alibaba Cloud as Alibaba Innovative Research (AIR) Intern. 
 
@@ -275,10 +275,10 @@ Preprint, Under Review
   </div>
 </div>
 
-# 🎖 Honors and Awards
+<!-- # 🎖 Honors and Awards
 - **NSDI Student Grant**, 2026
 - **APNet Travel Grant**, 2025
 - **Outstanding Graduates**, BUPT, 2023
 - **Second Prize**, The Chinese Mathematics Competitions (CMC), 2022
 - **Merit Student**, BUPT, 2021, 2022
-- **Academic Scholarship**, BUPT, 2020, 2021, 2022
+- **Academic Scholarship**, BUPT, 2020, 2021, 2022 -->
