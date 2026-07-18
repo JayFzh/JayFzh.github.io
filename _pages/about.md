@@ -31,6 +31,7 @@ Most recently, I have been working on improving training efficiency for long-con
 
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉 Our paper ("Cornucopia") has been accepted by JPDC!
 - *2026.07*: &nbsp;🎉 Our paper ("Real") has been accepted by SC 2026!
 - *2026.05*: &nbsp;🎉 Our paper ("MCP Gateway") has been accepted by APNet 2026 as a poster!
 - *2026.05*: &nbsp;🎉 Our paper ("Diana") has been accepted by IAC 2026!
@@ -42,6 +43,21 @@ Most recently, I have been working on improving training efficiency for long-con
 - *2024.08*: &nbsp;🎉 Joined Alibaba Cloud as Alibaba Innovative Research (AIR) Intern. 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/nice_pic/preprint-cornucopia.png' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Cornucopia: Elastic GPU Cluster Management for Mixed Batch-Interactive Distributed Training**
+
+Zimeng Huang, Shijian Li, **Zihao Fan**, Bo Jiang, Tian Guo
+
+**JPDC** (Journal of Parallel and Distributed Computing)
+
+[Paper](../pubs/Cornucopia_JPDC_Revised_Manuscript.pdf) \| Link \| BibTex
+
+[CCF B] [JCR Q1] [IF: 4.0]
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SC 2026</div><img src='images/nice_pic/SC26-real.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -176,19 +192,6 @@ Preprint, Under Review
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/nice_pic/preprint-cornucopia.png' alt="sym" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Cornucopia: Elastic GPU Cluster Management for Mixed Batch-Interactive Distributed Training**
-
-Zimeng Huang, Shijian Li, **Zihao Fan**, Bo Jiang, Tian Guo
-
-[Paper](../pubs/Cornucopia_JPDC_Revised_Manuscript.pdf) \| Link \| BibTex
-
-Preprint, Under Review
-</div>
-</div>
 
 <!-- 暂时注释掉示例论文
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
