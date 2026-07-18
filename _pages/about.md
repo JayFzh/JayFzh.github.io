@@ -44,7 +44,7 @@ Most recently, I have been working on improving training efficiency for long-con
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/nice_pic/preprint-cornucopia.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JPDC</div><img src='images/nice_pic/preprint-cornucopia.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Cornucopia: Elastic GPU Cluster Management for Mixed Batch-Interactive Distributed Training**
