@@ -1,0 +1,9 @@
+@misc{li2026scalablellmagenttool,
+      title={Scalable LLM Agent Tool Access in the Cloud}, 
+      author={Mingxin Li and Enge Song and Yueshang Zuo and Xiaodong Liu and Rong Wen and Qiang Fu and Gianni Antichi and Jian He and Jing Tie and Zhou Shao and Xiaobo Xue and Xiong Xiao and Luyao Zhong and Shaokai Zhang and Jiangu Zhao and Jianyuan Lu and Shize Zhang and Xiaoqing Sun and Changgang Zheng and Zihao Fan and Haonan Li and Tian Pan and Xiaomin Wu and Yang Song and Xing Li and Biao Lyu and Meng Li and Haipeng Dai and Guihai Chen and Shunmin Zhu},
+      year={2026},
+      eprint={2607.15593},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC},
+      url={https://arxiv.org/abs/2607.15593}, 
+}

@@ -31,6 +31,7 @@ Most recently, I have been working on improving training efficiency for long-con
 
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉 Our paper ("MCP Gateway") is now available on ArXiv!
 - *2026.07*: &nbsp;🎉 Our paper ("Cornucopia") has been accepted by **JPDC**!
 - *2026.07*: &nbsp;🎉 Our paper ("Real") has been accepted by **SC 2026**!
 - *2026.05*: &nbsp;🎉 Our paper ("MCP Gateway") has been accepted by **APNet** 2026 as a poster!
@@ -43,6 +44,20 @@ Most recently, I have been working on improving training efficiency for long-con
 - *2024.08*: &nbsp;🎉 Joined Alibaba Cloud as Alibaba Innovative Research (AIR) Intern. 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/nice_pic/preprint-mcpgw' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Scalable LLM Agent Tool Access in the Cloud**
+
+Mingxin Li, Enge Song, Yueshang Zuo, ... , **Zihao Fan**, et al.
+
+**Preprint**, 2026
+
+[Paper](https://arxiv.org/pdf/2607.15593) \| [Link](https://arxiv.org/abs/2607.15593) \| [BibTex](../bib/arxiv_mcpgw_bib.txt)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JPDC</div><img src='images/nice_pic/preprint-cornucopia.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
