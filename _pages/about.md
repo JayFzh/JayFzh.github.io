@@ -45,7 +45,7 @@ Most recently, I have been working on improving training efficiency for long-con
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/nice_pic/preprint-mcpgw' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/nice_pic/preprint-mcpgw.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Scalable LLM Agent Tool Access in the Cloud**
