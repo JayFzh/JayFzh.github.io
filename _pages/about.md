@@ -53,7 +53,7 @@ Zimeng Huang, Shijian Li, **Zihao Fan**, Bo Jiang, Tian Guo
 
 **JPDC** (Journal of Parallel and Distributed Computing)
 
-[Paper](../pubs/Cornucopia_JPDC_Revised_Manuscript.pdf) \| Link \| BibTex
+[Paper](../pubs/jpdc-cornucopia.pdf) \| [Link](https://www.sciencedirect.com/science/article/pii/S0743731526001127) \| [BibTex](../bib/jpdc_cornucopia_bib.txt)
 
 [CCF B] [JCR Q1] [IF: 4.0]
 </div>

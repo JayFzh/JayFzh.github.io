@@ -1,0 +1,12 @@
+@article{HUANG2026105334,
+title = {Cornucopia: Elastic GPU Cluster Management for Mixed Batch-Interactive Distributed Training},
+journal = {Journal of Parallel and Distributed Computing},
+pages = {105334},
+year = {2026},
+issn = {0743-7315},
+doi = {https://doi.org/10.1016/j.jpdc.2026.105334},
+url = {https://www.sciencedirect.com/science/article/pii/S0743731526001127},
+author = {Zimeng Huang and Shijian Li and Zihao Fan and Bo Jiang and Tian Guo},
+keywords = {distributed training, GPU cluster, elastic training, job scheduling},
+abstract = {The ability to quickly train deep learning (DL) models plays an important role in accelerating the model design process. DL practitioners often need to submit trial-and-error jobs when designing new models or debugging existing models; once the model architectures and the hyperparameters are set, practitioners will then train those models to convergence for inference deployment. Therefore, these trial-and-error jobs often need to be interactive as DL practitioners are actively working on the model design. However, existing GPU cluster managers often assume that training jobs are batch-oriented, leading to very long queueing time for interactive training jobs. To cater to a mix of interactive and batch training workloads, optimizing for both queueing time and job completion time (JCT) simultaneously, we have designed a new cluster manager called Cornucopia. We leverage a new feature called elastic training, which allows a job to be partially preempted to release GPU resources to a higher-priority job to start execution. Specifically, Cornucopia consists of three main components: a scheduler that determines the job queue based on priorities, a profiler that assesses the resource acceleration ratios of jobs, and an allocator that makes decisions regarding resource allocation and preemption. Via large-scale trace-driven simulations, we show that Cornucopia reduces the queuing time of interactive jobs by up to 90% while ensuring JCT compared to several recent GPU schedulers.}
+}
