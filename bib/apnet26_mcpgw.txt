@@ -1,0 +1,18 @@
+@inproceedings{10.1145/3820441.3821235,
+author = {Li, Mingxin and Song, Enge and Zuo, Yueshang and Liu, Xiaodong and Wen, Rong and He, Jian and Tie, Jing and Shao, Zhou and Fu, Qiang and Xue, Xiaobo and Xiao, Xiong and Zhong, Luyao and Zhang, Shaokai and Zhao, Jiangu and Lu, Jianyuan and Zhang, Shize and Sun, Xiaoqing and Zheng, Changgang and Fan, Zihao and Li, Haonan and Pan, Tian and Wu, Xiaomin and Song, Yang and Li, Xing and Lyu, Biao and Li, Meng and Dai, Haipeng and Chen, Guihai and Zhu, Shunmin},
+title = {Scaling LLM Agent Tool Access at Cloud Scale},
+year = {2026},
+isbn = {9798400726644},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3820441.3821235},
+doi = {10.1145/3820441.3821235},
+abstract = {LLM agents increasingly rely on tool calling, and the Model Context Protocol (MCP) standardizes it between agents and tool providers, reducing integration cost and driving rapid growth in tool scale. Yet a standardized interface does not make tool access work at production scale: legacy services are not MCP-callable, fast protocol evolution creates compatibility cost, large tool sets exhaust the context window, and stateful sessions complicate load balancing. We solve these with a shared control point, a centralized MCP Gateway System that makes MCP operational at cloud scale. The gateway breaks the direct-connect data plane and consolidates legacy API integration, protocol bridging, access control, and session-aware routing, while scaling out elastically at low per-call overhead. It scales agent tool access to thousands of cloud operations.},
+booktitle = {Proceedings of the 10th Asia-Pacific Workshop on Networking},
+pages = {304–307},
+numpages = {4},
+keywords = {Model Context Protocol, Cloud Networks, Gateway},
+location = {
+},
+series = {APNet '26}
+}

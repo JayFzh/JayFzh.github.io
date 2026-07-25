@@ -1,0 +1,18 @@
+@inproceedings{10.1145/3820441.3820442,
+author = {Zheng, Changgang and Yang, Bowen and Ke, Jin and Yang, Ye and Song, Enge and Li, Haonan and Fan, Zihao and Li, Mingxin and Lv, Yilong and Qiao, Yisong and Liang, Jun and Lai, Donglin and Xue, Bengbeng and Song, Yang and Li, Xing and Wen, Rong and Zong, Zhigang and Zhu, Shunmin},
+title = {Single-Core Hotspots on Your VNF? Break Them Up!},
+year = {2026},
+isbn = {9798400726644},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3820441.3820442},
+doi = {10.1145/3820441.3820442},
+abstract = {Current NFVs assign packets to CPU cores at flow granularity, where each flow is pinned to a single CPU. This approach is efficient under most scenarios but has exposed limitations when handling elephant flows. These “heavy hitters” overwhelm single cores, creating bottlenecks that affect overall throughput and degrade service quality. As networks scale to higher-speed links and core-rich CPUs, these imbalances become more severe. In this paper, we propose ParaFlowO, an architecture that Parallelizes processing elephant Flows across multiple CPU cores while preserving in-Order delivery. ParaFlowO breaks elephant flows into flowlets and dynamically rotates them across multiple cores. It integrates a lightweight reordering mechanism to preserve packet order and controls parallelism to mitigate contention on shared state. Preliminary evaluations show that ParaFlowO offers a practical solution to mixed-grained parallelism in stateful middleboxes.},
+booktitle = {Proceedings of the 10th Asia-Pacific Workshop on Networking},
+pages = {1–8},
+numpages = {8},
+keywords = {Network Function Virtualization; Stateful Middleboxes; Elephant Flows; Flowlet Switching; Parallel Packet Processing; Intra-Server Load Balancing},
+location = {
+},
+series = {APNet '26}
+}

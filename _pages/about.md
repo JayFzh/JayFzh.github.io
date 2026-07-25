@@ -98,7 +98,7 @@ Mingxin Li, Enge Song, Yueshang Zuo, ... , **Zihao Fan**, et al.
 
 **APNet'26 Poster**, Singapore
 
-[Paper](../pubs/apnet26-mingxinli.pdf) \| Link \| BibTex
+[Paper](../pubs/apnet26-mingxinli.pdf) \| [Link](https://dl.acm.org/doi/10.1145/3820441.3821235) \| [BibTex](../bib/apnet26_mcpgw.txt)
 
 </div>
 </div>
@@ -128,7 +128,7 @@ Yinhe Wang, Xing Li, Enge Song, **Zihao Fan**, Changgang Zheng, Haonan Li, et al
 
 **APNet'26**, Singapore
 
-[Paper](../pubs/apnet26-yinhewang.pdf) \| Link \| BibTex
+[Paper](../pubs/apnet26-yinhewang.pdf) \| [Link](https://dl.acm.org/doi/10.1145/3820441.3820459) \| [BibTex](../bib/apnet26_nicmode.txt)
 
 [CCF C] [Acceptance Rate: 39/147=26.5%]
 </div>
@@ -143,7 +143,7 @@ Changgang Zheng, Bowen Yang, Jin Ke, Ye Yang, Enge Song, Haonan Li, **Zihao Fan*
 
 **APNet'26**, Singapore
 
-[Paper](../pubs/apnet26-changgangzheng.pdf) \| Link \| BibTex
+[Paper](../pubs/apnet26-changgangzheng.pdf) \| [Link](https://dl.acm.org/doi/10.1145/3820441.3820442) \| [BibTex](../bib/apnet26_parao.txt)
 
 [CCF C] [Acceptance Rate: 39/147=26.5%]
 </div>

@@ -1,0 +1,18 @@
+@inproceedings{10.1145/3820441.3820459,
+author = {Wang, Yinhe and Li, Xing and Song, Enge and Fan, Zihao and Zheng, Changgang and Li, Haonan and Gao, Shengyao and Xiang, Juncheng and Yang, Ye and Cai, Junnan and Liu, Chang and Pan, Haoxiang and Song, Yang and Lv, Yilong and Fu, Qiang and Zong, Zhigang and Pan, Heng and Zhu, Shunmin},
+title = {Integrating AI Clusters into Virtual Private Cloud},
+year = {2026},
+isbn = {9798400726644},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3820441.3820459},
+doi = {10.1145/3820441.3820459},
+abstract = {While commodity NIC-based back-end AI networks offer ultra-high intra-cluster bandwidth for distributed training, their limited programmability and on-chip resources hinder the implementation of advanced VPC features such as fine-grained isolation and stateful security policies. Furthermore, access to resources within the VPC needs to be routed through the front-end DPU, which is shared by the scale-up domain. The mismatch between the front-end DPU’s bandwidth and the back-end requirements causes GPU underutilization when intensive VPC communication is required for content recommendation, AIGC, and federated learning workloads. We propose an architecture that decouples complex policy enforcement from high-speed packet forwarding to support VPC semantics on back-end NICs and enable front-end/back-end integration. Evaluations show near-full GPU utilization in our analytical model and 71 μ s P999 extra latency of the first packet, suggesting that commodity hardware can support both high-throughput AI training and flexible VPC features.},
+booktitle = {Proceedings of the 10th Asia-Pacific Workshop on Networking},
+pages = {122–129},
+numpages = {8},
+keywords = {AI clusters, Virtual Private Cloud, RDMA, cloud networking},
+location = {
+},
+series = {APNet '26}
+}
