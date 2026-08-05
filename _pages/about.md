@@ -45,6 +45,22 @@ Most recently, I have been working on improving training efficiency for long-con
 
 # 📝 Publications 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/nice_pic/HyDra.png' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**HyDra: Demystifying and Taming Dynamic Context Parallelism at Production Scale**
+
+**Zihao Fan**, Yunzhuo Liu, Bo Jiang, Changgang Zheng, Lin Zheng, Ray Ying, Key Zheng
+
+**Preprint**, 2026
+
+[Paper](../pubs/HyDra.pdf) \| Link \| BibTex
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/nice_pic/preprint-mcpgw.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
