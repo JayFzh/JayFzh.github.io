@@ -51,7 +51,7 @@ Most recently, I have been working on improving training efficiency for long-con
 
 **HyDra: Demystifying and Taming Dynamic Context Parallelism at Production Scale**
 
-**Zihao Fan**, Yunzhuo Liu, Bo Jiang, Changgang Zheng, Lin Zheng, Ray Ying, Key Zheng
+**Zihao Fan**, Yunzhuo Liu, Bo Jiang, Changgang Zheng, Lin Zheng, Ray Ying, Key Zhang
 
 **Preprint**, 2026
 
