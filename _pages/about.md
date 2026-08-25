@@ -99,7 +99,7 @@ Zimeng Huang, Shijian Li, **Zihao Fan**, Bo Jiang, Tian Guo
 
 **SC'26**, Chicago, USA
 
-[Paper](../pubs/SC26-REAL.pdf) \| Link \| BibTex
+[Paper](../pubs/SC26-Real.pdf) \| Link \| BibTex
 
 [CCF A] [Acceptance Rate: 147/769=19.2%]
 </div>
