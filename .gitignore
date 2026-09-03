@@ -1,3 +1,11 @@
 _site/
 push.sh
 .DS_Store
+
+# Local preview only; CI builds from Gemfile on Ruby 3.1
+Gemfile.local
+Gemfile.local.lock
+vendor/
+.bundle/
+.jekyll-cache/
+.jekyll-metadata

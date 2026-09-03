@@ -246,9 +246,7 @@ Preprint, Under Review
 # 💻 Internships
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="width: 110px; margin-right: 24px; flex-shrink: 0; display: flex; align-items: center; justify-content: center;">
-    <img src="images/expand/hunyuan.png" alt="Tencent Logo" style="max-width: 100%; max-height: 44px; object-fit: contain;">
-  </div>
+  <img src="images/hunyuan-logo.png" alt="Tencent Logo" style="width: 65px; height: 65px; margin-right: 35px; object-fit: contain;">
   <div>
     <strong>2026.03 - Present, Research Intern (Qingyun Talent Program)</strong><br>
     Hunyuan AI Infra Team, Tencent TEG, Beijing<br>
@@ -257,9 +255,7 @@ Preprint, Under Review
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="width: 110px; margin-right: 24px; flex-shrink: 0; display: flex; align-items: center; justify-content: center;">
-    <img src="images/expand/alibabacloud.png" alt="Alibaba Logo" style="max-width: 100%; max-height: 44px; object-fit: contain;">
-  </div>
+  <img src="images/alibabacloud-logo.png" alt="Alibaba Logo" style="width: 65px; height: 65px; margin-right: 35px; object-fit: contain;">
   <div>
     <strong>2025.02 - 2026.02, Research Intern</strong><br>
     Luoshen Cloud Networking Research Team, Alibaba Cloud, Hangzhou<br>
@@ -268,9 +264,7 @@ Preprint, Under Review
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="width: 110px; margin-right: 24px; flex-shrink: 0; display: flex; align-items: center; justify-content: center;">
-    <img src="images/expand/alibabacloud.png" alt="Alibaba Logo" style="max-width: 100%; max-height: 44px; object-fit: contain;">
-  </div>
+  <img src="images/alibabacloud-logo.png" alt="Alibaba Logo" style="width: 65px; height: 65px; margin-right: 35px; object-fit: contain;">
   <div>
     <strong>2024.08 - 2025.02, AIR Intern</strong><br>
     Luoshen Cloud Networking R&D Team, Alibaba Cloud, Hangzhou<br>
@@ -279,9 +273,7 @@ Preprint, Under Review
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="width: 110px; margin-right: 24px; flex-shrink: 0; display: flex; align-items: center; justify-content: center;">
-    <img src="images/expand/pku.png" alt="PKU Logo" style="max-width: 100%; max-height: 44px; object-fit: contain;">
-  </div>
+  <img src="images/pku-logo.png" alt="PKU Logo" style="width: 65px; height: 65px; margin-right: 35px; object-fit: contain;">
   <div>
     <strong>2021.04 - 2021.09, Research Assistant</strong><br>
     Wangxuan Institute of Computer Technology, Peking University, Beijing<br>
