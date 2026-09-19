@@ -29,7 +29,7 @@ Most recently, I have been working on improving training efficiency for long-con
 
 
 # 🔥 News
-- *2026.07*: &nbsp;🎉 Our paper ("MCP Gateway") is now available on ArXiv!
+- *2026.09*: &nbsp;🎉 Our paper ("MCP Gateway") has been accepted by <span style="color: #c0392b;"><strong>ATC 2026</strong></span>!
 - *2026.07*: &nbsp;🎉 Our paper ("Cornucopia") has been accepted by **JPDC**!
 - *2026.07*: &nbsp;🎉 Our paper ("Real") has been accepted by <span style="color: #c0392b;"><strong>SC 2026</strong></span>!
 - *2026.05*: &nbsp;🎉 Our paper ("MCP Gateway") has been accepted by **APNet** 2026 as a poster!
@@ -59,16 +59,18 @@ Most recently, I have been working on improving training efficiency for long-con
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/nice_pic/preprint-mcpgw.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ATC 2026</div><img src='images/nice_pic/preprint-mcpgw.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Scalable LLM Agent Tool Access in the Cloud**
 
 Mingxin Li, Enge Song, Yueshang Zuo, ... , **Zihao Fan**, et al.
 
-**Preprint**, 2026
+*The 2026 ACM SIGOPS Annual Technical Conference* (**ATC'26, Shatin, Hong Kong**)
 
 [Paper](https://arxiv.org/pdf/2607.15593) \| [Link](https://arxiv.org/abs/2607.15593) \| [BibTex](../bib/arxiv_mcpgw_bib.txt)
+
+[CCF A] [Acceptance Rate: 135/973=13.9%]
 
 </div>
 </div>
@@ -80,7 +82,7 @@ Mingxin Li, Enge Song, Yueshang Zuo, ... , **Zihao Fan**, et al.
 
 Zimeng Huang, Shijian Li, **Zihao Fan**, Bo Jiang, Tian Guo
 
-**JPDC** (Journal of Parallel and Distributed Computing)
+*Journal of Parallel and Distributed Computing* (**JPDC**)
 
 [Paper](../pubs/jpdc-cornucopia.pdf) \| [Link](https://www.sciencedirect.com/science/article/pii/S0743731526001127) \| [BibTex](../bib/jpdc_cornucopia_bib.txt)
 
@@ -95,7 +97,7 @@ Zimeng Huang, Shijian Li, **Zihao Fan**, Bo Jiang, Tian Guo
 
 **Zihao Fan**, Yunzhuo Liu, Tian Guo, Bo Jiang
 
-**SC'26**, Chicago, USA
+*The 2026 International Conference for High Performance Computing, Networking, Storage, and Analysis* (**SC'26, Chicago, USA**)
 
 [Paper](../pubs/SC26-Real-DGNN-training.pdf) \| Link \| BibTex
 
@@ -110,7 +112,7 @@ Zimeng Huang, Shijian Li, **Zihao Fan**, Bo Jiang, Tian Guo
 
 Mingxin Li, Enge Song, Yueshang Zuo, ... , **Zihao Fan**, et al.
 
-**APNet'26 Poster**, Singapore
+*The 2026 ACM SIGCOMM Asia-Pacific Workshop on Networking* (**APNet'26 Poster, Singapore**)
 
 [Paper](../pubs/apnet26-mingxinli.pdf) \| [Link](https://dl.acm.org/doi/10.1145/3820441.3821235) \| [BibTex](../bib/apnet26_mcpgw.txt)
 
@@ -124,7 +126,7 @@ Mingxin Li, Enge Song, Yueshang Zuo, ... , **Zihao Fan**, et al.
 
 Changgang Zheng, Luyuan Wang, Jionghui Li, Haonan Li, **Zihao Fan**, et al.
 
-**IAC 2026**, Antalya
+*The 2026 International Astronautical Congress* (**IAC'26, Antalya**)
 
 Paper \| Link \| BibTex
 
@@ -140,7 +142,7 @@ Paper \| Link \| BibTex
 
 Yinhe Wang, Xing Li, Enge Song, **Zihao Fan**, Changgang Zheng, Haonan Li, et al.
 
-**APNet'26**, Singapore
+*The 2026 ACM SIGCOMM Asia-Pacific Workshop on Networking* (**APNet'26, Singapore**)
 
 [Paper](../pubs/apnet26-yinhewang.pdf) \| [Link](https://dl.acm.org/doi/10.1145/3820441.3820459) \| [BibTex](../bib/apnet26_nicmode.txt)
 
@@ -155,7 +157,7 @@ Yinhe Wang, Xing Li, Enge Song, **Zihao Fan**, Changgang Zheng, Haonan Li, et al
 
 Changgang Zheng, Bowen Yang, Jin Ke, Ye Yang, Enge Song, Haonan Li, **Zihao Fan**, Mingxin Li, et al.
 
-**APNet'26**, Singapore
+*The 2026 ACM SIGCOMM Asia-Pacific Workshop on Networking* (**APNet'26, Singapore**)
 
 [Paper](../pubs/apnet26-changgangzheng.pdf) \| [Link](https://dl.acm.org/doi/10.1145/3820441.3820442) \| [BibTex](../bib/apnet26_parao.txt)
 
@@ -170,7 +172,7 @@ Changgang Zheng, Bowen Yang, Jin Ke, Ye Yang, Enge Song, Haonan Li, **Zihao Fan*
 
 **Zihao Fan**, Xing Li, Ye Yang, Bo Jiang, et al.
 
-**NSDI'26**, Renton, USA
+*The 2026 USENIX Symposium on Networked Systems Design and Implementation* (**NSDI'26, Renton, USA**)
 
 [Paper](https://www.usenix.org/system/files/nsdi26-fan.pdf) \| [Link](https://www.usenix.org/conference/nsdi26/presentation/fan) \| [BibTex](../bib/nsdi26_bifrost_bib.txt)
 
@@ -185,7 +187,7 @@ Changgang Zheng, Bowen Yang, Jin Ke, Ye Yang, Enge Song, Haonan Li, **Zihao Fan*
 
 Haonan Li, Tian Pan, Jin Ke, Baohai Hu, Changgang Zheng, ... , **Zihao Fan**, et al.
 
-**NSDI'26**, Renton, USA
+*The 2026 USENIX Symposium on Networked Systems Design and Implementation* (**NSDI'26, Renton, USA**)
 
 [Paper](https://www.usenix.org/system/files/nsdi26-li-haonan.pdf)  \| [Link](https://www.usenix.org/conference/nsdi26/presentation/li-haonan) \| [BibTex](../bib/nsdi26_csgw_bib.txt)
 
@@ -200,7 +202,7 @@ Haonan Li, Tian Pan, Jin Ke, Baohai Hu, Changgang Zheng, ... , **Zihao Fan**, et
 
 **Zihao Fan**, Enge Song, Bo Jiang, Yang Song, et al.
 
-**APNet'25**, Shanghai, China
+*The 2025 ACM SIGCOMM Asia-Pacific Workshop on Networking* (**APNet'25, Shanghai, China**)
 
 [Paper](../pubs/APNet25-Understanding.pdf) \| [Link](https://dl.acm.org/doi/10.1145/3735358.3735393) \| [BibTex](../bib/apnet25_bifrost_bib.txt)
 
@@ -217,7 +219,7 @@ Haonan Li, Tian Pan, Jin Ke, Baohai Hu, Changgang Zheng, ... , **Zihao Fan**, et
 
 [Paper](../pubs/ATC_26_SIBYL.pdf)  \| Link \| BibTex
 
-Preprint, Under Review
+*Preprint* (**Under Review**)
 </div>
 </div>
 
