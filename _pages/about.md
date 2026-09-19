@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year Ph.D. student in the Department of Computer Science and Engineering at Shanghai Jiao Tong University (SJTU), where I am fortunate to be advised by [Prof. Bo Jiang](https://jhc.sjtu.edu.cn/~bjiang/).
+I am a forth-year Ph.D. student in the Department of Computer Science and Engineering at Shanghai Jiao Tong University (SJTU), where I am fortunate to be advised by [Prof. Bo Jiang](https://jhc.sjtu.edu.cn/~bjiang/).
 Prior to that, I received my B.Eng. in Computer Science from Beijing University of Posts and Telecommunications (BUPT) in 2023, under the supervision of [Prof. Jingyu Wang](https://teacher.bupt.edu.cn/wangjingyu).
 
 I am currently a Research Intern (**Qingyun Talent Program**) with the [**Hunyuan AI Infra Team**](https://hy.tencent.com) at Tencent TEG, building the infrastructure and systems that power large-scale LLM pre-training.
@@ -28,17 +28,15 @@ My research interests center on infrastructure optimization for LLM pre-training
 Most recently, I have been working on improving training efficiency for long-context LLMs at the scale of ten-thousand GPUs.
 
 
-
-
 # 🔥 News
 - *2026.07*: &nbsp;🎉 Our paper ("MCP Gateway") is now available on ArXiv!
 - *2026.07*: &nbsp;🎉 Our paper ("Cornucopia") has been accepted by **JPDC**!
-- *2026.07*: &nbsp;🎉 Our paper ("Real") has been accepted by **SC 2026**!
+- *2026.07*: &nbsp;🎉 Our paper ("Real") has been accepted by <span style="color: #c0392b;"><strong>SC 2026</strong></span>!
 - *2026.05*: &nbsp;🎉 Our paper ("MCP Gateway") has been accepted by **APNet** 2026 as a poster!
 - *2026.05*: &nbsp;🎉 Our paper ("Diana") has been accepted by **IAC 2026**!
 - *2026.04*: &nbsp;🎉🎉 Two papers have been accepted by **APNet 2026**!
 - *2026.03*: &nbsp;🎉 Joined Tencent TEG **Hunyuan** AI Infra Team as Research Intern (Qingyun Talent Program).
-- *2025.12*: &nbsp;🎉🎉 Two papers ("Bifrost" and "CStar Gateway") have been accepted by **NSDI 2026**!
+- *2025.12*: &nbsp;🎉🎉 Two papers ("Bifrost" and "CStar Gateway") have been accepted by <span style="color: #c0392b;"><strong>NSDI 2026</strong></span>!
 - *2025.03*: &nbsp;🎉 Our paper "Understanding the Long Tail Latency of TCP in Large-Scale Cloud Networks" has been accepted by **APNet 2025**!
 - *2025.01*: &nbsp;🎉 Started as Research Intern at Alibaba Cloud - **Luoshen** Cloud Networking Research Team.
 - *2024.08*: &nbsp;🎉 Joined Alibaba Cloud as Alibaba Innovative Research (AIR) Intern. 
