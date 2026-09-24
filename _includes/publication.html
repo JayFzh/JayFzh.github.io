@@ -1,0 +1,22 @@
+<article class="publication" id="{{ include.paper.id }}">
+  <div class="publication-body">
+    <h3>{{ include.paper.title | escape }}</h3>
+    <div class="publication-authors">{{ include.paper.authors | markdownify }}</div>
+    {% if include.paper.venue %}
+    {% if include.paper.notes_inline %}
+    <p class="publication-venue">{{ include.paper.venue | markdownify | remove: '<p>' | remove: '</p>' | strip }} {{ include.paper.notes | escape }}{% if include.paper.award %} <strong class="publication-award">[{{ include.paper.award | escape }}]</strong>{% endif %}</p>
+    {% else %}
+    <div class="publication-venue">{{ include.paper.venue | markdownify }}</div>
+    {% endif %}
+    {% endif %}
+    {% if include.paper.notes or include.paper.award %}
+    {% unless include.paper.notes_inline %}
+    <p class="publication-notes">{{ include.paper.notes | escape }}{% if include.paper.award %} <strong class="publication-award">[{{ include.paper.award | escape }}]</strong>{% endif %}</p>
+    {% endunless %}
+    {% endif %}
+    {% if include.paper.proceedings %}
+    <p class="publication-proceedings">({{ include.paper.proceedings | escape }})</p>
+    {% endif %}
+    {% include publication-links.html paper=include.paper %}
+  </div>
+</article>

@@ -1,0 +1,127 @@
+# Listed in the same order as the original homepage. Paths beginning with / are local.
+- id: "hydra"
+  title: "HyDra: Demystifying and Taming Dynamic Context Parallelism at Production Scale"
+  authors: "**Zihao Fan**, Yunzhuo Liu, Bo Jiang, Changgang Zheng, Lin Zheng, Ray Ying, Key Zhang"
+  venue: "**Preprint**, 2026"
+  badge: "Preprint"
+  image: "/images/nice_pic/HyDra.png"
+  links: [{"label": "Paper", "url": "/pubs/HyDra.pdf"}]
+
+- id: "bds26-lunar-navigation"
+  title: "Toward Lunar Satellite Navigation: System Design and Key Technologies"
+  authors: "Changgang Zheng, Mingxin Li, **Zihao Fan**, Haonan Li, Jianzhe Lei, Wenhao Yang, Yihan Zhu, Tian Pan, Bo Jiang, and Kanglian Zhao"
+  venue: "*The 5th International Summit on BeiDou Navigation Satellite System (BDS) Applications*"
+  badge: "BDS 2026"
+  year: 2026
+  notes: "[10/143]"
+  award: "Best Paper Award"
+  notes_inline: true
+  proceedings: "Conference proceedings: Springer Lecture Notes in Electrical Engineering, LNEE"
+  links: []
+
+- id: "preprint-mcpgw"
+  title: "Scaling LLM Agent Tool Access: The MCP Gateway"
+  authors: "Mingxin Li, Enge Song, Yueshang Zuo, Xiaodong Liu, Rong Wen, Qiang Fu, Gianni Antichi, Jian He, Jing Tie, Zhou Shao, Xiaobo Xue, Xiong Xiao, Luyao Zhong, Shaokai Zhang, Jiangu Zhao, Jianyuan Lu, Shize Zhang, Xiaoqing Sun, Changgang Zheng, **Zihao Fan**, Haonan Li, Tian Pan, Xiaomin Wu, Yang Song, Xing Li, Biao Lyu, Meng Li, Haipeng Dai, Guihai Chen, and Shunmin Zhu"
+  venue: "*The 2026 ACM SIGOPS Annual Technical Conference* (**ATC'26, Shatin, Hong Kong**)"
+  badge: "ATC 2026"
+  year: 2026
+  image: "/images/nice_pic/preprint-mcpgw.png"
+  links: [{"label": "Paper", "url": "https://arxiv.org/pdf/2607.15593"}, {"label": "Link", "url": "https://arxiv.org/abs/2607.15593"}, {"label": "BibTeX", "url": "/bib/arxiv_mcpgw_bib.txt"}]
+  notes: "[CCF A] [Acceptance Rate: 135/973=13.9%]"
+
+- id: "preprint-cornucopia"
+  title: "Cornucopia: Elastic GPU Cluster Management for Mixed Batch-Interactive Distributed Training"
+  authors: "Zimeng Huang, Shijian Li, **Zihao Fan**, Bo Jiang, and Tian Guo"
+  venue: "*Journal of Parallel and Distributed Computing* (**JPDC**)"
+  badge: "JPDC"
+  year: 2026
+  image: "/images/nice_pic/preprint-cornucopia.png"
+  links: [{"label": "Paper", "url": "/pubs/jpdc-cornucopia.pdf"}, {"label": "Link", "url": "https://www.sciencedirect.com/science/article/pii/S0743731526001127"}, {"label": "BibTeX", "url": "/bib/jpdc_cornucopia_bib.txt"}]
+  notes: "[CCF B] [JCR Q1] [IF: 4.0]"
+
+- id: "sc26-real"
+  title: "Real: Efficient Distributed Training of Dynamic GNNs with Reuse-Aware Load Balancing Scheduling"
+  authors: "**Zihao Fan**, Yunzhuo Liu, Tian Guo, Bo Jiang"
+  venue: "*The 2026 International Conference for High Performance Computing, Networking, Storage, and Analysis* (**SC'26, Chicago, USA**)"
+  badge: "SC 2026"
+  year: 2026
+  image: "/images/nice_pic/SC26-real.png"
+  links: [{"label": "Paper", "url": "/pubs/SC26-Real-DGNN-training.pdf"}]
+  notes: "[CCF A] [Acceptance Rate: 147/769=19.2%]"
+
+- id: "apnet26-mcpgw"
+  title: "Scaling LLM Agent Tool Access at Cloud Scale"
+  authors: "Mingxin Li, Enge Song, Yueshang Zuo, Xiaodong Liu, Rong Wen, Jian He, Jing Tie, Zhou Shao, Qiang Fu, Xiaobo Xue, Xiong Xiao, Luyao Zhong, Shaokai Zhang, Jiangu Zhao, Jianyuan Lu, Shize Zhang, Xiaoqing Sun, Changgang Zheng, **Zihao Fan**, Haonan Li, Tian Pan, Xiaomin Wu, Yang Song, Xing Li, Biao Lyu, Meng Li, Haipeng Dai, Guihai Chen, and Shunmin Zhu"
+  venue: "*The 2026 ACM SIGCOMM Asia-Pacific Workshop on Networking* (**APNet'26 Poster, Singapore**)"
+  badge: "APNet 2026"
+  year: 2026
+  image: "/images/nice_pic/apnet26-mcpgw.png"
+  links: [{"label": "Paper", "url": "/pubs/apnet26-mingxinli.pdf"}, {"label": "Link", "url": "https://dl.acm.org/doi/10.1145/3820441.3821235"}, {"label": "BibTeX", "url": "/bib/apnet26_mcpgw.txt"}]
+
+- id: "iac2026"
+  title: "Diana: A Satellite-Based Lunar Time and Frequency System"
+  authors: "Changgang Zheng, Luyuan Wang, Jionghui Li, Haonan Li, **Zihao Fan**, Mingxin Li, Bo Jiang, Tian Pan, and Jinjun Zheng"
+  venue: "*The 2026 International Astronautical Congress* (**IAC'26, Antalya**)"
+  badge: "IAC 2026"
+  year: 2026
+  image: "/images/IAC2026.png"
+  links: []
+  notes: "[Selected from 8,300+ submissions from 108 countries]"
+
+- id: "apnet26-nicmode"
+  title: "Integrating AI Clusters into Virtual Private Cloud"
+  authors: "Yinhe Wang, Xing Li, Enge Song, **Zihao Fan**, Changgang Zheng, Haonan Li, Shengyao Gao, Juncheng Xiang, Ye Yang, Junnan Cai, Chang Liu, Haoxiang Pan, Yang Song, Yilong Lv, Qiang Fu, Zhigang Zong, Heng Pan, and Shunmin Zhu"
+  venue: "*The 2026 ACM SIGCOMM Asia-Pacific Workshop on Networking* (**APNet'26, Singapore**)"
+  badge: "APNet 2026"
+  year: 2026
+  image: "/images/nice_pic/apnet26-nicmode.png"
+  links: [{"label": "Paper", "url": "/pubs/apnet26-yinhewang.pdf"}, {"label": "Link", "url": "https://dl.acm.org/doi/10.1145/3820441.3820459"}, {"label": "BibTeX", "url": "/bib/apnet26_nicmode.txt"}]
+  notes: "[CCF C] [Acceptance Rate: 39/147=26.5%]"
+
+- id: "apnet26-paraflowo"
+  title: "Single-Core Hotspots on Your VNF? Break Them Up!"
+  authors: "Changgang Zheng, Bowen Yang, Jin Ke, Ye Yang, Enge Song, Haonan Li, **Zihao Fan**, Mingxin Li, Yilong Lv, Yisong Qiao, Jun Liang, Donglin Lai, Bengbeng Xue, Yang Song, Xing Li, Rong Wen, Zhigang Zong, and Shunmin Zhu"
+  venue: "*The 2026 ACM SIGCOMM Asia-Pacific Workshop on Networking* (**APNet'26, Singapore**)"
+  badge: "APNet 2026"
+  year: 2026
+  image: "/images/nice_pic/apnet26-paraflowo.png"
+  links: [{"label": "Paper", "url": "/pubs/apnet26-changgangzheng.pdf"}, {"label": "Link", "url": "https://dl.acm.org/doi/10.1145/3820441.3820442"}, {"label": "BibTeX", "url": "/bib/apnet26_parao.txt"}]
+  notes: "[CCF C] [Acceptance Rate: 39/147=26.5%]"
+
+- id: "nsdi26-bifrost"
+  title: "Bifrost: Alibaba's Next-Generation VPC Network with High-Performance Multipath Reliable Transport"
+  authors: "**Zihao Fan**, Xing Li, Ye Yang, Bo Jiang, Bowen Yang, Yilong Lv, Yuke Hong, Yinian Zhou, Junnan Cai, Jiayue Xu, Yunrui Hu, Zhao Gao, Ke Sun, Yimin Liu, Xiangdong Zhang, Enge Song, Jianyuan Lu, Xiaoqing Sun, Shize Zhang, Haonan Li, Mingxin Li, Changgang Zheng, Yang Song, Jun Liang, Biao Lyu, Rong Wen, Zhigang Zong, and Shunmin Zhu"
+  venue: "*The 2026 USENIX Symposium on Networked Systems Design and Implementation* (**NSDI'26, Renton, USA**)"
+  badge: "NSDI 2026"
+  year: 2026
+  image: "/images/nice_pic/nsdi26-bifrost.png"
+  links: [{"label": "Paper", "url": "https://www.usenix.org/system/files/nsdi26-fan.pdf"}, {"label": "Link", "url": "https://www.usenix.org/conference/nsdi26/presentation/fan"}, {"label": "BibTeX", "url": "/bib/nsdi26_bifrost_bib.txt"}]
+  notes: "[CCF A] [Acceptance Rate: 100/452=22.1%]"
+
+- id: "nsdi26-csgw"
+  title: "CStar Gateway: Augmenting Public Cloud Infrastructure for Heterogeneous Network Function Virtualization"
+  authors: "Haonan Li, Tian Pan, Jin Ke, Baohai Hu, Changgang Zheng, Enge Song, Zhi Xu, Ye Yang, Bowen Yang, Donglin Lai, Yisong Qiao, Bengbeng Xue, Jianyuan Lu, Xiaoqing Sun, Shize Zhang, **Zihao Fan**, Mingxin Li, Yang Song, Jun Liang, Xionglie Wei, Biao Lyu, Rong Wen, Zhigang Zong, Jiao Zhang, Tao Huang, and Shunmin Zhu"
+  venue: "*The 2026 USENIX Symposium on Networked Systems Design and Implementation* (**NSDI'26, Renton, USA**)"
+  badge: "NSDI 2026"
+  year: 2026
+  image: "/images/nice_pic/nsdi26-csgw.png"
+  links: [{"label": "Paper", "url": "https://www.usenix.org/system/files/nsdi26-li-haonan.pdf"}, {"label": "Link", "url": "https://www.usenix.org/conference/nsdi26/presentation/li-haonan"}, {"label": "BibTeX", "url": "/bib/nsdi26_csgw_bib.txt"}]
+  notes: "[CCF A] [Acceptance Rate: 100/452=22.1%]"
+
+- id: "apnet25-bifrost"
+  title: "Understanding the Long Tail Latency of TCP in Large-Scale Cloud Networks"
+  authors: "**Zihao Fan**, Enge Song, Bo Jiang, Yang Song, Yuke Hong, Bowen Yang, Yilong Lv, Yinian Zhou, Junnan Cai, Chao Wang, Yi Wang, Yehao Feng, Dian Fan, Ye Yang, Shize Zhang, Xiaoqing Sun, Jianyuan Lu, Xing Li, Jun Liang, Biao Lyu, Zhigang Zong, and Shunmin Zhu"
+  venue: "*The 2025 ACM SIGCOMM Asia-Pacific Workshop on Networking* (**APNet'25, Shanghai, China**)"
+  badge: "APNet 2025"
+  year: 2025
+  image: "/images/nice_pic/apnet25-bifrost.png"
+  links: [{"label": "Paper", "url": "/pubs/APNet25-Understanding.pdf"}, {"label": "Link", "url": "https://dl.acm.org/doi/10.1145/3735358.3735393"}, {"label": "BibTeX", "url": "/bib/apnet25_bifrost_bib.txt"}]
+  notes: "[CCF C] [Acceptance Rate: 34/133=25.6%]"
+
+- id: "preprint-sibyl"
+  title: "SIBYL: Speculative Inference Balancing for XPYD Scheduling in Disaggregated LLM Serving"
+  authors: "**Zihao Fan**, Changgang Zheng, Bo Jiang, Mingxin Li, Haonan Li, Xiaoqing Sun, Enge Song, Shize Zhang, Yang Song, Xing Li, and Shunmin Zhu"
+  venue: "*Preprint* (**Under Review**)"
+  badge: "Preprint"
+  image: "/images/nice_pic/preprint-sibyl.png"
+  links: [{"label": "Paper", "url": "/pubs/ATC_26_SIBYL.pdf"}]

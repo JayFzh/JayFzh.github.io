@@ -1,0 +1,16 @@
+<header class="profile-header" id="about-me">
+  <div class="profile-info">
+    <h1>{{ site.author.name }}</h1>
+    <p class="profile-affiliation">Ph.D. Student, <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a></p>
+    <p class="profile-contact">
+      <span class="contact-line"><b>Email:</b> {{ site.author.email | replace: '@', ' [at] ' | replace: '.', ' [dot] ' }}</span>
+      {% if site.author.email_secondary %}
+      <span class="contact-line"><b>Or:</b> {{ site.author.email_secondary | replace: '@', ' [at] ' | replace: '.', ' [dot] ' }}</span>
+      {% endif %}
+    </p>
+    {% include navigation.html %}
+  </div>
+  <a class="profile-photo" href="{{ site.author.avatar | relative_url }}" aria-label="View Zihao Fan's photo">
+    <img src="{{ site.author.avatar | relative_url }}" alt="Zihao Fan" width="1168" height="1170" fetchpriority="high">
+  </a>
+</header>

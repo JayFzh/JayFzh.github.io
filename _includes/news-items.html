@@ -1,0 +1,37 @@
+<div class="selected-news-list">
+  {% for item in include.items %}
+  <article class="news-story">
+    <div class="news-image">
+      <img src="{{ item.image | relative_url }}" alt="{{ item.image_alt | escape }}" loading="lazy" decoding="async">
+    </div>
+    <div class="news-body">
+      <time datetime="{{ item.date | replace: '.', '-' }}">{{ item.date }}</time>
+      <div class="news-announcement">{{ item.text | markdownify }}</div>
+      {% if item.papers %}
+        {% assign first_paper_id = item.papers.first.id %}
+        {% assign first_paper = site.data.publications | where: 'id', first_paper_id | first %}
+        <div class="news-venue">{{ first_paper.venue | markdownify }}</div>
+        {% if first_paper.notes %}<p class="publication-notes">{{ first_paper.notes | escape }}</p>{% endif %}
+        {% if item.papers.size == 1 %}
+          {% include publication-links.html paper=first_paper %}
+        {% else %}
+          <ul class="publication-links" aria-label="Related publications">
+            {% for related in item.papers %}
+            {% assign related_paper = site.data.publications | where: 'id', related.id | first %}
+            {% assign paper_link = related_paper.links | where: 'label', 'Paper' | first %}
+            {% if paper_link %}
+              {% assign prefix = paper_link.url | slice: 0, 1 %}
+              <li>{% unless forloop.first %}<span aria-hidden="true">|</span> {% endunless %}<a href="{% if prefix == '/' %}{{ paper_link.url | relative_url }}{% else %}{{ paper_link.url }}{% endif %}">{{ related.label | escape }}</a></li>
+            {% else %}
+              <li>{% unless forloop.first %}<span aria-hidden="true">|</span> {% endunless %}<a href="{{ '/publications.html' | relative_url }}#{{ related.id }}">{{ related.label | escape }}</a></li>
+            {% endif %}
+            {% endfor %}
+          </ul>
+        {% endif %}
+      {% else %}
+        <p>{{ item.description | escape }}</p>
+      {% endif %}
+    </div>
+  </article>
+  {% endfor %}
+</div>

@@ -1,33 +1,30 @@
----
-layout: compress
----
-
 <!doctype html>
-<html lang="en" class="no-js">
+<html lang="en">
   <head>
     {% include head.html %}
     {% include head/custom.html %}
   </head>
-
   <body>
-
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
-
-    <div id="main" role="main">
-      {% include sidebar.html %}
-    
-      <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-        {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
-        <div class="page__inner-wrap">
-          <section class="page__content" itemprop="text">
-            {{ content }}
-          </section>
-        </div>
-      </article>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <div class="site-shell">
+      {% if page.home %}
+        {% include profile-header.html %}
+      {% else %}
+        <header class="page-header">
+          {% include navigation.html %}
+          <h1>{{ page.title | escape }}</h1>
+        </header>
+      {% endif %}
+      <main id="main" tabindex="-1">
+        {{ content }}
+      </main>
+      <footer class="site-footer">
+        <span>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}</span>
+        <span>Design adapted from <a href="https://changgang-zheng.github.io/">Changgang Zheng</a> and <a href="https://jonbarron.info/">Jon Barron</a>.</span>
+      </footer>
     </div>
-
-    {% include scripts.html %}
-
+    {% if site.google_analytics_id and site.google_analytics_id != empty %}
+      {% include analytics.html %}
+    {% endif %}
   </body>
 </html>

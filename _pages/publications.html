@@ -1,0 +1,28 @@
+---
+permalink: /publications.html
+title: Publications
+description: "Publications by Zihao Fan on LLM infrastructure, distributed systems, and networking."
+---
+
+<section class="publication-group" id="preprints" aria-labelledby="preprints-heading">
+  <h2 id="preprints-heading">Preprints</h2>
+  <div class="publication-list">
+    {% assign preprints = site.data.publications | where: 'badge', 'Preprint' %}
+    {% for paper in preprints %}
+      {% include publication.html paper=paper %}
+    {% endfor %}
+  </div>
+</section>
+
+{% assign published = site.data.publications | where_exp: 'paper', 'paper.badge != "Preprint"' %}
+{% assign years = published | group_by: 'year' | sort: 'name' | reverse %}
+{% for year in years %}
+<section class="publication-group" id="year-{{ year.name }}" aria-labelledby="year-{{ year.name }}-heading">
+  <h2 id="year-{{ year.name }}-heading">{{ year.name }}</h2>
+  <div class="publication-list">
+    {% for paper in year.items %}
+      {% include publication.html paper=paper %}
+    {% endfor %}
+  </div>
+</section>
+{% endfor %}

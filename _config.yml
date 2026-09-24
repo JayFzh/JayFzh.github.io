@@ -8,6 +8,8 @@
 # Site Settings
 title                    : "Zihao Fan's Homepage"
 description              : "Research intern @ Tencent TEG Hunyuan AI Infra, focusing on LLM pre-training."
+url                      : "https://jayfzh.github.io"
+baseurl                  : ""
 repository               : "JayFzh/JayFzh.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,14 +23,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zihao Fan (范子豪)"
-  avatar           : "images/zihao.jpg"
+  name             : "Zihao Fan"
+  avatar           : "images/me/me.png"
   bio              : "Ph.D. Student @ SJTU"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "fzhsjtu2023@sjtu.edu.cn"
+  email_secondary  : "373015930@qq.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -66,6 +69,7 @@ include:
   - files
 exclude:
   - docs
+  - licenses
   - google_scholar_crawler
   - "*.sublime-project"
   - "*.sublime-workspace"

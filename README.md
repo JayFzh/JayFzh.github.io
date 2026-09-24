@@ -1,72 +1,88 @@
+# Zihao Fan’s Homepage
 
-<h1 align="center">
-AcadHomepage
-</h1>
+A compact academic homepage built with Jekyll, adapted from Changgang Zheng’s
+website and the Jon Barron academic homepage design. The site uses local fonts
+and responsive layouts for desktop and mobile.
 
-<div align="center">
+Typography follows the reference stylesheet: Lato with Verdana and Helvetica
+fallbacks, 15.5px body text and links, 16.5px bold emphasis and paper titles, 25px
+section headings, 32px page titles, and normal line height. The same font sizes
+apply on mobile. Both Latin and Latin Extended font subsets are hosted locally.
 
-[![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/forks/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/issues/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/license/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io/blob/main/LICENSE)  | [中文文档](./docs/README-zh.md) 
-</div>
+The homepage contains the biography and Selected News. Navigation links open
+the Publications, Experience, and WeChat pages, as well as the author's GitHub
+profile. Inner pages have compact navigation with a Home link. The WeChat page
+displays `images/wechat.jpg`, with a link to the full-size image.
 
-<p align="center">A Modern and Responsive Academic Personal Homepage</p>
+## Preview locally
 
-<p align="center">
-    <br>
-    <img src="docs/screenshot.png" width="100%"/>
-    <br>
-</p>
+```sh
+bash run_server.sh
+```
 
-Some examples:
-- [Demo Page](https://rayeren.github.io/acad-homepage.github.io/)
-- [Personal Homepage of the author](https://rayeren.github.io/)
+Open `http://127.0.0.1:4000`. The preview reloads when content changes. To use a
+different port, run `PORT=4001 bash run_server.sh`.
 
-## Key Features
-- **Automatically update google scholar citations**: using the google scholar crawler and github action, this REPO can update the author citations and publication citations automatically.
-- **Support Google analytics**: you can trace the traffics of your homepage by easy configuration.
-- **Responsive**: this homepage automatically adjust for different screen sizes and viewports.
-- **Beautiful and Simple Design**: this homepage is beautiful and simple, which is very suitable for academic personal homepage.
-- **SEO**: search Engine Optimization (SEO) helps search engines find the information you publish on your homepage easily, then rank it against similar websites.
+The script uses `Gemfile.local` when present for the macOS Ruby 2.6 environment.
+Otherwise, it uses `Gemfile`. Dependencies are checked and installed as needed.
 
-## Quick Start
+## Edit content
 
-1. Fork this REPO and rename to `USERNAME.github.io`, where `USERNAME` is your github USERNAME.
-1. Configure the google scholar citation crawler:
-    1. Find your google scholar ID in the url of your google scholar page (e.g., https://scholar.google.com/citations?user=SCHOLAR_ID), where `SCHOLAR_ID` is your google scholar ID.
-    1. Set GOOGLE_SCHOLAR_ID variable to your google scholar ID in `Settings -> Secrets -> Actions -> New repository secret` of the REPO website with `name=GOOGLE_SCHOLAR_ID` and `value=SCHOLAR_ID`.
-    1. Click the `Action` of the REPO website and enable the workflows by clicking *"I understand my workflows, go ahead and enable them"*. This github action will generate google scholar citation stats data `gs_data.json` in `google-scholar-stats` branch of your REPO. When you update your main branch, this action will be triggered. This action will also be trigger 08:00 UTC everyday.
-1. Generate favicon using [favicon-generator](https://redketchup.io/favicon-generator) and download all generated files to `REPO/images`.
-1. Modify the configuration of your homepage `_config.yml`:
-    1. `title`: the title of your homepage
-    1. `description`: the description of your homepage
-    1. `repository`: USER_NAME/REPO_NAME  
-    1. `google_analytics_id` (optional): google analytics ID
-    1. SEO Related keys (optional): get these keys from search engine consoles (e.g. Google, Bing and Baidu) and paste here.
-    1. `author`: the author information of this homepage, including some other websites, emails, city and univeristy.
-    1. More configuration details are described in the comments.
-1. Add your homepage content in `_pages/about.md`.
-    1. You can use html+markdown syntax just same as jekyll.
-    1. You can use a `<span>` tag with class `show_paper_citations` and attribute `data` to display the citations of your paper. Set the data to the google scholar paper ID. For
-        ```html
-        <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
-        ``` 
-        > Q: How to get the google scholar paper ID?   
-        > A: Enter your google scholar homepage and click the paper name. Then you can see the paper ID from `citation_for_view=XXXX`, where `XXXX` is the required paper ID.
-1. Your page will be published at `https://USERNAME.github.io`.
+| File | Content |
+| --- | --- |
+| `_config.yml` | Name, photo, email, GitHub, site metadata |
+| `_pages/about.md` | Homepage: biography and Selected News |
+| `_pages/publications.html` | Publications page, grouped into preprints and publication years |
+| `_pages/experience.html` | Experience page: research experience and education |
+| `_pages/wechat.html` | WeChat contact page and QR code |
+| `_data/news.yml` | News archive; entries with `selected: true` appear on the homepage |
+| `_data/publications.yml` | Papers, authors, venues, figures, PDF and BibTeX links |
+| `_data/experience.yml` | Internships and education |
+| `_data/navigation.yml` | Navigation links |
+| `assets/css/homepage.css` | Typography, spacing, and responsive styles |
 
-## Debug Locally
+Paper and news text supports Markdown. Selected news entries have an image and
+either related paper IDs or a description of the experience. News about a single
+paper shows its available Paper, Link, and BibTeX resources. News about multiple
+papers shows their names linking to each paper's PDF, falling back to its entry
+on the Publications page when a PDF is unavailable.
 
-1. Clone your REPO to local using `git clone`.
-1. Install Jekyll building environment, including `Ruby`, `RubyGems`, `GCC` and `Make` following [the installation guide](https://jekyllrb.com/docs/installation/#requirements).
-1. Run `bash run_server.sh` to start Jekyll livereload server.
-1. Open http://127.0.0.1:4000 in your browser.
-1. If you change the source code of the website, the livereload server will automatically refresh.
-1. When you finish the modification of your homepage, `commit` your changings and `push` to your remote REPO using `git` command.
+Set `year` on published papers to control their year grouping;
+papers with `badge: Preprint` appear in the Preprints section.
 
-# Acknowledges
+Use paths starting with `/` for local
+resources (for example `/pubs/HyDra.pdf`) and complete URLs for external links.
+Only add publication links when the resource is available. Missing links are
+omitted; papers without any resources show “(Paper to be released)”.
 
-- AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
-- AcadHomepage is influenced by the github repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes), which is distributed under the MIT License.
-- AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.
+Put papers in `pubs/`, BibTeX in `bib/`, and images in `images/`. All Selected News
+images are stored in `images/news_image/`; update the corresponding `image` path
+in `_data/news.yml` when changing an image filename. Existing resource
+URLs and the `/about/` and `/about.html` redirects are retained. Publications are
+at `/publications.html`, and experience is at `/experience.html`. Individual
+papers can be linked using `/publications.html#hydra`, for example.
+
+## Deployment
+
+The existing `.github/workflows/pages.yml` workflow builds the Jekyll site and
+publishes it to GitHub Pages when changes are pushed to `main`. In the repository
+settings, Pages should use **GitHub Actions** as its build source.
+
+For a production build:
+
+```sh
+JEKYLL_ENV=production bundle exec jekyll build
+```
+
+For the local macOS environment:
+
+```sh
+BUNDLE_GEMFILE=Gemfile.local BUNDLE_PATH=vendor/bundle JEKYLL_ENV=production bundle exec jekyll build
+```
+
+## Credits
+
+Design reference: https://changgang-zheng.github.io/ (originally based on
+https://jonbarron.info/). Attribution, reference revision, and license copies are
+in `licenses/`. The Lato fonts are hosted locally under the SIL Open Font License.
+The repository originally used AcadHomepage by Yi Ren; its MIT license is retained.

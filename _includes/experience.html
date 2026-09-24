@@ -1,0 +1,18 @@
+<div class="experience-list">
+  {% for item in include.items %}
+  <article class="experience">
+    <div class="experience-logo">
+      <img src="{{ item.logo | relative_url }}" alt="{{ item.logo_alt | escape }}" loading="lazy" decoding="async">
+    </div>
+    <div class="experience-body">
+      <div class="experience-heading">
+        <h3>{{ item.organization | escape }}</h3>
+        <span class="experience-date">{{ item.period }}</span>
+      </div>
+      <p>{{ item.role | escape }}</p>
+      {% if item.team %}<p>{{ item.team | escape }}</p>{% endif %}
+      <div class="experience-details">{{ item.details | markdownify }}</div>
+    </div>
+  </article>
+  {% endfor %}
+</div>

@@ -1,0 +1,562 @@
+/* Adapted from Changgang Zheng's homepage and Jon Barron's academic website.
+   See licenses/ for the upstream Apache-2.0 license and the Lato font license. */
+@font-face {
+  font-family: 'Lato';
+  font-display: swap;
+  font-style: italic;
+  font-weight: 400;
+  src: local('Lato Italic'), local('Lato-Italic'), url("../fonts/lato-italic-latin-ext.woff2") format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: 'Lato';
+  font-display: swap;
+  font-style: italic;
+  font-weight: 400;
+  src: local('Lato Italic'), local('Lato-Italic'), url("../fonts/lato-italic.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: 'Lato';
+  font-display: swap;
+  font-style: italic;
+  font-weight: 700;
+  src: local('Lato Bold Italic'), local('Lato-BoldItalic'), url("../fonts/lato-bold-italic-latin-ext.woff2") format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: 'Lato';
+  font-display: swap;
+  font-style: italic;
+  font-weight: 700;
+  src: local('Lato Bold Italic'), local('Lato-BoldItalic'), url("../fonts/lato-bold-italic.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: 'Lato';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lato Regular'), local('Lato-Regular'), url("../fonts/lato-regular-latin-ext.woff2") format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: 'Lato';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lato Regular'), local('Lato-Regular'), url("../fonts/lato-regular.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: 'Lato';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 700;
+  src: local('Lato Bold'), local('Lato-Bold'), url("../fonts/lato-bold-latin-ext.woff2") format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: 'Lato';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 700;
+  src: local('Lato Bold'), local('Lato-Bold'), url("../fonts/lato-bold.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+:root {
+  color-scheme: light;
+  --text: #000;
+  --link: #1772d0;
+  --link-hover: #f09228;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 24px;
+}
+
+body {
+  margin: 0;
+  background: #fff;
+  color: var(--text);
+  font-family: "Lato", Verdana, Helvetica, sans-serif;
+  font-size: 15.5px;
+  line-height: normal;
+  -webkit-text-size-adjust: 100%;
+}
+
+a {
+  font-family: "Lato", Verdana, Helvetica, sans-serif;
+  font-size: 15.5px;
+  color: var(--link);
+  text-decoration: none;
+  text-underline-offset: 3px;
+}
+
+a:focus,
+a:hover {
+  color: var(--link-hover);
+}
+
+a:focus-visible {
+  outline: 2px solid var(--link);
+  outline-offset: 4px;
+  border-radius: 2px;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+p {
+  margin: 0 0 15.5px;
+  font-family: "Lato", Verdana, Helvetica, sans-serif;
+  font-size: 15.5px;
+}
+
+strong {
+  font-weight: 700;
+}
+
+h1,
+h2,
+h3 {
+  margin: 0;
+  color: var(--text);
+}
+
+h2 {
+  margin-bottom: 21px;
+  font-size: 25px;
+  font-weight: 400;
+  line-height: normal;
+}
+
+h3 {
+  font-size: 16.5px;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.site-shell {
+  width: 100%;
+  max-width: 920px;
+  margin-inline: auto;
+  padding: 42px 20px 24px;
+}
+
+.skip-link {
+  position: absolute;
+  top: 8px;
+  left: 12px;
+  z-index: 1;
+  padding: 8px 12px;
+  transform: translateY(-160%);
+  background: #fff;
+}
+
+.skip-link:focus {
+  transform: translateY(0);
+}
+
+.profile-header {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 220px;
+  align-items: center;
+  gap: 30px;
+  margin-bottom: 20px;
+}
+
+.profile-info h1 {
+  margin-bottom: 12px;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.profile-affiliation {
+  margin-bottom: 11px;
+}
+
+.profile-contact {
+  margin-bottom: 12px;
+}
+
+.contact-line {
+  display: block;
+}
+
+.profile-photo {
+  width: 165px;
+  justify-self: start;
+}
+
+.profile-photo img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 50%;
+}
+
+.page-header {
+  margin-bottom: 38px;
+  text-align: center;
+}
+
+.page-header .profile-links {
+  text-align: center;
+}
+
+.page-header h1 {
+  margin-top: 24px;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.profile-links a[aria-current="page"] {
+  color: var(--text);
+  text-decoration: underline;
+}
+
+.profile-links,
+.publication-links {
+  display: block;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.profile-links li,
+.publication-links li {
+  display: inline;
+}
+
+.biography p:last-child {
+  margin-bottom: 0;
+}
+
+.content-section {
+  position: relative;
+  margin-top: 34px;
+}
+
+main > .content-section:first-child {
+  margin-top: 0;
+}
+
+.legacy-anchor {
+  position: absolute;
+  top: 0;
+}
+
+.selected-news-list {
+  display: grid;
+  gap: 30px;
+}
+
+.news-story {
+  display: grid;
+  grid-template-columns: 180px minmax(0, 1fr);
+  align-items: center;
+  gap: 30px;
+}
+
+.news-image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.news-image img {
+  width: auto;
+  max-width: 160px;
+  max-height: 125px;
+  object-fit: contain;
+}
+
+.news-body time {
+  display: block;
+  margin-bottom: 3px;
+  color: #808080;
+  font-size: 15.5px;
+  font-variant-numeric: tabular-nums;
+}
+
+.news-body p {
+  margin: 0;
+}
+
+.publication-group + .publication-group {
+  margin-top: 36px;
+}
+
+.publication-list {
+  display: grid;
+  gap: 25px;
+}
+
+.publication {
+  min-width: 0;
+}
+
+.publication h3 {
+  margin-bottom: 0;
+}
+
+.publication p {
+  margin-bottom: 0;
+}
+
+.publication-authors strong {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.publication-notes {
+  color: var(--text);
+  font-size: 15.5px;
+}
+
+.publication-award {
+  color: #ff0000;
+}
+
+.publication-links {
+  margin-top: 0;
+  font-size: 15.5px;
+}
+
+.publication-status {
+  margin-top: 0;
+  color: var(--text);
+  font-size: 15.5px;
+}
+
+.experience-list {
+  display: grid;
+  gap: 27px;
+}
+
+.experience {
+  display: grid;
+  grid-template-columns: 130px minmax(0, 1fr);
+  align-items: center;
+  gap: 28px;
+}
+
+.experience-logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.experience-logo img {
+  width: auto;
+  max-width: 108px;
+  max-height: 72px;
+  object-fit: contain;
+}
+
+.experience-heading {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 2px 14px;
+  margin-bottom: 4px;
+}
+
+.experience-date {
+  color: var(--text);
+  font-size: 15.5px;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.experience p {
+  margin-bottom: 2px;
+}
+
+.experience-details {
+  color: var(--text);
+  font-size: 15.5px;
+}
+
+.wechat-contact {
+  display: flex;
+  justify-content: center;
+}
+
+.wechat-qr {
+  display: block;
+  width: 100%;
+  max-width: 444px;
+}
+
+.wechat-qr img {
+  width: 100%;
+  height: auto;
+}
+
+.site-footer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 8px 24px;
+  margin-top: 52px;
+  padding-top: 17px;
+  border-top: 1px solid #ededed;
+  color: var(--text);
+  font-size: 15.5px;
+}
+
+@media (max-width: 700px) {
+  .site-shell {
+    padding: 28px 24px 20px;
+  }
+
+  .profile-header {
+    grid-template-columns: minmax(0, 1fr) 135px;
+    gap: 24px;
+  }
+
+  .profile-photo {
+    width: 135px;
+    justify-self: center;
+  }
+
+  .news-story {
+    grid-template-columns: 140px minmax(0, 1fr);
+    gap: 22px;
+  }
+
+  .news-image img {
+    max-width: 140px;
+    max-height: 120px;
+  }
+
+  .experience {
+    grid-template-columns: 90px minmax(0, 1fr);
+    gap: 22px;
+  }
+
+  .experience-logo img {
+    max-width: 85px;
+    max-height: 65px;
+  }
+}
+
+@media (max-width: 520px) {
+  .site-shell {
+    padding: 26px 22px 20px;
+  }
+
+  .profile-header {
+    grid-template-columns: 1fr;
+    gap: 16px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+
+  .profile-photo {
+    grid-row: 1;
+    width: 132px;
+  }
+
+  .profile-info h1 {
+    margin-bottom: 11px;
+  }
+
+  .profile-links {
+    text-align: center;
+  }
+
+  .content-section {
+    margin-top: 30px;
+  }
+
+  h2 {
+    margin-bottom: 18px;
+  }
+
+  .selected-news-list {
+    gap: 30px;
+  }
+
+  .news-story {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+
+  .news-image {
+    justify-content: flex-start;
+    min-height: 0;
+  }
+
+  .news-image img {
+    max-width: 160px;
+    max-height: 110px;
+  }
+
+  .experience {
+    grid-template-columns: 58px minmax(0, 1fr);
+    align-items: start;
+    gap: 16px;
+  }
+
+  .experience-logo {
+    min-height: 52px;
+  }
+
+  .experience-logo img {
+    max-width: 58px;
+    max-height: 52px;
+  }
+
+  .site-footer {
+    margin-top: 36px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+@media print {
+  .site-shell {
+    max-width: none;
+    padding: 0;
+  }
+
+  .skip-link,
+  .profile-links,
+  .site-footer {
+    display: none;
+  }
+
+  .publication,
+  .news-story,
+  .experience {
+    break-inside: avoid;
+  }
+}

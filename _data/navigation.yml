@@ -1,19 +1,7 @@
-# main links links
 main:
-  - title: "About Me"
-    url: "/#about-me"
-
-  - title: "News"
-    url: "/#-news"
-
   - title: "Publications"
-    url: "/#-publications"
-
-  - title: "Internships"
-    url: "/#-internships"
-
-  - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/publications.html"
+  - title: "Experience"
+    url: "/experience.html"
+  - title: "WeChat"
+    url: "/wechat.html"

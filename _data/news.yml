@@ -1,0 +1,76 @@
+# Newest first. Only entries marked selected: true appear on the homepage.
+- date: "2026.10"
+  text: "Joined the **Alibaba Qwen Infra Team** as a Research Intern."
+  selected: true
+  image: "/images/news_image/qwen.png"
+  image_alt: "Alibaba Qwen"
+  description: "Working on large-scale pre-training of multimodal large language models."
+
+- date: "2026.09"
+  text: "Our paper (\"MCP Gateway\") has been accepted by **ATC 2026**!"
+  selected: true
+  image: "/images/news_image/atc26.png"
+  image_alt: "ATC 2026"
+  papers: [{"id": "preprint-mcpgw", "label": "MCP Gateway"}]
+
+- date: "2026.07"
+  text: "Our paper (\"Cornucopia\") has been accepted by **JPDC**!"
+  selected: true
+  image: "/images/news_image/jpdc.png"
+  image_alt: "Journal of Parallel and Distributed Computing"
+  papers: [{"id": "preprint-cornucopia", "label": "Cornucopia"}]
+
+- date: "2026.07"
+  text: "Our paper (\"Real\") has been accepted by **SC 2026**!"
+  selected: true
+  image: "/images/news_image/sc26.jpg"
+  image_alt: "SC 2026"
+  papers: [{"id": "sc26-real", "label": "Real"}]
+
+- date: "2026.05"
+  text: "Our paper (\"MCP Gateway\") has been accepted by **APNet** 2026 as a poster!"
+
+- date: "2026.05"
+  text: "Our paper (\"Diana\") has been accepted by **IAC 2026**!"
+  selected: true
+  image: "/images/news_image/iac26.png"
+  image_alt: "IAC 2026"
+  papers: [{"id": "iac2026", "label": "Diana"}]
+
+- date: "2026.04"
+  text: "Two papers have been accepted by **APNet 2026**!"
+  selected: true
+  image: "/images/news_image/apnet26.png"
+  image_alt: "APNet 2026"
+  papers: [{"id": "apnet26-nicmode", "label": "Integrating AI Clusters into VPC"}, {"id": "apnet26-paraflowo", "label": "ParaFlowO"}]
+
+- date: "2026.02"
+  text: "Joined Tencent TEG **Hunyuan** AI Infra Team as Research Intern (Qingyun Talent Program)."
+  selected: true
+  image: "/images/news_image/hunyuan.png"
+  image_alt: "Tencent Hunyuan"
+  description: "Working on infrastructure and systems for large-scale LLM pre-training."
+
+- date: "2025.12"
+  text: "Two papers (\"Bifrost\" and \"CStar Gateway\") have been accepted by **NSDI 2026**!"
+  selected: true
+  image: "/images/news_image/nsdi26.png"
+  image_alt: "NSDI 2026"
+  papers: [{"id": "nsdi26-bifrost", "label": "Bifrost"}, {"id": "nsdi26-csgw", "label": "CStar Gateway"}]
+
+- date: "2025.03"
+  text: "Our paper \"Understanding the Long Tail Latency of TCP in Large-Scale Cloud Networks\" has been accepted by **APNet 2025**!"
+  selected: true
+  image: "/images/news_image/apnet25.png"
+  image_alt: "APNet 2025"
+  papers: [{"id": "apnet25-bifrost", "label": "Paper details"}]
+
+- date: "2025.01"
+  text: "Started as Research Intern at Alibaba Cloud - **Luoshen** Cloud Networking Research Team."
+
+- date: "2024.08"
+  text: "Joined the **Luoshen Cloud Networking Research Team** at **Alibaba Cloud** as a Research Intern."
+  selected: true
+  image: "/images/news_image/alibaba-cloud-logo.webp"
+  image_alt: "Alibaba Cloud"
+  description: "Working on Networking for AI."

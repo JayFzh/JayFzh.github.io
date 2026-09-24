@@ -1,0 +1,13 @@
+<nav aria-label="Main navigation">
+  <ul class="profile-links">
+    {% unless page.home %}
+    <li><a href="{{ '/' | relative_url }}">Home</a></li>
+    {% endunless %}
+    {% for item in site.data.navigation.main %}
+    <li>{% unless page.home and forloop.first %}<span aria-hidden="true">&nbsp;&nbsp;|&nbsp;</span> {% endunless %}<a href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a></li>
+    {% endfor %}
+    {% if site.author.github %}
+    <li><span aria-hidden="true">&nbsp;&nbsp;|&nbsp;</span> <a href="https://github.com/{{ site.author.github }}">GitHub</a></li>
+    {% endif %}
+  </ul>
+</nav>
