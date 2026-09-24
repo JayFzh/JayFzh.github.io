@@ -11,7 +11,6 @@ description              : "Research intern @ Tencent TEG Hunyuan AI Infra, focu
 url                      : "https://jayfzh.github.io"
 baseurl                  : ""
 repository               : "JayFzh/JayFzh.github.io"
-google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -129,13 +128,6 @@ defaults:
       type: pages
     values:
       layout: default
-      author_profile: true
-
-
-# Sass/SCSS
-sass:
-  sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
 # Outputting
@@ -157,11 +149,3 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
-
-# HTML Compression
-# - http://jch.penibelst.de/
-compress_html:
-  clippings: all
-  ignore:
-    envs: development

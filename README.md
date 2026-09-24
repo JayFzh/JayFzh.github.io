@@ -36,7 +36,7 @@ Otherwise, it uses `Gemfile`. Dependencies are checked and installed as needed.
 | `_pages/experience.html` | Experience page: research experience and education |
 | `_pages/wechat.html` | WeChat contact page and QR code |
 | `_data/news.yml` | News archive; entries with `selected: true` appear on the homepage |
-| `_data/publications.yml` | Papers, authors, venues, figures, PDF and BibTeX links |
+| `_data/publications.yml` | Papers, authors, venues, PDF and BibTeX links |
 | `_data/experience.yml` | Internships and education |
 | `_data/navigation.yml` | Navigation links |
 | `assets/css/homepage.css` | Typography, spacing, and responsive styles |
@@ -61,6 +61,23 @@ in `_data/news.yml` when changing an image filename. Existing resource
 URLs and the `/about/` and `/about.html` redirects are retained. Publications are
 at `/publications.html`, and experience is at `/experience.html`. Individual
 papers can be linked using `/publications.html#hydra`, for example.
+
+## Directory layout
+
+- `_pages/`, `_layouts/`, `_includes/`: current pages and templates.
+- `_data/`: profile content, news, publications, experience, and navigation.
+- `assets/`: the active stylesheet and eight Lato font files.
+- `images/`: images used by the site; news images live in `images/news_image/`.
+- `pubs/`, `bib/`: linked papers and bibliography files.
+- `licenses/`, `LICENSE`: licenses and design attribution.
+- `tmp/`: unused files preserved under their original paths, with a restoration
+  guide and checksum manifest. Jekyll excludes this directory from publication.
+- `.github/workflows/`: the GitHub Pages deployment workflow.
+
+`run_server.sh` starts the preview; `modify.sh` is the existing commit, push, and
+deployment helper. `Gemfile` and the local `Gemfile.local*` files define the build
+dependencies. The ignored `vendor/` directory contains installed local gems and
+`_site/` is generated preview output; both remain in place for local development.
 
 ## Deployment
 

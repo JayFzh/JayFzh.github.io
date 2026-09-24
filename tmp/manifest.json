@@ -1,0 +1,1184 @@
+[
+  {
+    "original": ".DS_Store",
+    "archived": "tmp/.DS_Store",
+    "bytes": 8196,
+    "sha256": "4e52798d55d94302fa291a406ec87295031234a036d74788f38f5c769ed6a1ae"
+  },
+  {
+    "original": ".github/FUNDING.yml",
+    "archived": "tmp/.github/FUNDING.yml",
+    "bytes": 811,
+    "sha256": "b899c43b54e389a749cca5e95ad176aacc70d60395809be52d2737bbd4c1cd6e"
+  },
+  {
+    "original": "_includes/author-profile.html",
+    "archived": "tmp/_includes/author-profile.html",
+    "bytes": 12059,
+    "sha256": "8ea84e42f02362ed0fdb7573a43316b4cbacba70485d74d92803bd1b1cc4a4f3"
+  },
+  {
+    "original": "_includes/browser-upgrade.html",
+    "archived": "tmp/_includes/browser-upgrade.html",
+    "bytes": 242,
+    "sha256": "5ba93d197f5b766cf665dcd537d2540f112b11e2e8c61ee95c1459c9a9363ef5"
+  },
+  {
+    "original": "_includes/fetch_google_scholar_stats.html",
+    "archived": "tmp/_includes/fetch_google_scholar_stats.html",
+    "bytes": 924,
+    "sha256": "a31a9ed0fa868348eb435161d792d48cd5e4daeeb56480edbe6f3ceb39fae83c"
+  },
+  {
+    "original": "_includes/masthead.html",
+    "archived": "tmp/_includes/masthead.html",
+    "bytes": 638,
+    "sha256": "f767d1f32ccaf941f5e79c0748a3155e41a41aa30b1b384bff339df0f063665b"
+  },
+  {
+    "original": "_includes/scripts.html",
+    "archived": "tmp/_includes/scripts.html",
+    "bytes": 122,
+    "sha256": "4cc522fd3e593fe4ed08d43890db283dc2d00c285719a0945bf6466d5aee2f3a"
+  },
+  {
+    "original": "_includes/sidebar.html",
+    "archived": "tmp/_includes/sidebar.html",
+    "bytes": 554,
+    "sha256": "76d556667196195c6f67b00874bcf84e2d8309bf582bf2e2c6ec78fea99151a8"
+  },
+  {
+    "original": "_sass/_animations.scss",
+    "archived": "tmp/_sass/_animations.scss",
+    "bytes": 336,
+    "sha256": "23fba5ffe23693e16e6e92d0bb38b31345ecf257bf97709b5c9afb7189356897"
+  },
+  {
+    "original": "_sass/_archive.scss",
+    "archived": "tmp/_sass/_archive.scss",
+    "bytes": 4191,
+    "sha256": "f8c80fa76614cecd348592614c7e03bfa98851c10b72764e5c22fea7f14c91f1"
+  },
+  {
+    "original": "_sass/_base.scss",
+    "archived": "tmp/_sass/_base.scss",
+    "bytes": 5016,
+    "sha256": "90b41e7c48bc0deaacb88f40e2a61e6063729607a5c796621c1960be0a04101e"
+  },
+  {
+    "original": "_sass/_buttons.scss",
+    "archived": "tmp/_sass/_buttons.scss",
+    "bytes": 2680,
+    "sha256": "d6d1c9ba26ca3328f09b17fd87b558e981d1c897cadd0501c49c4638122ec849"
+  },
+  {
+    "original": "_sass/_footer.scss",
+    "archived": "tmp/_sass/_footer.scss",
+    "bytes": 1638,
+    "sha256": "a8ea89347e8addd8c1d30b3f84fcca6921a4907768ffefb9797f4209ce24ca79"
+  },
+  {
+    "original": "_sass/_forms.scss",
+    "archived": "tmp/_sass/_forms.scss",
+    "bytes": 6066,
+    "sha256": "11c6fcdd3dc186353ea538d94beaca7c7e9e53ee7489d2f7426ed389c04a57a3"
+  },
+  {
+    "original": "_sass/_masthead.scss",
+    "archived": "tmp/_sass/_masthead.scss",
+    "bytes": 1110,
+    "sha256": "de1f83567d07fea5a854061378ee90c674e5417001bcf3120bbc41128a072a6d"
+  },
+  {
+    "original": "_sass/_mixins.scss",
+    "archived": "tmp/_sass/_mixins.scss",
+    "bytes": 1054,
+    "sha256": "252d7968b95f4070c02c62fd4ad3e3319d77e8712f63250741f67670ad472039"
+  },
+  {
+    "original": "_sass/_navigation.scss",
+    "archived": "tmp/_sass/_navigation.scss",
+    "bytes": 8061,
+    "sha256": "8557de87f01c4f48ef5573c19b348edf441ef8cfc8b2e77240803c9143f32924"
+  },
+  {
+    "original": "_sass/_notices.scss",
+    "archived": "tmp/_sass/_notices.scss",
+    "bytes": 1820,
+    "sha256": "982202863585d21f08281db46c7dc2c0035a310395f49d1948593fa57f89843b"
+  },
+  {
+    "original": "_sass/_page.scss",
+    "archived": "tmp/_sass/_page.scss",
+    "bytes": 6684,
+    "sha256": "bd27d466e4ac130fe4d950a738605b75e78df9bad6f96ce0817f2e5bbfa07ee1"
+  },
+  {
+    "original": "_sass/_print.scss",
+    "archived": "tmp/_sass/_print.scss",
+    "bytes": 422,
+    "sha256": "a5951143ac17b97ad7f30c85ab86aaee407197a993a0e85f1bda1f4e706620b8"
+  },
+  {
+    "original": "_sass/_reset.scss",
+    "archived": "tmp/_sass/_reset.scss",
+    "bytes": 3517,
+    "sha256": "2576803052716b98fdb820222020df1f1adae076fe091d4e799b6f8c049ef517"
+  },
+  {
+    "original": "_sass/_sidebar.scss",
+    "archived": "tmp/_sass/_sidebar.scss",
+    "bytes": 4682,
+    "sha256": "917973c3ef93ac3697cf8b4944bf3d7ba6940b61ab069ff028952c98521a4a14"
+  },
+  {
+    "original": "_sass/_syntax.scss",
+    "archived": "tmp/_sass/_syntax.scss",
+    "bytes": 5322,
+    "sha256": "0fcee6cc4e2762f71e86891fafbfbc612dbc5388fdc4d8141ac2ee2cbe144428"
+  },
+  {
+    "original": "_sass/_tables.scss",
+    "archived": "tmp/_sass/_tables.scss",
+    "bytes": 782,
+    "sha256": "5bce78b579fbe5b15d36c78ded192062969cf2138e50d09932337508cfd7d5c1"
+  },
+  {
+    "original": "_sass/_utilities.scss",
+    "archived": "tmp/_sass/_utilities.scss",
+    "bytes": 7655,
+    "sha256": "804a3dd967e3c269798f6b57305cfbcfb06e292a9a2b0ec1080f4d3cffb8d575"
+  },
+  {
+    "original": "_sass/_variables.scss",
+    "archived": "tmp/_sass/_variables.scss",
+    "bytes": 5109,
+    "sha256": "048ea6b41118f1463e2936f579c0a16d6ae8994315e736ca515ef3d2f521c6a8"
+  },
+  {
+    "original": "_sass/vendor/breakpoint/_breakpoint.scss",
+    "archived": "tmp/_sass/vendor/breakpoint/_breakpoint.scss",
+    "bytes": 2554,
+    "sha256": "faa0e0941b173cb5148720a25106a908701d3cbf864d8295d471652b62026c3b"
+  },
+  {
+    "original": "_sass/vendor/breakpoint/_context.scss",
+    "archived": "tmp/_sass/vendor/breakpoint/_context.scss",
+    "bytes": 3143,
+    "sha256": "3f1dd0e08dc3b366961aee6ba6127cb0d1a5f0c07726aedb50ff8c1ec5277e33"
+  },
+  {
+    "original": "_sass/vendor/breakpoint/_helpers.scss",
+    "archived": "tmp/_sass/vendor/breakpoint/_helpers.scss",
+    "bytes": 4311,
+    "sha256": "54bfe37020d73004d808218409978d4a99189f159b26045fcee487388f85f3ec"
+  },
+  {
+    "original": "_sass/vendor/breakpoint/_legacy-settings.scss",
+    "archived": "tmp/_sass/vendor/breakpoint/_legacy-settings.scss",
+    "bytes": 2771,
+    "sha256": "69a4f0c1ab298cfc03dbb2fae26168bdafa7f4bf231065d8b8fc574c2d6554ab"
+  },
+  {
+    "original": "_sass/vendor/breakpoint/_no-query.scss",
+    "archived": "tmp/_sass/vendor/breakpoint/_no-query.scss",
+    "bytes": 340,
+    "sha256": "aaf22a574908c8e85f15d418b43b5499df6a886efa3b8a80390a3232a2c5b1e9"
+  },
+  {
+    "original": "_sass/vendor/breakpoint/_parsers.scss",
+    "archived": "tmp/_sass/vendor/breakpoint/_parsers.scss",
+    "bytes": 6795,
+    "sha256": "7c0f700bc50b3b410c0e2fb78bd19112649005fe460e6dc4a78bf7e7b0489a47"
+  },
+  {
+    "original": "_sass/vendor/breakpoint/_respond-to.scss",
+    "archived": "tmp/_sass/vendor/breakpoint/_respond-to.scss",
+    "bytes": 2884,
+    "sha256": "853610fa222e51c7e1a926c59fd252fbdcdce0d80e7b7b976fe841cae909eba2"
+  },
+  {
+    "original": "_sass/vendor/breakpoint/_settings.scss",
+    "archived": "tmp/_sass/vendor/breakpoint/_settings.scss",
+    "bytes": 1868,
+    "sha256": "9c1fc27a5025fd1e56fd009c2f55428886c4bd0d3394eb6f5bc3dd0e141cd988"
+  },
+  {
+    "original": "_sass/vendor/breakpoint/parsers/_double.scss",
+    "archived": "tmp/_sass/vendor/breakpoint/parsers/_double.scss",
+    "bytes": 1081,
+    "sha256": "540289ae953d7f2f2656889e7e40b5c4bce3f55be0d1f15e7a7905bcbae03013"
+  },
+  {
+    "original": "_sass/vendor/breakpoint/parsers/_query.scss",
+    "archived": "tmp/_sass/vendor/breakpoint/parsers/_query.scss",
+    "bytes": 3931,
+    "sha256": "5224393e9790cbccfce90166fa2eae48c21f24b8bc11413dfd9e782ffc09fdf0"
+  },
+  {
+    "original": "_sass/vendor/breakpoint/parsers/_resolution.scss",
+    "archived": "tmp/_sass/vendor/breakpoint/parsers/_resolution.scss",
+    "bytes": 789,
+    "sha256": "187c01c90f290f7c71bb617b0d8ef8a361b4e2690b631c9938aee488da298f3e"
+  },
+  {
+    "original": "_sass/vendor/breakpoint/parsers/_single.scss",
+    "archived": "tmp/_sass/vendor/breakpoint/parsers/_single.scss",
+    "bytes": 707,
+    "sha256": "1e0f82987b3acc188c62ae78af558336dc9fd8408f4d87ffd37940ca67d42821"
+  },
+  {
+    "original": "_sass/vendor/breakpoint/parsers/_triple.scss",
+    "archived": "tmp/_sass/vendor/breakpoint/parsers/_triple.scss",
+    "bytes": 757,
+    "sha256": "60959de4f418ff0823a457bffa3c14797516b55d509680c338e34bda0b252577"
+  },
+  {
+    "original": "_sass/vendor/breakpoint/parsers/double/_default-pair.scss",
+    "archived": "tmp/_sass/vendor/breakpoint/parsers/double/_default-pair.scss",
+    "bytes": 611,
+    "sha256": "d255e6e886ea39605e9f549d08e25995076a0c0bc86428edb211bff20e0372d8"
+  },
+  {
+    "original": "_sass/vendor/breakpoint/parsers/double/_default.scss",
+    "archived": "tmp/_sass/vendor/breakpoint/parsers/double/_default.scss",
+    "bytes": 450,
+    "sha256": "a2cd4594ba720697ffce593c48dbc716901d0e191b95eaa672f5f9c2633b6530"
+  },
+  {
+    "original": "_sass/vendor/breakpoint/parsers/double/_double-string.scss",
+    "archived": "tmp/_sass/vendor/breakpoint/parsers/double/_double-string.scss",
+    "bytes": 568,
+    "sha256": "ccbed60bbbe6d3e5206c079e97913d3663deea72a2a11109623bb67f0ddbd495"
+  },
+  {
+    "original": "_sass/vendor/breakpoint/parsers/resolution/_resolution.scss",
+    "archived": "tmp/_sass/vendor/breakpoint/parsers/resolution/_resolution.scss",
+    "bytes": 1651,
+    "sha256": "4f02b5fe5bb797b1aa8040433c76ed7b7e9a496296ebdb99d387485a7b95e25d"
+  },
+  {
+    "original": "_sass/vendor/breakpoint/parsers/single/_default.scss",
+    "archived": "tmp/_sass/vendor/breakpoint/parsers/single/_default.scss",
+    "bytes": 386,
+    "sha256": "29fa1f602fb9846af436b0adf726af068d31d3f921aa675966f3d109110fb579"
+  },
+  {
+    "original": "_sass/vendor/breakpoint/parsers/triple/_default.scss",
+    "archived": "tmp/_sass/vendor/breakpoint/parsers/triple/_default.scss",
+    "bytes": 555,
+    "sha256": "5699df8455edc42b24e324112e5a5d38ed7ebaaae92035420368b4d885dc4593"
+  },
+  {
+    "original": "_sass/vendor/font-awesome/_animated.scss",
+    "archived": "tmp/_sass/vendor/font-awesome/_animated.scss",
+    "bytes": 300,
+    "sha256": "424d457edfbd99cfcb05333d5ca174279a705fb6afed94703c2141df341dd62b"
+  },
+  {
+    "original": "_sass/vendor/font-awesome/_bordered-pulled.scss",
+    "archived": "tmp/_sass/vendor/font-awesome/_bordered-pulled.scss",
+    "bytes": 428,
+    "sha256": "a32302a40cda902e45ec84c82426b902ee0a4aa1c8471ff2d6d20b7aca0a570f"
+  },
+  {
+    "original": "_sass/vendor/font-awesome/_core.scss",
+    "archived": "tmp/_sass/vendor/font-awesome/_core.scss",
+    "bytes": 326,
+    "sha256": "70897d391a9fe638332e9f490cd9e4b31c7da9faa445a30b5e56153526eaf6ca"
+  },
+  {
+    "original": "_sass/vendor/font-awesome/_fixed-width.scss",
+    "archived": "tmp/_sass/vendor/font-awesome/_fixed-width.scss",
+    "bytes": 121,
+    "sha256": "57f147918ba5f3063aa1200d21917d14dc551e627d47905e94bf8c2d9e4c0dea"
+  },
+  {
+    "original": "_sass/vendor/font-awesome/_icons.scss",
+    "archived": "tmp/_sass/vendor/font-awesome/_icons.scss",
+    "bytes": 101852,
+    "sha256": "e2090863ced138274547fb62bee33f5fea6dcfc343a229631436e66b428167a2"
+  },
+  {
+    "original": "_sass/vendor/font-awesome/_larger.scss",
+    "archived": "tmp/_sass/vendor/font-awesome/_larger.scss",
+    "bytes": 393,
+    "sha256": "4f2166be7e9a0cb0517ca8aefbdd373470c383f7ae849ecee509622c5918f39f"
+  },
+  {
+    "original": "_sass/vendor/font-awesome/_list.scss",
+    "archived": "tmp/_sass/vendor/font-awesome/_list.scss",
+    "bytes": 322,
+    "sha256": "2b9e9d7c0f589a363e14544be44ca85d8a0998cdc1f1aef9d9d507f02e06b711"
+  },
+  {
+    "original": "_sass/vendor/font-awesome/_mixins.scss",
+    "archived": "tmp/_sass/vendor/font-awesome/_mixins.scss",
+    "bytes": 1293,
+    "sha256": "79072b6121bc5fc6e15af9524d1c26bc3b3d88d6d8c8b8f2e69e430cbbc6f6a0"
+  },
+  {
+    "original": "_sass/vendor/font-awesome/_rotated-flipped.scss",
+    "archived": "tmp/_sass/vendor/font-awesome/_rotated-flipped.scss",
+    "bytes": 771,
+    "sha256": "e135c524a2fb8c33d7cce6ce7272e520700ebc9f71816255ec4689515498e38d"
+  },
+  {
+    "original": "_sass/vendor/font-awesome/_screen-reader.scss",
+    "archived": "tmp/_sass/vendor/font-awesome/_screen-reader.scss",
+    "bytes": 130,
+    "sha256": "a48f3c096ac40fc331e75855a073635125d62fab0efd59aeedd9881060c8f612"
+  },
+  {
+    "original": "_sass/vendor/font-awesome/_shims.scss",
+    "archived": "tmp/_sass/vendor/font-awesome/_shims.scss",
+    "bytes": 65172,
+    "sha256": "e31d3be8d1cf89832a7fb34dff4051fc9e50afd4a7a592f28751635d74299965"
+  },
+  {
+    "original": "_sass/vendor/font-awesome/_stacked.scss",
+    "archived": "tmp/_sass/vendor/font-awesome/_stacked.scss",
+    "bytes": 505,
+    "sha256": "66e89cdf90e4822b3c2b9b81d5a6a1f039426302242fb72f8fecc9c78195a759"
+  },
+  {
+    "original": "_sass/vendor/font-awesome/_variables.scss",
+    "archived": "tmp/_sass/vendor/font-awesome/_variables.scss",
+    "bytes": 33766,
+    "sha256": "e837b991924eb0b284b1fe7f760e6bab7177e2aa15bf7530aa09c265a5f954dd"
+  },
+  {
+    "original": "_sass/vendor/font-awesome/brands.scss",
+    "archived": "tmp/_sass/vendor/font-awesome/brands.scss",
+    "bytes": 751,
+    "sha256": "c9783a879a3a74313a61f6fb3f435fdf5e4d2478148ae161fb08e25e0dc9ed0f"
+  },
+  {
+    "original": "_sass/vendor/font-awesome/fontawesome.scss",
+    "archived": "tmp/_sass/vendor/font-awesome/fontawesome.scss",
+    "bytes": 432,
+    "sha256": "0819da60f3b7ccb65b9e825ca597b1943d655fd9960bf2aa5d35e691489f4a29"
+  },
+  {
+    "original": "_sass/vendor/font-awesome/regular.scss",
+    "archived": "tmp/_sass/vendor/font-awesome/regular.scss",
+    "bytes": 770,
+    "sha256": "f14af2993f9810d54d734dc9e789856b229472d49b4f41dd57e01bf636337d0d"
+  },
+  {
+    "original": "_sass/vendor/font-awesome/solid.scss",
+    "archived": "tmp/_sass/vendor/font-awesome/solid.scss",
+    "bytes": 763,
+    "sha256": "a2fb7fff66589d9b6defac484d3d3cfbf1ce09d05397054d1e5290ab94f1b3e5"
+  },
+  {
+    "original": "_sass/vendor/font-awesome/v4-shims.scss",
+    "archived": "tmp/_sass/vendor/font-awesome/v4-shims.scss",
+    "bytes": 223,
+    "sha256": "f6f00a8e7ed509c6d4e9bcbd238480f1d938860cbdb01da86c8fd405d259d29a"
+  },
+  {
+    "original": "_sass/vendor/magnific-popup/_magnific-popup.scss",
+    "archived": "tmp/_sass/vendor/magnific-popup/_magnific-popup.scss",
+    "bytes": 13392,
+    "sha256": "4207e5fde17c01c07938620adfc5497590c7b3b1c8273fa80fdb8af83b4a039f"
+  },
+  {
+    "original": "_sass/vendor/magnific-popup/_settings.scss",
+    "archived": "tmp/_sass/vendor/magnific-popup/_settings.scss",
+    "bytes": 2840,
+    "sha256": "1ff86c4b7ee3b7a832d35270e88d4f16c49a7f134f3f5c182fbcb017d6771a2c"
+  },
+  {
+    "original": "_sass/vendor/susy/_su.scss",
+    "archived": "tmp/_sass/vendor/susy/_su.scss",
+    "bytes": 32,
+    "sha256": "4ee3cf65672c4fd6b8624dcdaad629ad7b366409f8ae5bdb81d6ab987913595d"
+  },
+  {
+    "original": "_sass/vendor/susy/_susy.scss",
+    "archived": "tmp/_sass/vendor/susy/_susy.scss",
+    "bytes": 47,
+    "sha256": "aa4bced595b81dd7607ef41b6f07091aa545c24799f39a1513d1b55ffde650a8"
+  },
+  {
+    "original": "_sass/vendor/susy/_susyone.scss",
+    "archived": "tmp/_sass/vendor/susy/_susyone.scss",
+    "bytes": 50,
+    "sha256": "612d5a38d610409ea51eaeab887a99499dd131aeacb134998de3a93764a669de"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/_su.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/_su.scss",
+    "bytes": 104,
+    "sha256": "19f18d28878f60476b4545211331d0444bac1c21d8da575809671565839353b3"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/language/_susy.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/language/_susy.scss",
+    "bytes": 503,
+    "sha256": "8b93cecdb49b83ea6cc19d693d2b50bc0a3db184886066102e1931d9960410e9"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/language/_susyone.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/language/_susyone.scss",
+    "bytes": 331,
+    "sha256": "b8a8d61ca69b12b6d071e0abc191cd8a09e3f4e2382328fcec5980ab3f3ce6f2"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/language/susy/_background.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/language/susy/_background.scss",
+    "bytes": 9110,
+    "sha256": "8f22b228b2ad16461fe386d26e8b69cfcd85443898627f031658ee76f88a5517"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/language/susy/_bleed.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/language/susy/_bleed.scss",
+    "bytes": 4574,
+    "sha256": "ea14f03e7b9eaaccee14f0797eb3e18d2dc99a931900d7c01d764b4f5411ea52"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/language/susy/_box-sizing.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/language/susy/_box-sizing.scss",
+    "bytes": 1036,
+    "sha256": "375ca2ca194058453b30d104eaab0b9712b6226f7b083a46859d38fe239fb334"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/language/susy/_breakpoint-plugin.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/language/susy/_breakpoint-plugin.scss",
+    "bytes": 3724,
+    "sha256": "b345461df96a6361c637e9ee45a0ccbbf77158dcb9d2db8b253ee8144dc231e6"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/language/susy/_container.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/language/susy/_container.scss",
+    "bytes": 2179,
+    "sha256": "5c0b99d79851b86c0e6f1fef9d67cb005c5bd8c132f509c90d5f00fa0ead9b28"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/language/susy/_context.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/language/susy/_context.scss",
+    "bytes": 839,
+    "sha256": "41dba70e7a1d7d24a1101ccc051f2430f421f1a85fc53344266918af0075d56a"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/language/susy/_gallery.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/language/susy/_gallery.scss",
+    "bytes": 2486,
+    "sha256": "ac699c1f7f756ad6483d0d1711642162e0f117c6783d5ee0f78ea44f877b0faa"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/language/susy/_grids.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/language/susy/_grids.scss",
+    "bytes": 1118,
+    "sha256": "3801c11d62a529fec94085f055790a720d3fbc6b22ef0421547bf61c44b560ec"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/language/susy/_gutters.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/language/susy/_gutters.scss",
+    "bytes": 3295,
+    "sha256": "5afea767e41cc094db898cef0a406d429a1a9dc78cc27ec8add94f3e7818482d"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/language/susy/_isolate.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/language/susy/_isolate.scss",
+    "bytes": 1524,
+    "sha256": "ead93384cdc613f201e44010558c567ebfa954857502f1acfb25c3437ad271c7"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/language/susy/_margins.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/language/susy/_margins.scss",
+    "bytes": 2212,
+    "sha256": "4c0e72f4d154ed90fe5aab7549bd08cb216f3edf05dccca9a593430cb1a35edc"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/language/susy/_padding.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/language/susy/_padding.scss",
+    "bytes": 1648,
+    "sha256": "d9cbe8f79088c75e55207e672b361cfaee5def0eb7190a8149f0f39d27b9f04d"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/language/susy/_rows.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/language/susy/_rows.scss",
+    "bytes": 2644,
+    "sha256": "d3cb67662cc4537cf7858b569d32bb33a3d8e9473ccae41caa70926dbceee569"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/language/susy/_settings.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/language/susy/_settings.scss",
+    "bytes": 4756,
+    "sha256": "cad7f1643d81feea45c134281ef627f29dbf9c8dc42a94d42a3a7e7a023b5828"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/language/susy/_span.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/language/susy/_span.scss",
+    "bytes": 4041,
+    "sha256": "8bd8e0a4e9f15bdaab892b6b6d60ed509a7efb502b3d9d93258021ac755b1e9e"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/language/susy/_validation.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/language/susy/_validation.scss",
+    "bytes": 280,
+    "sha256": "bfbfce853b179b44b05cd0a67e0ed4e84634dcf194677f1e37b05863da763762"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/language/susyone/_background.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/language/susyone/_background.scss",
+    "bytes": 738,
+    "sha256": "2e010784d9a5a1365f85d6e0c59db54ccd6e0de6b03c0aeb8910125fdcee0b44"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/language/susyone/_functions.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/language/susyone/_functions.scss",
+    "bytes": 11256,
+    "sha256": "e0404335a4ba765233ac260e0ece822eaafda79077f38714a9dc0e50624bcc45"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/language/susyone/_grid.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/language/susyone/_grid.scss",
+    "bytes": 8977,
+    "sha256": "3160c2c3332c90bf5fb757c714417486d627ed915c6ba3744f7c32b66161cc03"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/language/susyone/_isolation.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/language/susyone/_isolation.scss",
+    "bytes": 1687,
+    "sha256": "cc8f279fa082f958a16b314e7543f0522e416ed7d8f355164700a2f401b1b8a3"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/language/susyone/_margin.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/language/susyone/_margin.scss",
+    "bytes": 3156,
+    "sha256": "970e449a55004e36ae0618f0a21eaee124881a9af681041fbc72b59d0a758c91"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/language/susyone/_media.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/language/susyone/_media.scss",
+    "bytes": 3474,
+    "sha256": "ae2ce316917893b923e5b99ce8d436bdd6d338a2e3bdb1fc16993a40eb1c66bf"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/language/susyone/_padding.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/language/susyone/_padding.scss",
+    "bytes": 3134,
+    "sha256": "d475f470e166a52ab8c4bffa0524fe220e4f26c716aa29bba3f0544fb23f36a6"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/language/susyone/_settings.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/language/susyone/_settings.scss",
+    "bytes": 2368,
+    "sha256": "95520bb34ee1a552fe583263ccc99fa0a5b3da81cc1f0ff5902f0db8ec6e5a50"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/output/_float.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/output/_float.scss",
+    "bytes": 141,
+    "sha256": "0fccb0d5145029cf5ec6248431565477a424488fbd0ba5bd53c12dbe09841f5e"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/output/_shared.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/output/_shared.scss",
+    "bytes": 240,
+    "sha256": "9b0ec3d985cfa321af682e9246a68b962362859b18c89bab21d435a4274ae60f"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/output/_support.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/output/_support.scss",
+    "bytes": 213,
+    "sha256": "16fcfdf25375a3b7d22a899aa1fbe4349c710e76a2961c2c5bda8b8abc71cf55"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/output/float/_container.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/output/float/_container.scss",
+    "bytes": 366,
+    "sha256": "64d1d08ba31693b7ae91c710be8fcb313912be83a5c80ec22a17e4e44ad51344"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/output/float/_end.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/output/float/_end.scss",
+    "bytes": 658,
+    "sha256": "ee3d73619238c2ee5e0a457686221a8e29f6ad7bb3376fbd0677c4cc5e2674a1"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/output/float/_isolate.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/output/float/_isolate.scss",
+    "bytes": 371,
+    "sha256": "be5c7beaab9733dec138037e272f88e89373ef82bae9522134dda76480321b54"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/output/float/_span.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/output/float/_span.scss",
+    "bytes": 896,
+    "sha256": "1b4576a425db057996c6a295f5ea8a4566b3e3640b3369a4f68eafc135b3e3d6"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/output/shared/_background.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/output/shared/_background.scss",
+    "bytes": 610,
+    "sha256": "f34fbe0ad814f1613aeb9d79a73a4ae95e2d5e865be4afbce3dc54a14b4960d0"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/output/shared/_container.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/output/shared/_container.scss",
+    "bytes": 446,
+    "sha256": "187e656f97ae95316ce9c69b88204a51c50895cd0d58ecc3f88103bbe1551cd1"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/output/shared/_direction.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/output/shared/_direction.scss",
+    "bytes": 843,
+    "sha256": "e656ae98d11cd2640247506aba89c094b6f80652c4fb98488496a373e9aaa189"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/output/shared/_inspect.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/output/shared/_inspect.scss",
+    "bytes": 404,
+    "sha256": "780fd7ec8877dcfe32b13546a4749dc08c3a8a5d548430a5a8033a8993ce6925"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/output/shared/_margins.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/output/shared/_margins.scss",
+    "bytes": 374,
+    "sha256": "be5cf9109642da5b3d9a88231cc450c5d40c826501a78f3f01f3c5fcef4da193"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/output/shared/_output.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/output/shared/_output.scss",
+    "bytes": 242,
+    "sha256": "f5992cf97b748008a954f6131cad28135ba81351fa7ebc546934878a782c468b"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/output/shared/_padding.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/output/shared/_padding.scss",
+    "bytes": 379,
+    "sha256": "ba84a02659881c50993a7a5c8c32bab582dd5e1477c7f3b316bd0b1bb6548d3f"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/output/support/_background.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/output/support/_background.scss",
+    "bytes": 1460,
+    "sha256": "a671b81c2c4fae59f0a0efc3e0c89e34c2e305fb32b849f9d5f51a0c8f64deea"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/output/support/_box-sizing.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/output/support/_box-sizing.scss",
+    "bytes": 446,
+    "sha256": "319f3e59b91b38d26861b33773fa34c6f0bee617c1679b63f075d72253ccfdcb"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/output/support/_clearfix.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/output/support/_clearfix.scss",
+    "bytes": 343,
+    "sha256": "9fb09a1d392cb23b123f9ca93e5b21b0491316fb9aa156f158123011a0ca0300"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/output/support/_prefix.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/output/support/_prefix.scss",
+    "bytes": 393,
+    "sha256": "1f8b7e844d3c95d501aaf3ce2803945f77dec8cb420e2fc3e8c937cf684edb22"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/output/support/_rem.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/output/support/_rem.scss",
+    "bytes": 419,
+    "sha256": "ab0e5025c926ed9a7a857b17648c2ef4c38072e89927848b38883cefafc740da"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/output/support/_support.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/output/support/_support.scss",
+    "bytes": 1895,
+    "sha256": "7688ca25abe37d5c2dbc3cfa2fd0af6951d1566a3e35698210554b73dedd0b89"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/su/_grid.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/su/_grid.scss",
+    "bytes": 2375,
+    "sha256": "a25c5cc1c5a7057f747e6dfa3baa0bc702ca469bc9c23ca2a0d0f1ca3ecba627"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/su/_settings.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/su/_settings.scss",
+    "bytes": 1327,
+    "sha256": "0e495d4ff339878692fb73c41e6df642babbe2446b905379cb0506022257e3a1"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/su/_utilities.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/su/_utilities.scss",
+    "bytes": 1954,
+    "sha256": "dc2ca6c9232e087b56ecb83a2ebff6fad377c96cd6fa07c1dbc9b40e4f0d3ef1"
+  },
+  {
+    "original": "_sass/vendor/susy/susy/su/_validation.scss",
+    "archived": "tmp/_sass/vendor/susy/susy/su/_validation.scss",
+    "bytes": 1198,
+    "sha256": "59290ed8d7e5416765575557c06dfcc7ac86fe66c33428be9507940c1b9ce30f"
+  },
+  {
+    "original": "assets/css/academicons.css",
+    "archived": "tmp/assets/css/academicons.css",
+    "bytes": 5596,
+    "sha256": "8ddb8378dd9ab6a0e67f4ba79ecd2e3909045168ecd19111d1ce62ead3e133d5"
+  },
+  {
+    "original": "assets/css/academicons.min.css",
+    "archived": "tmp/assets/css/academicons.min.css",
+    "bytes": 4087,
+    "sha256": "0c9212a44088b2629a25bf60cd4ac0ffc7dfff6ac57cd7af9389f91782269295"
+  },
+  {
+    "original": "assets/css/collapse.css",
+    "archived": "tmp/assets/css/collapse.css",
+    "bytes": 271,
+    "sha256": "de3558705c2cb353f1ed702e3ea5b33efc19186fe5b2128f93ea52d30fd658d8"
+  },
+  {
+    "original": "assets/css/main.scss",
+    "archived": "tmp/assets/css/main.scss",
+    "bytes": 2017,
+    "sha256": "7d206f90565e31beeb336d579a854f632b2fbd00e0de2a93bd4c2ec07c81a31f"
+  },
+  {
+    "original": "assets/fonts/academicons.eot",
+    "archived": "tmp/assets/fonts/academicons.eot",
+    "bytes": 38012,
+    "sha256": "8682d641a9ad2c7f47417276608b91e9ede388ed86a59a5abb30c18be5c45f85"
+  },
+  {
+    "original": "assets/fonts/academicons.svg",
+    "archived": "tmp/assets/fonts/academicons.svg",
+    "bytes": 162502,
+    "sha256": "157fc3285ce4a3ae8ab339d3f323dba24b1a9db27539af1df1bdf5383a019a47"
+  },
+  {
+    "original": "assets/fonts/academicons.ttf",
+    "archived": "tmp/assets/fonts/academicons.ttf",
+    "bytes": 37832,
+    "sha256": "4bd6a7a0f381d58523eea0e78c0f075fae0385581ed31dac1376127fc9dfe531"
+  },
+  {
+    "original": "assets/fonts/academicons.woff",
+    "archived": "tmp/assets/fonts/academicons.woff",
+    "bytes": 37908,
+    "sha256": "40dc519d708cbb4b06ba3b0f6377e0f5972ed19464e5fd389b23102974eebf71"
+  },
+  {
+    "original": "assets/fonts/fa-brands-400.eot",
+    "archived": "tmp/assets/fonts/fa-brands-400.eot",
+    "bytes": 126428,
+    "sha256": "9158ee2ef88ea648444ba1c9fcea310baa1e5e4e5fe86e338dcd29fcb081cfc7"
+  },
+  {
+    "original": "assets/fonts/fa-brands-400.svg",
+    "archived": "tmp/assets/fonts/fa-brands-400.svg",
+    "bytes": 713576,
+    "sha256": "7aadbc4ac7f80413de00052694c1a44e0b0dbf0e2d7f739c628b88b28bb72bfa"
+  },
+  {
+    "original": "assets/fonts/fa-brands-400.ttf",
+    "archived": "tmp/assets/fonts/fa-brands-400.ttf",
+    "bytes": 126192,
+    "sha256": "dbd08d025602b79ce71910b2a68577959cbf2ef02fc664e243bf50277754fdfc"
+  },
+  {
+    "original": "assets/fonts/fa-brands-400.woff",
+    "archived": "tmp/assets/fonts/fa-brands-400.woff",
+    "bytes": 81612,
+    "sha256": "ca441c07992a7160e4d2622e78f8970c9b92f176694c8dc07592326496a801d6"
+  },
+  {
+    "original": "assets/fonts/fa-brands-400.woff2",
+    "archived": "tmp/assets/fonts/fa-brands-400.woff2",
+    "bytes": 69608,
+    "sha256": "05dbc51654b96590d176c27efbcef2cf4ac0497499a9f28b731b73eea399070c"
+  },
+  {
+    "original": "assets/fonts/fa-regular-400.eot",
+    "archived": "tmp/assets/fonts/fa-regular-400.eot",
+    "bytes": 40460,
+    "sha256": "169416887c9d3c310bf02a12eaf82269d4cf77b16af2e91745b1c152bba0061d"
+  },
+  {
+    "original": "assets/fonts/fa-regular-400.svg",
+    "archived": "tmp/assets/fonts/fa-regular-400.svg",
+    "bytes": 140249,
+    "sha256": "59dc408283c57a47d27b2a2852726f43db3285cab7e3d6297e8da7c901857f7b"
+  },
+  {
+    "original": "assets/fonts/fa-regular-400.ttf",
+    "archived": "tmp/assets/fonts/fa-regular-400.ttf",
+    "bytes": 40232,
+    "sha256": "ecb5719eb6408359d91fd2530646064a3f251aed691fd48277289cc8d6d53dfa"
+  },
+  {
+    "original": "assets/fonts/fa-regular-400.woff",
+    "archived": "tmp/assets/fonts/fa-regular-400.woff",
+    "bytes": 18112,
+    "sha256": "f101b8f70e36be2e9004222875e9fd45b263f72769c68e25e3c7525d3871728b"
+  },
+  {
+    "original": "assets/fonts/fa-regular-400.woff2",
+    "archived": "tmp/assets/fonts/fa-regular-400.woff2",
+    "bytes": 14844,
+    "sha256": "92ba7bfaa43a35c94353e96860d99376313ee9b5fce6124d4e64067280f9a841"
+  },
+  {
+    "original": "assets/fonts/fa-solid-900.eot",
+    "archived": "tmp/assets/fonts/fa-solid-900.eot",
+    "bytes": 197172,
+    "sha256": "690be61fe58020511558ce4b04375178872629f6c737ed1b332aec65855fd937"
+  },
+  {
+    "original": "assets/fonts/fa-solid-900.svg",
+    "archived": "tmp/assets/fonts/fa-solid-900.svg",
+    "bytes": 746673,
+    "sha256": "22f6af77ffeeb267c5270fa1e50681ae01a9a19f8e9ef976798e0196c941ade6"
+  },
+  {
+    "original": "assets/fonts/fa-solid-900.ttf",
+    "archived": "tmp/assets/fonts/fa-solid-900.ttf",
+    "bytes": 196952,
+    "sha256": "b97adad7ece9792af4122ae88103cad8fab54558a529c4ba79b5224c2b02ebe9"
+  },
+  {
+    "original": "assets/fonts/fa-solid-900.woff",
+    "archived": "tmp/assets/fonts/fa-solid-900.woff",
+    "bytes": 95436,
+    "sha256": "8fb19633f125ca466a45da9e4cf291d8b9519dd74c214f99dde835ef83f3ab96"
+  },
+  {
+    "original": "assets/fonts/fa-solid-900.woff2",
+    "archived": "tmp/assets/fonts/fa-solid-900.woff2",
+    "bytes": 73852,
+    "sha256": "7798165ee5a3c6809310d8261dcbe7c8d0c12d795b7b09a71af3eb86ec8f33f2"
+  },
+  {
+    "original": "assets/js/_main.js",
+    "archived": "tmp/assets/js/_main.js",
+    "bytes": 2934,
+    "sha256": "d1cafcd67d40f1c43edbed5946f9f6f64fce090ef241a467725d8a2e522cbe04"
+  },
+  {
+    "original": "assets/js/collapse.js",
+    "archived": "tmp/assets/js/collapse.js",
+    "bytes": 545,
+    "sha256": "50c837147a7517648fac3a901cb65f38d70bef3bed3f5374f849643d5183a2de"
+  },
+  {
+    "original": "assets/js/main.min.js",
+    "archived": "tmp/assets/js/main.min.js",
+    "bytes": 131018,
+    "sha256": "6d9e46dead4ff2f5cd68eb1f1312e58f7a1eff5332d12d9abe228cb7a35d76fc"
+  },
+  {
+    "original": "assets/js/plugins/jquery.fitvids.js",
+    "archived": "tmp/assets/js/plugins/jquery.fitvids.js",
+    "bytes": 3220,
+    "sha256": "6ed21976d75c5cda23d8b4ddaadea659cea365a95d49e16a85f5ee7f41814d74"
+  },
+  {
+    "original": "assets/js/plugins/jquery.greedy-navigation.js",
+    "archived": "tmp/assets/js/plugins/jquery.greedy-navigation.js",
+    "bytes": 1523,
+    "sha256": "1c17cee1abd6f9ff360b757d5be37c4b5eaf4d7ed9ed47091f5d1e5647889fa7"
+  },
+  {
+    "original": "assets/js/plugins/jquery.magnific-popup.js",
+    "archived": "tmp/assets/js/plugins/jquery.magnific-popup.js",
+    "bytes": 45671,
+    "sha256": "126ad68514f770cc32dc989eceddf38a81539e68f15229b56130063e1ee647a1"
+  },
+  {
+    "original": "assets/js/plugins/jquery.smooth-scroll.min.js",
+    "archived": "tmp/assets/js/plugins/jquery.smooth-scroll.min.js",
+    "bytes": 3499,
+    "sha256": "e32af58138714978e72d5af2cc687dc856883ba42fcac80350408baef0ba8a16"
+  },
+  {
+    "original": "assets/js/plugins/stickyfill.min.js",
+    "archived": "tmp/assets/js/plugins/stickyfill.min.js",
+    "bytes": 5672,
+    "sha256": "d354f58e183ed80cfd5f1e23cc3eba3913c3cc9b5e16ceef19adea6b68560336"
+  },
+  {
+    "original": "assets/js/vendor/jquery/jquery-1.12.4.min.js",
+    "archived": "tmp/assets/js/vendor/jquery/jquery-1.12.4.min.js",
+    "bytes": 97162,
+    "sha256": "8c2812ded6436715279f8fd8db58de307aa39ab0296fe3cf0e879067c51e9b18"
+  },
+  {
+    "original": "bib/nsdi_bifrost.bib",
+    "archived": "tmp/bib/nsdi_bifrost.bib",
+    "bytes": 460,
+    "sha256": "6cb206393f757f5b5e54fa32544ed8775e2cf55eac1c981f033731a9a6f3e033"
+  },
+  {
+    "original": "bib/nsdi_csgw.bib",
+    "archived": "tmp/bib/nsdi_csgw.bib",
+    "bytes": 451,
+    "sha256": "189e5be592216bd378d4c4ed7f581c4913a3f2ede440922e0b4800ec334bd83a"
+  },
+  {
+    "original": "docs/README-zh.md",
+    "archived": "tmp/docs/README-zh.md",
+    "bytes": 4632,
+    "sha256": "fa152333b66cb42168607bcfe9a26a40e8cf52ef0c28713acaefd9174f63367c"
+  },
+  {
+    "original": "docs/screenshot.png",
+    "archived": "tmp/docs/screenshot.png",
+    "bytes": 394126,
+    "sha256": "be70ae3ed4ab600e8e2a67c45e69430ad5fda519cddd0c927e62ffb57df6c9b1"
+  },
+  {
+    "original": "google_scholar_crawler/.gitignore",
+    "archived": "tmp/google_scholar_crawler/.gitignore",
+    "bytes": 1826,
+    "sha256": "3dcebebb508e8057b072c5ee510029bd156d0b5d50e5b77781421167627aad7e"
+  },
+  {
+    "original": "google_scholar_crawler/main.py",
+    "archived": "tmp/google_scholar_crawler/main.py",
+    "bytes": 802,
+    "sha256": "5df96fcf5b236b57306e1aefe69c2f5ae5fbee0e2c5ccfa8ce05e976a5a56646"
+  },
+  {
+    "original": "google_scholar_crawler/requirements.txt",
+    "archived": "tmp/google_scholar_crawler/requirements.txt",
+    "bytes": 35,
+    "sha256": "8a120e624fb4095f980270e2edc7d5f0814932b2e4cca99f50851e59e4c281d3"
+  },
+  {
+    "original": "images/.DS_Store",
+    "archived": "tmp/images/.DS_Store",
+    "bytes": 6148,
+    "sha256": "ff136b8d925c91dcafc40a7e45106967558a17633f996f60b494d2237a8d3540"
+  },
+  {
+    "original": "images/500x300.png",
+    "archived": "tmp/images/500x300.png",
+    "bytes": 1662,
+    "sha256": "979e1be830672c5888c1a8144c5b40b7244136f70028e457584ae3068f4596ae"
+  },
+  {
+    "original": "images/IAC2026.png",
+    "archived": "tmp/images/IAC2026.png",
+    "bytes": 4788,
+    "sha256": "cf69ef5224c4e36bf3206a473db257f746a618f6b8fee0bef3f39e7ccc109358"
+  },
+  {
+    "original": "images/alibaba-cloud-logo.webp",
+    "archived": "tmp/images/alibaba-cloud-logo.webp",
+    "bytes": 11328,
+    "sha256": "983f8a4a5bb6b69b2cc6b0540122d90fb85121c709d22268cb9d4247312b6746"
+  },
+  {
+    "original": "images/android-chrome-512x512.png",
+    "archived": "tmp/images/android-chrome-512x512.png",
+    "bytes": 75026,
+    "sha256": "91aae83190180ac3755775ce1ed7e52e8cc35c142880e9c4fc4ba593409ed511"
+  },
+  {
+    "original": "images/android-chrome-512x512_1.png",
+    "archived": "tmp/images/android-chrome-512x512_1.png",
+    "bytes": 29635,
+    "sha256": "96a8e26a57795636ee6901baa8c240290dc37fda159dd4384fc71ec34bbd6b32"
+  },
+  {
+    "original": "images/apnet2025.png",
+    "archived": "tmp/images/apnet2025.png",
+    "bytes": 211541,
+    "sha256": "e79d3624317aed6bc1f88fa112301e370bcd640ba4cc386fb773487bf5c1062b"
+  },
+  {
+    "original": "images/apnet2026.png",
+    "archived": "tmp/images/apnet2026.png",
+    "bytes": 1529522,
+    "sha256": "9924d687407572ecbe7e0aea77d2d0c045df614ea04ec33e021590465f02bd82"
+  },
+  {
+    "original": "images/cornucopia.png",
+    "archived": "tmp/images/cornucopia.png",
+    "bytes": 297649,
+    "sha256": "1a5c8a3288b3560732c614355e6f048966ea99cc6850bb5c6bad14fa8af51b08"
+  },
+  {
+    "original": "images/expand/alibabacloud.png",
+    "archived": "tmp/images/expand/alibabacloud.png",
+    "bytes": 35669,
+    "sha256": "68b9885dd013736cd244fe485dbd837f914bb7f7a778dcdeb74ca344e1200c2b"
+  },
+  {
+    "original": "images/expand/bupt.png",
+    "archived": "tmp/images/expand/bupt.png",
+    "bytes": 504707,
+    "sha256": "9f7130c28af82e1eeb314ac1e8f716a73210bb519467dfa287c39fbce3e11af4"
+  },
+  {
+    "original": "images/expand/hunyuan.png",
+    "archived": "tmp/images/expand/hunyuan.png",
+    "bytes": 91377,
+    "sha256": "5bb07808460ad4b223340254cc0535016b1ac73a64599a0692b27e5a512e100d"
+  },
+  {
+    "original": "images/expand/pku.png",
+    "archived": "tmp/images/expand/pku.png",
+    "bytes": 43560,
+    "sha256": "895c6c562044d776bc142386ff782de66b75990fce33553e2305cc96b2245a94"
+  },
+  {
+    "original": "images/expand/qwen.png",
+    "archived": "tmp/images/expand/qwen.png",
+    "bytes": 127137,
+    "sha256": "f76d090f73ca1c952bfd32ab3cada0ba856cf3e9351069f9983a8246cc5c0b0e"
+  },
+  {
+    "original": "images/expand/seed.png",
+    "archived": "tmp/images/expand/seed.png",
+    "bytes": 22601,
+    "sha256": "f6f7668bada5c08b5a92584c87bfd124487427d28ff2770c9cc57d477f7d1e7f"
+  },
+  {
+    "original": "images/expand/sjtu.png",
+    "archived": "tmp/images/expand/sjtu.png",
+    "bytes": 153913,
+    "sha256": "69d41da3769ad291fcfaa67550363181b758040f6d5fba509f4a3a06e1ebe7a3"
+  },
+  {
+    "original": "images/news_image/alibabacloud.png",
+    "archived": "tmp/images/news_image/alibabacloud.png",
+    "bytes": 35669,
+    "sha256": "68b9885dd013736cd244fe485dbd837f914bb7f7a778dcdeb74ca344e1200c2b"
+  },
+  {
+    "original": "images/nice_pic/HyDra.png",
+    "archived": "tmp/images/nice_pic/HyDra.png",
+    "bytes": 890731,
+    "sha256": "6bf2873bf5770903e45a77b519ac22aa646670eede7b270278f79269028658c7"
+  },
+  {
+    "original": "images/nice_pic/SC26-real.png",
+    "archived": "tmp/images/nice_pic/SC26-real.png",
+    "bytes": 610063,
+    "sha256": "c63b212d61c40ac2aad8163cb8acf46b8c319dbc5e1978a42ebd8c51a14ccd2e"
+  },
+  {
+    "original": "images/nice_pic/apnet25-bifrost.png",
+    "archived": "tmp/images/nice_pic/apnet25-bifrost.png",
+    "bytes": 606822,
+    "sha256": "3d9618b3defc79b7331847f5f32e97c627a1904c3434dea4f26b7097a112df7a"
+  },
+  {
+    "original": "images/nice_pic/apnet26-mcpgw.png",
+    "archived": "tmp/images/nice_pic/apnet26-mcpgw.png",
+    "bytes": 805041,
+    "sha256": "c5792466877c01abb0bd125924313403060aefad668b1516cf7599cabf275953"
+  },
+  {
+    "original": "images/nice_pic/apnet26-nicmode.png",
+    "archived": "tmp/images/nice_pic/apnet26-nicmode.png",
+    "bytes": 662180,
+    "sha256": "e474a976de2ee35fbc3e26bfa19a142babbbc36128512050ff413c8bde873e9b"
+  },
+  {
+    "original": "images/nice_pic/apnet26-paraflowo.png",
+    "archived": "tmp/images/nice_pic/apnet26-paraflowo.png",
+    "bytes": 563415,
+    "sha256": "88affd730793320830526239ce090e8f7cd641fe1a37ecf0cfcfdc5ee5782332"
+  },
+  {
+    "original": "images/nice_pic/nsdi26-bifrost.png",
+    "archived": "tmp/images/nice_pic/nsdi26-bifrost.png",
+    "bytes": 1101568,
+    "sha256": "b744a26b7fe6d2e184dbdf893f8b0e69d472b903acf5aef9ad76eed777d4f225"
+  },
+  {
+    "original": "images/nice_pic/nsdi26-csgw.png",
+    "archived": "tmp/images/nice_pic/nsdi26-csgw.png",
+    "bytes": 684542,
+    "sha256": "588a955c38a7d7c7b1850f50445c972c55dabab9117b453a89c0a95fccf6a1ac"
+  },
+  {
+    "original": "images/nice_pic/preprint-cornucopia.png",
+    "archived": "tmp/images/nice_pic/preprint-cornucopia.png",
+    "bytes": 381281,
+    "sha256": "0cddef46b62195a40e2f358893059f0fe49a4c2afa84fbe8a015136d8f27c2ce"
+  },
+  {
+    "original": "images/nice_pic/preprint-mcpgw.png",
+    "archived": "tmp/images/nice_pic/preprint-mcpgw.png",
+    "bytes": 559423,
+    "sha256": "d701cf333465ad414dbe41151744a8698100fbdaeebe195fd50f27d8d1f81aa7"
+  },
+  {
+    "original": "images/nice_pic/preprint-sibyl.png",
+    "archived": "tmp/images/nice_pic/preprint-sibyl.png",
+    "bytes": 671304,
+    "sha256": "165946b3500712aee242062b68b7c9e0e432f2d37de709c947703c0209061003"
+  },
+  {
+    "original": "images/nsdi26.png",
+    "archived": "tmp/images/nsdi26.png",
+    "bytes": 30705,
+    "sha256": "83c64903bdfd68f2d711c2688dd4d85d98785bb19596d88b0c78e2ef66a322c9"
+  },
+  {
+    "original": "images/real.jpg",
+    "archived": "tmp/images/real.jpg",
+    "bytes": 490996,
+    "sha256": "3feb683f11a985a5c3ac638bfdd355ce37f1465215058b7d67ea3eb910d283fa"
+  },
+  {
+    "original": "images/savely-org.jpg",
+    "archived": "tmp/images/savely-org.jpg",
+    "bytes": 25557,
+    "sha256": "d1b5fc499b1f92cd3bd2c021bb1dd4a3a3a2c63458a7191f812cac43d404b3c8"
+  },
+  {
+    "original": "images/sc26.png",
+    "archived": "tmp/images/sc26.png",
+    "bytes": 20822,
+    "sha256": "9e2193dac521231ead01667ba060e1cac451c7476f6d021f6274d71bb40b8bac"
+  },
+  {
+    "original": "images/sibyl.png",
+    "archived": "tmp/images/sibyl.png",
+    "bytes": 135155,
+    "sha256": "8c8314fa4839a5f94c26f04765938c8d2ab9454cf3cc53c7c80d35f4a2f1bad4"
+  },
+  {
+    "original": "images/zihao.jpg",
+    "archived": "tmp/images/zihao.jpg",
+    "bytes": 1374559,
+    "sha256": "9d71b2adb6eb2b3e141abd826301f39003a6888d76abe4da7ac81319440d7dbf"
+  },
+  {
+    "original": "pubs/.DS_Store",
+    "archived": "tmp/pubs/.DS_Store",
+    "bytes": 6148,
+    "sha256": "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3"
+  },
+  {
+    "original": "pubs/Cornucopia_JPDC_Revised_Manuscript.pdf",
+    "archived": "tmp/pubs/Cornucopia_JPDC_Revised_Manuscript.pdf",
+    "bytes": 1131255,
+    "sha256": "50d8d5f9495437be15b2752e08faf55496f5c24c39f3254387323eb14ecf4796"
+  },
+  {
+    "original": "pubs/ICML_26_SIBYL__Speculative_Inference_Balancing_for_XpYd_Scheduling_in_Disaggregated_LLM_Serving.pdf",
+    "archived": "tmp/pubs/ICML_26_SIBYL__Speculative_Inference_Balancing_for_XpYd_Scheduling_in_Disaggregated_LLM_Serving.pdf",
+    "bytes": 1589525,
+    "sha256": "73feb757ee1cce5a7bcca3eb869e2e426cd94ee558143e6b5ec5ac33239e3e37"
+  },
+  {
+    "original": "pubs/NSDI_26_Bifrost__Alibaba_s_Next_Generation_VPC_Network_with_High_Performance_Multipath_Reliable_Transport.pdf",
+    "archived": "tmp/pubs/NSDI_26_Bifrost__Alibaba_s_Next_Generation_VPC_Network_with_High_Performance_Multipath_Reliable_Transport.pdf",
+    "bytes": 1714236,
+    "sha256": "a2e7adc8847364bc1b69f5ab9d8fa244394a38e4105502fc09f583f66e4945de"
+  },
+  {
+    "original": "pubs/nsdi26fall-final14.pdf",
+    "archived": "tmp/pubs/nsdi26fall-final14.pdf",
+    "bytes": 1783393,
+    "sha256": "77aee2fafa0c2acff43652a455f2c9a4826d5cc33e77b3b2719f86073b8aa3be"
+  }
+]

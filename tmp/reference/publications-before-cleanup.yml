@@ -4,6 +4,7 @@
   authors: "**Zihao Fan**, Yunzhuo Liu, Bo Jiang, Changgang Zheng, Lin Zheng, Ray Ying, Key Zhang"
   venue: "**Preprint**, 2026"
   badge: "Preprint"
+  image: "/images/nice_pic/HyDra.png"
   links: [{"label": "Paper", "url": "/pubs/HyDra.pdf"}]
 
 - id: "bds26-lunar-navigation"
@@ -24,6 +25,7 @@
   venue: "*The 2026 ACM SIGOPS Annual Technical Conference* (**ATC'26, Shatin, Hong Kong**)"
   badge: "ATC 2026"
   year: 2026
+  image: "/images/nice_pic/preprint-mcpgw.png"
   links: [{"label": "Paper", "url": "https://arxiv.org/pdf/2607.15593"}, {"label": "Link", "url": "https://arxiv.org/abs/2607.15593"}, {"label": "BibTeX", "url": "/bib/arxiv_mcpgw_bib.txt"}]
   notes: "[CCF A] [Acceptance Rate: 135/973=13.9%]"
 
@@ -33,6 +35,7 @@
   venue: "*Journal of Parallel and Distributed Computing* (**JPDC**)"
   badge: "JPDC"
   year: 2026
+  image: "/images/nice_pic/preprint-cornucopia.png"
   links: [{"label": "Paper", "url": "/pubs/jpdc-cornucopia.pdf"}, {"label": "Link", "url": "https://www.sciencedirect.com/science/article/pii/S0743731526001127"}, {"label": "BibTeX", "url": "/bib/jpdc_cornucopia_bib.txt"}]
   notes: "[CCF B] [JCR Q1] [IF: 4.0]"
 
@@ -42,6 +45,7 @@
   venue: "*The 2026 International Conference for High Performance Computing, Networking, Storage, and Analysis* (**SC'26, Chicago, USA**)"
   badge: "SC 2026"
   year: 2026
+  image: "/images/nice_pic/SC26-real.png"
   links: [{"label": "Paper", "url": "/pubs/SC26-Real-DGNN-training.pdf"}]
   notes: "[CCF A] [Acceptance Rate: 147/769=19.2%]"
 
@@ -51,6 +55,7 @@
   venue: "*The 2026 ACM SIGCOMM Asia-Pacific Workshop on Networking* (**APNet'26 Poster, Singapore**)"
   badge: "APNet 2026"
   year: 2026
+  image: "/images/nice_pic/apnet26-mcpgw.png"
   links: [{"label": "Paper", "url": "/pubs/apnet26-mingxinli.pdf"}, {"label": "Link", "url": "https://dl.acm.org/doi/10.1145/3820441.3821235"}, {"label": "BibTeX", "url": "/bib/apnet26_mcpgw.txt"}]
 
 - id: "iac2026"
@@ -59,6 +64,7 @@
   venue: "*The 2026 International Astronautical Congress* (**IAC'26, Antalya**)"
   badge: "IAC 2026"
   year: 2026
+  image: "/images/IAC2026.png"
   links: []
   notes: "[Selected from 8,300+ submissions from 108 countries]"
 
@@ -68,6 +74,7 @@
   venue: "*The 2026 ACM SIGCOMM Asia-Pacific Workshop on Networking* (**APNet'26, Singapore**)"
   badge: "APNet 2026"
   year: 2026
+  image: "/images/nice_pic/apnet26-nicmode.png"
   links: [{"label": "Paper", "url": "/pubs/apnet26-yinhewang.pdf"}, {"label": "Link", "url": "https://dl.acm.org/doi/10.1145/3820441.3820459"}, {"label": "BibTeX", "url": "/bib/apnet26_nicmode.txt"}]
   notes: "[CCF C] [Acceptance Rate: 39/147=26.5%]"
 
@@ -77,6 +84,7 @@
   venue: "*The 2026 ACM SIGCOMM Asia-Pacific Workshop on Networking* (**APNet'26, Singapore**)"
   badge: "APNet 2026"
   year: 2026
+  image: "/images/nice_pic/apnet26-paraflowo.png"
   links: [{"label": "Paper", "url": "/pubs/apnet26-changgangzheng.pdf"}, {"label": "Link", "url": "https://dl.acm.org/doi/10.1145/3820441.3820442"}, {"label": "BibTeX", "url": "/bib/apnet26_parao.txt"}]
   notes: "[CCF C] [Acceptance Rate: 39/147=26.5%]"
 
@@ -86,6 +94,7 @@
   venue: "*The 2026 USENIX Symposium on Networked Systems Design and Implementation* (**NSDI'26, Renton, USA**)"
   badge: "NSDI 2026"
   year: 2026
+  image: "/images/nice_pic/nsdi26-bifrost.png"
   links: [{"label": "Paper", "url": "https://www.usenix.org/system/files/nsdi26-fan.pdf"}, {"label": "Link", "url": "https://www.usenix.org/conference/nsdi26/presentation/fan"}, {"label": "BibTeX", "url": "/bib/nsdi26_bifrost_bib.txt"}]
   notes: "[CCF A] [Acceptance Rate: 100/452=22.1%]"
 
@@ -95,6 +104,7 @@
   venue: "*The 2026 USENIX Symposium on Networked Systems Design and Implementation* (**NSDI'26, Renton, USA**)"
   badge: "NSDI 2026"
   year: 2026
+  image: "/images/nice_pic/nsdi26-csgw.png"
   links: [{"label": "Paper", "url": "https://www.usenix.org/system/files/nsdi26-li-haonan.pdf"}, {"label": "Link", "url": "https://www.usenix.org/conference/nsdi26/presentation/li-haonan"}, {"label": "BibTeX", "url": "/bib/nsdi26_csgw_bib.txt"}]
   notes: "[CCF A] [Acceptance Rate: 100/452=22.1%]"
 
@@ -104,6 +114,7 @@
   venue: "*The 2025 ACM SIGCOMM Asia-Pacific Workshop on Networking* (**APNet'25, Shanghai, China**)"
   badge: "APNet 2025"
   year: 2025
+  image: "/images/nice_pic/apnet25-bifrost.png"
   links: [{"label": "Paper", "url": "/pubs/APNet25-Understanding.pdf"}, {"label": "Link", "url": "https://dl.acm.org/doi/10.1145/3735358.3735393"}, {"label": "BibTeX", "url": "/bib/apnet25_bifrost_bib.txt"}]
   notes: "[CCF C] [Acceptance Rate: 34/133=25.6%]"
 
@@ -112,4 +123,5 @@
   authors: "**Zihao Fan**, Changgang Zheng, Bo Jiang, Mingxin Li, Haonan Li, Xiaoqing Sun, Enge Song, Shize Zhang, Yang Song, Xing Li, and Shunmin Zhu"
   venue: "*Preprint* (**Under Review**)"
   badge: "Preprint"
+  image: "/images/nice_pic/preprint-sibyl.png"
   links: [{"label": "Paper", "url": "/pubs/ATC_26_SIBYL.pdf"}]
