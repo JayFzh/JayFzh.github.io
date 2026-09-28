@@ -1,10 +1,10 @@
 # Newest first. Only entries marked selected: true appear on the homepage.
-- date: "2026.10"
-  text: "Joined the **Alibaba Qwen Infra Team** as a Research Intern."
-  selected: true
-  image: "/images/news_image/qwen.png"
-  image_alt: "Alibaba Qwen"
-  description: "Working on large-scale pre-training of multimodal large language models."
+# - date: "2026.10"
+#   text: "Joined the **Alibaba Qwen Infra Team** as a Research Intern."
+#   selected: true
+#   image: "/images/news_image/qwen.png"
+#   image_alt: "Alibaba Qwen"
+#   description: "Working on large-scale pre-training of multimodal large language models."
 
 - date: "2026.09"
   text: "Our paper (\"MCP Gateway\") has been accepted by **ATC 2026**!"
