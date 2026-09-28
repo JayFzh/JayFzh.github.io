@@ -56,10 +56,10 @@
 - id: "iac2026"
   title: "Diana: A Satellite-Based Lunar Time and Frequency System"
   authors: "Changgang Zheng, Luyuan Wang, Jionghui Li, Haonan Li, **Zihao Fan**, Mingxin Li, Bo Jiang, Tian Pan, and Jinjun Zheng"
-  venue: "*The 2026 International Astronautical Congress* (**IAC'26, Antalya**)"
+  venue: "*The 2026 International Astronautical Congress* (**IAC'26, Antalya, Türkiye**)"
   badge: "IAC 2026"
   year: 2026
-  links: []
+  links: [{"label": "Paper", "url": "/pubs/diana.pdf"}, {"label": "BibTeX", "url": "/bib/iac26-diana.txt"}]
   notes: "[Selected from 8,300+ submissions from 108 countries]"
 
 - id: "apnet26-nicmode"

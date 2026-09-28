@@ -1,0 +1,8 @@
+@inproceedings{zheng2026diana,
+  title     = {{Diana: A Satellite-Based Lunar Time and Frequency System}},
+  author    = {Zheng, Changgang and Wang, Luyuan and Li, Jionghui and Li, Haonan and Fan, Zihao and Li, Mingxin and Jiang, Bo and Pan, Tian and Zheng, Jinjun},
+  booktitle = {Proceedings of the 77th International Astronautical Congress (IAC 2026)},
+  year      = {2026},
+  address   = {Antalya, T\"urkiye},
+  note      = {Paper IAC-26-A5-IPB-14-x107030}
+}
