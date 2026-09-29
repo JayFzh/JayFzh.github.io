@@ -1,0 +1,9 @@
+@misc{fan2026hydrademystifyingtaming,
+      title={HyDra: Demystifying and Taming Dynamic Context Parallelism at Production Scale}, 
+      author={Zihao Fan and Yunzhuo Liu and Bo Jiang and Changgang Zheng and Lin Zheng and Ray Ying and Key Zhang},
+      year={2026},
+      eprint={2609.34318},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC},
+      url={https://arxiv.org/abs/2609.34318}, 
+}

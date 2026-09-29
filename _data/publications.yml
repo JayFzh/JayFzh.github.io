@@ -4,7 +4,7 @@
   authors: "**Zihao Fan**, Yunzhuo Liu, Bo Jiang, Changgang Zheng, Lin Zheng, Ray Ying, Key Zhang"
   venue: "**Preprint**, 2026"
   badge: "Preprint"
-  links: [{"label": "Paper", "url": "/pubs/HyDra.pdf"}]
+  links: [{"label": "Paper", "url": "https://arxiv.org/pdf/2609.34318"}, {"label": "Link", "url": "https://arxiv.org/abs/2609.34318"}, {"label": "BibTeX", "url": "/bib/arxiv_hydra_bib.txt"}]
 
 - id: "bds26-lunar-navigation"
   title: "Toward Lunar Satellite Navigation: System Design and Key Technologies"
