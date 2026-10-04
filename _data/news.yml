@@ -1,10 +1,10 @@
 # Newest first. Only entries marked selected: true appear on the homepage.
-# - date: "2026.10"
-#   text: "Joined the **Alibaba Qwen Infra Team** as a Research Intern."
-#   selected: true
-#   image: "/images/news_image/qwen.png"
-#   image_alt: "Alibaba Qwen"
-#   description: "Working on large-scale pre-training of multimodal large language models."
+- date: "2026.10"
+  text: "Joined the **Alibaba Qwen Pretrain Infra Team** as a Research Intern."
+  selected: true
+  image: "/images/news_image/qwen.png"
+  image_alt: "Alibaba Qwen"
+  description: "Working on large-scale pre-training of multimodal large language models."
 
 - date: "2026.09"
   text: "Our paper (\"MCP Gateway\") has been accepted by **ATC 2026**!"
@@ -29,13 +29,6 @@
 
 - date: "2026.05"
   text: "Our paper (\"MCP Gateway\") has been accepted by **APNet** 2026 as a poster!"
-
-- date: "2026.05"
-  text: "Our paper (\"Diana\") has been accepted by **IAC 2026**!"
-  selected: true
-  image: "/images/news_image/iac26.png"
-  image_alt: "IAC 2026"
-  papers: [{"id": "iac2026", "label": "Diana"}]
 
 - date: "2026.04"
   text: "Two papers have been accepted by **APNet 2026**!"

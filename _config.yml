@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zihao Fan's Homepage"
-description              : "Research intern @ Tencent TEG Hunyuan AI Infra, focusing on LLM pre-training."
+description              : "Research intern @ Alibaba Qwen Pretrain Infra, focusing on LLM pre-training."
 url                      : "https://jayfzh.github.io"
 baseurl                  : ""
 repository               : "JayFzh/JayFzh.github.io"
